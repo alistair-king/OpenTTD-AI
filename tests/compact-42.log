@@ -1,0 +1,15 @@
+[2026-10-07 17:46:06] dbg: [script:4] [0] [I] Downgrading API to be compatible with version 14
+[2026-10-07 17:46:06] dbg: [script:4] [0] [I] Coal: planning Printown Coal Mine -> Printown Power Station
+[2026-10-07 17:46:06] dbg: [script:4] [0] [I] Planning: limiting this connection to 1200 AI ticks.
+[2026-10-07 17:46:06] dbg: [script:4] [0] [I] Station fallback: no two-platform site; trying a permanent one-train line.
+[2026-10-07 17:46:06] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-07 17:46:06] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=39033, target=39060
+[2026-10-07 17:46:06] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=200, queued=171, rejected rail tests=2, elapsed ticks=51
+[2026-10-07 17:46:06] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: path found, states=276, elapsed ticks=69
+[2026-10-07 17:46:06] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-10-07 17:46:06] dbg: [script:4] [0] [I] Approach depot verified: Route index=18, route length=34
+[2026-10-07 17:46:06] dbg: [script:4] [0] [I] Maintenance orders verified: station A, station B, depot.
+[2026-10-07 17:46:06] dbg: [script:4] [0] [I] Train 10 is rolling. Carriages=3, cargo=Coal, capacity=90, length=32, platform=64
+[2026-10-07 17:46:06] dbg: [script:4] [0] [I] Single-platform line commissioned; fleet permanently limited to one train.
+[2026-10-07 17:46:06] dbg: [script:4] [0] [I] Coal: service operating with 0 RIRO and 2 standard terminus stations. Train=10
+[2026-10-07 17:46:06] dbg: [script:4] [0] [I] COMPACT PASS: fallback, one-platform stations, delivery, maintenance, saved fleet cap and farm exclusion.

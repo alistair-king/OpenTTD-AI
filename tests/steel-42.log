@@ -1,0 +1,69 @@
+[2026-10-13 11:31:17] dbg: [script:4] [0] [I] Downgrading API to be compatible with version 14
+[2026-10-13 11:31:17] dbg: [script:4] [0] [I] Freight network: planning complete ore -> steel -> goods -> city chain.
+[2026-10-13 11:31:17] dbg: [script:4] [0] [I] Planning: limiting this connection to 1020 AI ticks.
+[2026-10-13 11:31:17] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-13 11:31:17] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=48517, target=49521
+[2026-10-13 11:31:17] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: path found, states=27, elapsed ticks=6
+[2026-10-13 11:31:17] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-10-13 11:31:17] dbg: [script:4] [0] [I] First track built; now planning the return track.
+[2026-10-13 11:31:17] dbg: [script:4] [0] [I] Pathfinder: Track 2 narrow corridor, start=48518, target=49777
+[2026-10-13 11:31:17] dbg: [script:4] [0] [I] Pathfinder: Track 2 narrow corridor: path found, states=102, elapsed ticks=26
+[2026-10-13 11:31:17] dbg: [script:4] [0] [I] RIRO: separate entrance fan and return track verified.
+[2026-10-13 11:31:17] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-10-13 11:31:17] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-10-13 11:31:17] dbg: [script:4] [0] [I] Overlapping X crossovers verified at both stations.
+[2026-10-13 11:31:17] dbg: [script:4] [0] [I] Station entrances verified: two crossovers and four platform path signals.
+[2026-10-13 11:31:17] dbg: [script:4] [0] [I] Approach depot verified: Route index=10, route length=27
+[2026-10-13 11:31:17] dbg: [script:4] [0] [I] Immediate post-crossover departure signal verified on left-hand track.
+[2026-10-13 11:31:17] dbg: [script:4] [0] [I] Immediate post-crossover departure signal verified on left-hand track.
+[2026-10-13 11:31:17] dbg: [script:4] [0] [I] Depot approaches verified: signals on both sides of the junction.
+[2026-10-13 11:31:17] dbg: [script:4] [0] [I] Left-hand one-way running signals verified: count=12, spacing=5
+[2026-10-13 11:31:17] dbg: [script:4] [0] [I] RIRO: separate entrance fan and return track verified.
+[2026-10-13 11:31:17] dbg: [script:4] [0] [I] Station A: roll-in roll-out loop built.
+[2026-10-13 11:31:17] dbg: [script:4] [0] [I] RIRO: separate entrance fan and return track verified.
+[2026-10-13 11:31:17] dbg: [script:4] [0] [I] Station B: roll-in roll-out loop built.
+[2026-10-13 11:31:17] dbg: [script:4] [0] [I] Maintenance orders verified: station A, station B, depot.
+[2026-10-13 11:31:17] dbg: [script:4] [0] [I] Train 10 is rolling. Carriages=3, cargo=Iron Ore, capacity=90, length=32, platform=64
+[2026-10-13 11:31:17] dbg: [script:4] [0] [I] Dual RIRO: delivery service commissioned; shared pickup platforms ready for the next cargo leg.
+[2026-10-13 11:31:17] dbg: [script:4] [0] [I] Two platforms and two connected tracks verified; station crossovers provide depot access.
+[2026-10-13 11:31:17] dbg: [script:4] [0] [I] Iron ore: service operating with 2 RIRO and 0 standard terminus stations. Train=10
+[2026-10-13 11:31:17] dbg: [script:4] [0] [I] Freight network: retaining usable route with no future junction sites; shared-track expansion may need a separate route.
+[2026-10-13 11:31:17] dbg: [script:4] [0] [I] Freight network: two-track IORE backbone commissioned; junction candidates=0
+[2026-10-13 11:31:17] dbg: [script:4] [0] [I] Freight network: prioritising next link for Steel.
+[2026-10-13 11:31:17] dbg: [script:4] [0] [I] SteelDelivery: no siblings
+[2026-10-13 11:31:17] dbg: [script:4] [0] [I] Steel: planning a separate steel mill -> factory route.
+[2026-10-13 11:31:17] dbg: [script:4] [0] [I] Planning: extended budget for an existing cargo chain's onward leg.
+[2026-10-13 11:31:17] dbg: [script:4] [0] [I] Planning: limiting this connection to 10200 AI ticks.
+[2026-10-13 11:31:17] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-13 11:31:17] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=48748, target=47169
+[2026-10-13 11:31:17] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: path found, states=148, elapsed ticks=38
+[2026-10-13 11:31:17] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-10-13 11:31:17] dbg: [script:4] [0] [I] First track built; now planning the return track.
+[2026-10-13 11:31:17] dbg: [script:4] [0] [I] Pathfinder: Track 2 narrow corridor, start=49004, target=47425
+[2026-10-13 11:31:17] dbg: [script:4] [0] [I] Pathfinder progress: Track 2 narrow corridor, states=197, queued=7, rejected rail tests=2, elapsed ticks=48
+[2026-10-13 11:31:17] dbg: [script:4] [0] [I] Pathfinder: Track 2 narrow corridor: no path in search area, states=225, elapsed ticks=53
+[2026-10-13 11:31:17] dbg: [script:4] [0] [I] Pathfinder: Track 2 full search, start=49004, target=47425
+[2026-10-13 11:31:17] dbg: [script:4] [0] [I] Pathfinder progress: Track 2 full search, states=194, queued=69, rejected rail tests=0, elapsed ticks=54
+[2026-10-13 11:31:17] dbg: [script:4] [0] [I] Pathfinder progress: Track 2 full search, states=1188, queued=218, rejected rail tests=1, elapsed ticks=279
+[2026-10-13 11:31:17] dbg: [script:4] [0] [I] Pathfinder progress: Track 2 full search, states=2185, queued=417, rejected rail tests=5, elapsed ticks=516
+[2026-10-13 11:31:17] dbg: [script:4] [0] [I] Pathfinder: Track 2 full search: path found, states=2519, elapsed ticks=596
+[2026-10-13 11:31:17] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-10-13 11:31:17] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-10-13 11:31:17] dbg: [script:4] [0] [I] Overlapping X crossovers verified at both stations.
+[2026-10-13 11:31:17] dbg: [script:4] [0] [I] Station entrances verified: two crossovers and four platform path signals.
+[2026-10-13 11:31:17] dbg: [script:4] [0] [I] Approach depot verified: Route index=34, route length=52
+[2026-10-13 11:31:17] dbg: [script:4] [0] [I] Immediate post-crossover departure signal verified on left-hand track.
+[2026-10-13 11:31:17] dbg: [script:4] [0] [I] Immediate post-crossover departure signal verified on left-hand track.
+[2026-10-13 11:31:17] dbg: [script:4] [0] [I] Depot approaches verified: signals on both sides of the junction.
+[2026-10-13 11:31:17] dbg: [script:4] [0] [I] Left-hand one-way running signals verified: count=22, spacing=5
+[2026-10-13 11:31:17] dbg: [script:4] [0] [I] RIRO: separate entrance fan and return track verified.
+[2026-10-13 11:31:17] dbg: [script:4] [0] [I] Station A: roll-in roll-out loop built.
+[2026-10-13 11:31:17] dbg: [script:4] [0] [I] RIRO: separate entrance fan and return track verified.
+[2026-10-13 11:31:17] dbg: [script:4] [0] [I] Station B: roll-in roll-out loop built.
+[2026-10-13 11:31:17] dbg: [script:4] [0] [I] Maintenance orders verified: station A, station B, depot.
+[2026-10-13 11:31:17] dbg: [script:4] [0] [I] Train 23 is rolling. Carriages=3, cargo=Steel, capacity=60, length=32, platform=64
+[2026-10-13 11:31:17] dbg: [script:4] [0] [I] Steel: shared mill pickup section and factory service commissioned; goods outlet is next.
+[2026-10-13 11:31:17] dbg: [script:4] [0] [I] Dual RIRO: onward service now uses the shared station's separate pickup section.
+[2026-10-13 11:31:17] dbg: [script:4] [0] [I] Two platforms and two connected tracks verified; station crossovers provide depot access.
+[2026-10-13 11:31:17] dbg: [script:4] [0] [I] Steel: service operating with 2 RIRO and 0 standard terminus stations. Train=23
+[2026-10-13 11:31:18] dbg: [script:4] [0] [I] STEEL PASS: ore supplies mill; independent single-track steel train delivers to factory, services own depot, saves, and enables goods continuation without junctions.

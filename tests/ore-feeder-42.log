@@ -1,0 +1,4 @@
+[2026-10-13 10:05:23] dbg: [script:4] [0] [I] Downgrading API to be compatible with version 14
+[2026-10-13 10:05:23] dbg: [script:4] [0] [I] Freight network: planning additional iron ore mine -> existing steel mill station.
+[2026-10-13 10:05:23] dbg: [script:4] [0] [I] Freight network: planning additional iron ore mine -> existing steel mill station.
+[2026-10-13 10:05:23] dbg: [script:4] [0] [I] ORE FEEDER PASS: scheduling, cargo/destination, component separation, source exclusions, cooldowns and save/load.

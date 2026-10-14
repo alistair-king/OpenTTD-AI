@@ -1,0 +1,13 @@
+[2026-09-20 12:33:13] dbg: [script:4] [0] [I] Downgrading API to be compatible with version 14
+[2026-09-20 12:33:13] dbg: [script:4] [0] [I] STATE BENCH blocked=false expanded=38 ticks=10 tiles=38
+[2026-09-20 12:33:13] dbg: [script:4] [0] [I] STATE BENCH blocked=false expanded=38 ticks=10 tiles=38
+[2026-09-20 12:33:13] dbg: [script:4] [0] [I] STATE BENCH blocked=true expanded=38 ticks=9 tiles=38
+[2026-09-20 12:33:13] dbg: [script:4] [0] [I] STATE BENCH blocked=true expanded=38 ticks=9 tiles=38
+[2026-09-20 12:33:13] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=2188, target=4130
+[2026-09-20 12:33:13] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: path found, states=38, elapsed ticks=10
+[2026-09-20 12:33:13] dbg: [script:4] [0] [I] Pathfinder: Track 2 narrow corridor, start=2316, target=4258
+[2026-09-20 12:33:13] dbg: [script:4] [0] [I] Pathfinder progress: Track 2 narrow corridor, states=200, queued=15, rejected rail tests=0, elapsed ticks=48
+[2026-09-20 12:33:13] dbg: [script:4] [0] [I] Pathfinder: Track 2 narrow corridor: path found, states=204, elapsed ticks=49
+[2026-09-20 12:33:13] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-09-20 12:33:13] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-09-20 12:33:13] dbg: [script:4] [0] [I] STATE PASS: shared tiles=1, separate rail pieces, opposing one-way signals and independent removal.

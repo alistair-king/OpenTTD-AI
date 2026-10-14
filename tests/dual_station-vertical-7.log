@@ -1,0 +1,63 @@
+[2026-10-13 11:30:08] dbg: [script:4] [0] [I] Downgrading API to be compatible with version 14
+[2026-10-13 11:30:08] dbg: [script:4] [0] [I] DUAL orientation false pickup step=-128
+[2026-10-13 11:30:08] dbg: [script:4] [0] [I] Planning: limiting this connection to 1200 AI ticks.
+[2026-10-13 11:30:08] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-13 11:30:08] dbg: [script:4] [0] [I] RIRO: separate entrance fan and return track verified.
+[2026-10-13 11:30:08] dbg: [script:4] [0] [I] RIRO: separate entrance fan and return track verified.
+[2026-10-13 11:30:08] dbg: [script:4] [0] [I] Dual RIRO: no outlet through the shared pickup after 3 attempts; separate stations take over for a year.
+[2026-10-13 11:30:08] dbg: [script:4] [0] [I] RIRO: separate entrance fan and return track verified.
+[2026-10-13 11:30:08] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=2205, target=4125
+[2026-10-13 11:30:08] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: path found, states=16, elapsed ticks=4
+[2026-10-13 11:30:08] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-10-13 11:30:08] dbg: [script:4] [0] [I] First track built; now planning the return track.
+[2026-10-13 11:30:08] dbg: [script:4] [0] [I] Pathfinder: Track 2 narrow corridor, start=2206, target=4126
+[2026-10-13 11:30:08] dbg: [script:4] [0] [I] Pathfinder: Track 2 narrow corridor: path found, states=28, elapsed ticks=9
+[2026-10-13 11:30:08] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-10-13 11:30:08] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-10-13 11:30:08] dbg: [script:4] [0] [I] Overlapping X crossovers verified at both stations.
+[2026-10-13 11:30:08] dbg: [script:4] [0] [I] Station entrances verified: two crossovers and four platform path signals.
+[2026-10-13 11:30:08] dbg: [script:4] [0] [I] RIRO: separate entrance fan and return track verified.
+[2026-10-13 11:30:08] dbg: [script:4] [0] [I] Station A: roll-in roll-out loop built.
+[2026-10-13 11:30:08] dbg: [script:4] [0] [I] RIRO: separate entrance fan and return track verified.
+[2026-10-13 11:30:08] dbg: [script:4] [0] [I] Station B: roll-in roll-out loop built.
+[2026-10-13 11:30:08] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-13 11:30:08] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=4128, target=2208
+[2026-10-13 11:30:08] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: path found, states=16, elapsed ticks=3
+[2026-10-13 11:30:08] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-10-13 11:30:08] dbg: [script:4] [0] [I] First track built; now planning the return track.
+[2026-10-13 11:30:08] dbg: [script:4] [0] [I] Pathfinder: Track 2 narrow corridor, start=4129, target=2209
+[2026-10-13 11:30:08] dbg: [script:4] [0] [I] Pathfinder: Track 2 narrow corridor: path found, states=28, elapsed ticks=9
+[2026-10-13 11:30:08] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-10-13 11:30:08] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-10-13 11:30:08] dbg: [script:4] [0] [I] Overlapping X crossovers verified at both stations.
+[2026-10-13 11:30:08] dbg: [script:4] [0] [I] Station entrances verified: two crossovers and four platform path signals.
+[2026-10-13 11:30:08] dbg: [script:4] [0] [I] RIRO: separate entrance fan and return track verified.
+[2026-10-13 11:30:08] dbg: [script:4] [0] [I] Station A: roll-in roll-out loop built.
+[2026-10-13 11:30:08] dbg: [script:4] [0] [I] RIRO: separate entrance fan and return track verified.
+[2026-10-13 11:30:08] dbg: [script:4] [0] [I] Station B: roll-in roll-out loop built.
+[2026-10-13 11:30:08] dbg: [script:4] [0] [I] RIRO: separate entrance fan and return track verified.
+[2026-10-13 11:30:08] dbg: [script:4] [0] [I] DUAL orientation true pickup step=128
+[2026-10-13 11:30:08] dbg: [script:4] [0] [I] Planning: limiting this connection to 1200 AI ticks.
+[2026-10-13 11:30:08] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-13 11:30:08] dbg: [script:4] [0] [I] RIRO: separate entrance fan and return track verified.
+[2026-10-13 11:30:08] dbg: [script:4] [0] [I] RIRO: separate entrance fan and return track verified.
+[2026-10-13 11:30:08] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=2205, target=4125
+[2026-10-13 11:30:08] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: path found, states=16, elapsed ticks=4
+[2026-10-13 11:30:08] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-10-13 11:30:08] dbg: [script:4] [0] [I] First track built; now planning the return track.
+[2026-10-13 11:30:08] dbg: [script:4] [0] [I] Pathfinder: Track 2 narrow corridor, start=2206, target=4126
+[2026-10-13 11:30:08] dbg: [script:4] [0] [I] Pathfinder: Track 2 narrow corridor: path found, states=28, elapsed ticks=9
+[2026-10-13 11:30:08] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-10-13 11:30:08] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-10-13 11:30:08] dbg: [script:4] [0] [I] Overlapping X crossovers verified at both stations.
+[2026-10-13 11:30:08] dbg: [script:4] [0] [I] Station entrances verified: two crossovers and four platform path signals.
+[2026-10-13 11:30:08] dbg: [script:4] [0] [I] RIRO: separate entrance fan and return track verified.
+[2026-10-13 11:30:08] dbg: [script:4] [0] [I] Station A: roll-in roll-out loop built.
+[2026-10-13 11:30:08] dbg: [script:4] [0] [I] RIRO: separate entrance fan and return track verified.
+[2026-10-13 11:30:08] dbg: [script:4] [0] [I] Station B: roll-in roll-out loop built.
+[2026-10-13 11:30:08] dbg: [script:4] [0] [I] Planning: limiting this connection to 1200 AI ticks.
+[2026-10-13 11:30:08] dbg: [script:4] [0] [I] Planning: extended budget for an existing cargo chain's onward leg.
+[2026-10-13 11:30:08] dbg: [script:4] [0] [I] Planning: limiting this connection to 12000 AI ticks.
+[2026-10-13 11:30:08] dbg: [script:4] [0] [I] Planning: extended budget for an existing cargo chain's onward leg.
+[2026-10-13 11:30:08] dbg: [script:4] [0] [I] Planning: limiting this connection to 16000 AI ticks.
+[2026-10-13 11:30:08] dbg: [script:4] [0] [I] DUAL STATION PASS: both facings, join, reuse, rollback, shared scan, fallback.

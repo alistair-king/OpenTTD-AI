@@ -1,0 +1,22 @@
+[2026-10-07 17:43:30] dbg: [script:4] [0] [I] Downgrading API to be compatible with version 14
+[2026-10-07 17:43:30] dbg: [script:4] [0] [I] Station search: destination-facing sides first.
+[2026-10-07 17:43:30] dbg: [script:4] [0] [I] Station search: destination-facing sides first.
+[2026-10-07 17:43:30] dbg: [script:4] [0] [I] Station search: allowing other sides as fallback.
+[2026-10-07 17:43:30] dbg: [script:4] [0] [I] Station fallback: trying one platform and a permanent one-train line.
+[2026-10-07 17:43:30] dbg: [script:4] [0] [I] Station search: destination-facing sides first.
+[2026-10-07 17:43:30] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-07 17:43:30] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=32043, target=32067
+[2026-10-07 17:43:30] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=200, queued=238, rejected rail tests=0, elapsed ticks=55
+[2026-10-07 17:43:30] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: path found, states=228, elapsed ticks=62
+[2026-10-07 17:43:30] dbg: [script:4] [0] [I] Planning completed in 64 AI ticks.
+[2026-10-07 17:43:30] dbg: [script:4] [0] [I] Selected route: tiles=35, bends=6
+[2026-10-07 17:43:30] dbg: [script:4] [0] [I] Route distances: towns=179, stations=21
+[2026-10-07 17:43:30] dbg: [script:4] [0] [I] Station passenger production coverage: A=100, B=100
+[2026-10-07 17:43:30] dbg: [script:4] [0] [I] Station distances from town centres: A=0, B=0
+[2026-10-07 17:43:30] dbg: [script:4] [0] [I] Route planned; building stations, rail and a depot.
+[2026-10-07 17:43:30] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-10-07 17:43:30] dbg: [script:4] [0] [I] Approach depot verified: Route index=19, route length=35
+[2026-10-07 17:43:30] dbg: [script:4] [0] [I] Single-platform line commissioned; fleet permanently limited to one train.
+[2026-10-07 17:43:30] dbg: [script:4] [0] [I] Maintenance orders verified: station A, station B, depot.
+[2026-10-07 17:43:30] dbg: [script:4] [0] [I] Train 9 is rolling. Carriages=2, cargo=Passengers, capacity=80, length=24, platform=64
+[2026-10-07 17:43:30] dbg: [script:4] [0] [I] COMPACT PASS: real narrow footprints, passenger fallback, circuit, saved mail/fleet cap and safe station cleanup.

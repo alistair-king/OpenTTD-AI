@@ -1,0 +1,4 @@
+[2026-09-16 17:52:37] dbg: [script:4] [0] [I] Downgrading API to be compatible with version 14
+[2026-09-16 17:52:37] dbg: [script:4] [0] [I] Iron ore: no remaining viable untried connections at the production threshold; other route types may now be planned.
+[2026-09-16 17:52:37] dbg: [script:4] [0] [I] No more town pairs look viable right now.
+[2026-09-16 17:52:37] dbg: [script:4] [0] [I] IRON PASS: no eligible mine/mill pair; passengers remain available.

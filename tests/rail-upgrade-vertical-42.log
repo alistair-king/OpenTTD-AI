@@ -1,0 +1,40 @@
+[2026-10-01 05:54:20] dbg: [script:4] [0] [I] Downgrading API to be compatible with version 14
+[2026-10-01 05:54:20] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=5662, target=10526
+[2026-10-01 05:54:20] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: path found, states=20, elapsed ticks=5
+[2026-10-01 05:54:20] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-10-01 05:54:20] dbg: [script:4] [0] [I] First track built; now planning the return track.
+[2026-10-01 05:54:20] dbg: [script:4] [0] [I] Pathfinder: Track 2 narrow corridor, start=5663, target=10527
+[2026-10-01 05:54:20] dbg: [script:4] [0] [I] Pathfinder: Track 2 narrow corridor: path found, states=48, elapsed ticks=14
+[2026-10-01 05:54:20] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-10-01 05:54:20] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-10-01 05:54:20] dbg: [script:4] [0] [I] Overlapping X crossovers verified at both stations.
+[2026-10-01 05:54:20] dbg: [script:4] [0] [I] Station entrances verified: two crossovers and four platform path signals.
+[2026-10-01 05:54:20] dbg: [script:4] [0] [I] Approach depot verified: Route index=4, route length=20
+[2026-10-01 05:54:20] dbg: [script:4] [0] [I] Immediate post-crossover departure signal verified on left-hand track.
+[2026-10-01 05:54:20] dbg: [script:4] [0] [I] Immediate post-crossover departure signal verified on left-hand track.
+[2026-10-01 05:54:20] dbg: [script:4] [0] [I] Depot approaches verified: signals on both sides of the junction.
+[2026-10-01 05:54:20] dbg: [script:4] [0] [I] Left-hand one-way running signals verified: count=10, spacing=5
+[2026-10-01 05:54:20] dbg: [script:4] [0] [I] RIRO: levelled loop land to throat height; changed corners=1
+[2026-10-01 05:54:20] dbg: [script:4] [0] [I] Station A: retaining terminus; through loop did not fit on either side.
+[2026-10-01 05:54:20] dbg: [script:4] [0] [I] RIRO: levelled loop land to throat height; changed corners=1
+[2026-10-01 05:54:20] dbg: [script:4] [0] [I] RIRO: separate entrance fan and return track verified.
+[2026-10-01 05:54:20] dbg: [script:4] [0] [I] Station B: roll-in roll-out loop built.
+[2026-10-01 05:54:20] dbg: [script:4] [0] [I] RIRO: levelled loop land to throat height; changed corners=1
+[2026-10-01 05:54:20] dbg: [script:4] [0] [I] RIRO: separate entrance fan and return track verified.
+[2026-10-01 05:54:20] dbg: [script:4] [0] [I] Station A: roll-in roll-out loop built.
+[2026-10-01 05:54:20] dbg: [script:4] [0] [I] RIRO: levelled loop land to throat height; changed corners=1
+[2026-10-01 05:54:20] dbg: [script:4] [0] [I] RIRO: separate entrance fan and return track verified.
+[2026-10-01 05:54:20] dbg: [script:4] [0] [I] Station B: roll-in roll-out loop built.
+[2026-10-01 05:54:20] dbg: [script:4] [0] [I] RIRO: levelled loop land to throat height; changed corners=1
+[2026-10-01 05:54:20] dbg: [script:4] [0] [I] RIRO: separate entrance fan and return track verified.
+[2026-10-01 05:54:20] dbg: [script:4] [0] [I] Station A: roll-in roll-out loop built.
+[2026-10-01 05:54:20] dbg: [script:4] [0] [I] RIRO: levelled loop land to throat height; changed corners=1
+[2026-10-01 05:54:20] dbg: [script:4] [0] [I] RIRO: separate entrance fan and return track verified.
+[2026-10-01 05:54:20] dbg: [script:4] [0] [I] Station B: roll-in roll-out loop built.
+[2026-10-01 05:54:20] dbg: [script:4] [0] [I] Maintenance orders verified: station A, station B, depot.
+[2026-10-01 05:54:20] dbg: [script:4] [0] [I] Train 7 is rolling. Carriages=6, cargo=Passengers, capacity=240, length=64, platform=64
+[2026-10-01 05:54:20] dbg: [script:4] [0] [I] Maintenance orders verified: station A, station B, depot.
+[2026-10-01 05:54:20] dbg: [script:4] [0] [I] Train 15 is rolling. Carriages=6, cargo=Passengers, capacity=240, length=64, platform=64
+[2026-10-01 05:54:20] dbg: [script:4] [0] [I] Rail upgrade: Electrified railway construction, converted=0, pending=89; complete-route scan includes stations, loops, junctions and depots.
+[2026-10-01 05:54:20] dbg: [script:4] [0] [I] UPGRADE PASS: large fleet save, order-change detection, legacy migration; partial starting tile, save/load, both platforms, loops and depot converted.
+[2026-10-01 05:54:20] dbg: [script:4] [0] [I] RORO PASS: through platforms, loop operation, train circuit and cleanup passed.

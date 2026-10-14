@@ -1,0 +1,4 @@
+[2026-10-10 16:54:18] dbg: [script:4] [0] [I] Downgrading API to be compatible with version 14
+[2026-10-10 16:54:19] dbg: [script:4] [0] [I] Route failed at 2570 towards Destination: No destination station site; last failure tile=-1
+[2026-10-10 16:54:19] dbg: [script:4] [0] [I] RIRO fallback at 2570: Return track not separate
+[2026-10-10 16:54:19] dbg: [script:4] [0] [I] FAILURE SIGNS PASS: old markers removed, user sign preserved, failures only logged.

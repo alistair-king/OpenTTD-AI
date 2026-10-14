@@ -1,0 +1,16 @@
+[2026-09-08 17:53:58] dbg: [script:4] [0] [I] Downgrading API to be compatible with version 14
+[2026-09-08 17:53:58] dbg: [script:4] [1] [I] Downgrading API to be compatible with version 14
+[2026-09-08 17:53:58] dbg: [script:4] [0] [I] No eligible town pairs at population 3092; lowering minimum population to 1546.
+[2026-09-08 17:53:58] dbg: [script:4] [1] [I] No eligible town pairs at population 3092; lowering minimum population to 1546.
+[2026-09-08 17:53:58] dbg: [script:4] [0] [I] No eligible town pairs at population 1546; lowering minimum population to 773.
+[2026-09-08 17:53:58] dbg: [script:4] [0] [I] No eligible town pairs at population 773; lowering minimum population to 386.
+[2026-09-08 17:53:58] dbg: [script:4] [1] [I] No eligible town pairs at population 1546; lowering minimum population to 773.
+[2026-09-08 17:53:58] dbg: [script:4] [1] [I] No eligible town pairs at population 773; lowering minimum population to 386.
+[2026-09-08 17:53:58] dbg: [script:4] [0] [I] No eligible town pairs at population 386; lowering minimum population to 193.
+[2026-09-08 17:53:58] dbg: [script:4] [1] [I] No eligible town pairs at population 386; lowering minimum population to 193.
+[2026-09-08 17:53:58] dbg: [script:4] [0] [I] No eligible town pairs at population 193; lowering minimum population to 96.
+[2026-09-08 17:53:58] dbg: [script:4] [0] [I] No eligible town pairs at population 96; lowering minimum population to 50.
+[2026-09-08 17:53:58] dbg: [script:4] [1] [I] No eligible town pairs at population 193; lowering minimum population to 96.
+[2026-09-08 17:53:58] dbg: [script:4] [1] [I] No eligible town pairs at population 96; lowering minimum population to 50.
+[2026-09-08 17:53:58] dbg: [script:4] [0] [I] POPULATION PASS: gradual relaxation, stable threshold, floor, failure memory and save/load.
+[2026-09-08 17:53:58] dbg: [script:4] [1] [I] POPULATION PASS: gradual relaxation, stable threshold, floor, failure memory and save/load.

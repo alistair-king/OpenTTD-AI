@@ -1,0 +1,31 @@
+[2026-09-08 17:36:24] dbg: [script:4] [0] [I] Downgrading API to be compatible with version 14
+[2026-09-08 17:36:24] dbg: [script:4] [0] [I] Station search: destination-facing sides first.
+[2026-09-08 17:36:24] dbg: [script:4] [0] [I] Both station sites secured before track planning.
+[2026-09-08 17:36:24] dbg: [script:4] [0] [I] Keeping target station; trying another origin near the start blockage.
+[2026-09-08 17:36:24] dbg: [script:4] [0] [I] Both station sites secured before track planning.
+[2026-09-08 17:36:24] dbg: [script:4] [0] [I] Keeping target station; trying another origin near the start blockage.
+[2026-09-08 17:36:24] dbg: [script:4] [0] [I] Station search: destination-facing sides first.
+[2026-09-08 17:36:24] dbg: [script:4] [0] [I] Both station sites secured before track planning.
+[2026-09-08 17:36:24] dbg: [script:4] [0] [I] Keeping target station; trying another origin near the start blockage.
+[2026-09-08 17:36:24] dbg: [script:4] [0] [I] Both station sites secured before track planning.
+[2026-09-08 17:36:24] dbg: [script:4] [0] [I] Keeping target station; trying another origin near the start blockage.
+[2026-09-08 17:36:24] dbg: [script:4] [0] [I] Station search: allowing other sides as fallback.
+[2026-09-08 17:36:24] dbg: [script:4] [0] [I] Station search: destination-facing sides first.
+[2026-09-08 17:36:24] dbg: [script:4] [0] [I] Both station sites secured before track planning.
+[2026-09-08 17:36:24] dbg: [script:4] [0] [I] Origin locked; keeping the first half of the explored route and trying another target.
+[2026-09-08 17:36:24] dbg: [script:4] [0] [I] Both station sites secured before track planning.
+[2026-09-08 17:36:24] dbg: [script:4] [0] [I] Origin locked; keeping the first half of the explored route and trying another target.
+[2026-09-08 17:36:24] dbg: [script:4] [0] [I] Station search: destination-facing sides first.
+[2026-09-08 17:36:24] dbg: [script:4] [0] [I] Station search: allowing other sides as fallback.
+[2026-09-08 17:36:24] dbg: [script:4] [0] [I] Station search: destination-facing sides first.
+[2026-09-08 17:36:24] dbg: [script:4] [0] [I] Both station sites secured before track planning.
+[2026-09-08 17:36:24] dbg: [script:4] [0] [I] Failure away from either endpoint; widening search before relocating stations.
+[2026-09-08 17:36:24] dbg: [script:4] [0] [I] Both station sites secured before track planning.
+[2026-09-08 17:36:24] dbg: [script:4] [0] [I] Failure away from either endpoint; widening search before relocating stations.
+[2026-09-08 17:36:24] dbg: [script:4] [0] [I] Both station sites secured before track planning.
+[2026-09-08 17:36:24] dbg: [script:4] [0] [I] Failure away from either endpoint; widening search before relocating stations.
+[2026-09-08 17:36:24] dbg: [script:4] [0] [I] Both station sites secured before track planning.
+[2026-09-08 17:36:24] dbg: [script:4] [0] [I] Failure away from either endpoint; widening search before relocating stations.
+[2026-09-08 17:36:24] dbg: [script:4] [0] [I] Station search: destination-facing sides first.
+[2026-09-08 17:36:24] dbg: [script:4] [0] [I] Station search: allowing other sides as fallback.
+[2026-09-08 17:36:24] dbg: [script:4] [0] [I] RELOCATION PASS: origin-only and target-only relocation preserve the other station; middle retries widen without rebuilding; final cleanup complete.

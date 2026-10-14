@@ -1,0 +1,102 @@
+[2026-10-14 20:30:58] dbg: [script:4] [0] [I] Downgrading API to be compatible with version 14
+[2026-10-14 20:30:58] dbg: [script:4] [0] [I] OIL PROBE: best land well produces 288 units/month
+[2026-10-14 20:30:58] dbg: [script:4] [0] [I] Oil: candidates exhausted; production requirement reduced to 75% of its original threshold.
+[2026-10-14 20:30:58] dbg: [script:4] [0] [I] Oil: no remaining viable untried connections at the production threshold; other route types may now be planned.
+[2026-10-14 20:30:58] dbg: [script:4] [0] [I] Oil: planning Trinfinghill City Oil Wells -> New Slentfield Oil Refinery
+[2026-10-14 20:30:58] dbg: [script:4] [0] [I] Planning: limiting this connection to 1020 AI ticks.
+[2026-10-14 20:30:58] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-14 20:30:58] dbg: [script:4] [0] [I] Oil: no complete freight route found for this pair.
+[2026-10-14 20:30:58] dbg: [script:4] [0] [I] Route failed at 8665 towards New Slentfield Oil Refinery: Station exits share one outbound lane; last failure tile=-1
+[2026-10-14 20:30:58] dbg: [script:4] [0] [I] Planning: deferring unsuccessful connection for 30 days (attempt 1).
+[2026-10-14 20:30:58] dbg: [script:4] [0] [I] Oil: candidates exhausted; production requirement reduced to 50% of its original threshold.
+[2026-10-14 20:30:58] dbg: [script:4] [0] [I] Oil: no remaining viable untried connections at the production threshold; other route types may now be planned.
+[2026-10-14 20:30:58] dbg: [script:4] [0] [I] Oil: candidates exhausted; production requirement reduced to 25% of its original threshold.
+[2026-10-14 20:30:58] dbg: [script:4] [0] [I] Oil: no remaining viable untried connections at the production threshold; other route types may now be planned.
+[2026-10-14 20:30:58] dbg: [script:4] [0] [I] Oil: candidates exhausted; production requirement reduced to 10% of its original threshold.
+[2026-10-14 20:30:58] dbg: [script:4] [0] [I] Oil: no remaining viable untried connections at the production threshold; other route types may now be planned.
+[2026-10-14 20:30:58] dbg: [script:4] [0] [I] Oil: no remaining viable untried connections at the production threshold; other route types may now be planned.
+[2026-10-14 20:30:58] dbg: [script:4] [0] [I] Oil: rechecking connections after the selection cooldown.
+[2026-10-14 20:30:58] dbg: [script:4] [0] [I] Oil: planning Trinfinghill City Oil Wells -> New Slentfield Oil Refinery
+[2026-10-14 20:30:58] dbg: [script:4] [0] [I] Planning: limiting this connection to 2040 AI ticks.
+[2026-10-14 20:30:58] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-14 20:30:58] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=8149, target=8553
+[2026-10-14 20:30:58] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=200, queued=281, rejected rail tests=0, elapsed ticks=58
+[2026-10-14 20:30:58] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=1200, queued=1258, rejected rail tests=4, elapsed ticks=358
+[2026-10-14 20:30:59] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=2200, queued=1438, rejected rail tests=24, elapsed ticks=627
+[2026-10-14 20:30:59] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: search budget reached, states=2800, elapsed ticks=799
+[2026-10-14 20:30:59] dbg: [script:4] [0] [I] Failure location: target, nearest target=2, search spread=111
+[2026-10-14 20:30:59] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-14 20:30:59] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=8149, target=8296
+[2026-10-14 20:30:59] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=200, queued=286, rejected rail tests=0, elapsed ticks=57
+[2026-10-14 20:30:59] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=1200, queued=1258, rejected rail tests=4, elapsed ticks=355
+[2026-10-14 20:30:59] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=2200, queued=1341, rejected rail tests=23, elapsed ticks=619
+[2026-10-14 20:30:59] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: search budget reached, states=2800, elapsed ticks=798
+[2026-10-14 20:30:59] dbg: [script:4] [0] [I] Failure location: target, nearest target=2, search spread=113
+[2026-10-14 20:30:59] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-14 20:30:59] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=7894, target=8553
+[2026-10-14 20:30:59] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=200, queued=239, rejected rail tests=0, elapsed ticks=55
+[2026-10-14 20:30:59] dbg: [script:4] [0] [I] Planning: project time budget reached; yielding to another connection.
+[2026-10-14 20:30:59] dbg: [script:4] [0] [I] Route failed at 8665 towards New Slentfield Oil Refinery: Project time budget reached; last failure tile=8367
+[2026-10-14 20:30:59] dbg: [script:4] [0] [I] Planning: deferring unsuccessful connection for 60 days (attempt 2).
+[2026-10-14 20:30:59] dbg: [script:4] [0] [I] Oil: no remaining viable untried connections at the production threshold; other route types may now be planned.
+[2026-10-14 20:30:59] dbg: [script:4] [0] [I] Oil: rechecking connections after the selection cooldown.
+[2026-10-14 20:30:59] dbg: [script:4] [0] [I] Oil: planning Trinfinghill City Oil Wells -> New Slentfield Oil Refinery
+[2026-10-14 20:30:59] dbg: [script:4] [0] [I] Planning: limiting this connection to 2040 AI ticks.
+[2026-10-14 20:30:59] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-14 20:30:59] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=8149, target=8553
+[2026-10-14 20:30:59] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=200, queued=281, rejected rail tests=0, elapsed ticks=58
+[2026-10-14 20:30:59] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=1200, queued=1258, rejected rail tests=4, elapsed ticks=358
+[2026-10-14 20:30:59] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=2200, queued=1438, rejected rail tests=24, elapsed ticks=627
+[2026-10-14 20:30:59] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=3200, queued=1911, rejected rail tests=62, elapsed ticks=916
+[2026-10-14 20:30:59] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=4200, queued=1934, rejected rail tests=76, elapsed ticks=1179
+[2026-10-14 20:30:59] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=5200, queued=1966, rejected rail tests=76, elapsed ticks=1443
+[2026-10-14 20:30:59] dbg: [script:4] [0] [I] Planning: project time budget reached; yielding to another connection.
+[2026-10-14 20:30:59] dbg: [script:4] [0] [I] Route failed at 8665 towards New Slentfield Oil Refinery: Project time budget reached; last failure tile=8641
+[2026-10-14 20:30:59] dbg: [script:4] [0] [I] Planning: deferring unsuccessful connection for 180 days (attempt 3).
+[2026-10-14 20:30:59] dbg: [script:4] [0] [I] Oil: no remaining viable untried connections at the production threshold; other route types may now be planned.
+[2026-10-14 20:30:59] dbg: [script:4] [0] [I] Oil: rechecking connections after the selection cooldown.
+[2026-10-14 20:30:59] dbg: [script:4] [0] [I] Oil: planning Trinfinghill City Oil Wells -> New Slentfield Oil Refinery
+[2026-10-14 20:30:59] dbg: [script:4] [0] [I] Planning: limiting this connection to 2040 AI ticks.
+[2026-10-14 20:30:59] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-14 20:30:59] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=8149, target=8553
+[2026-10-14 20:30:59] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=200, queued=281, rejected rail tests=0, elapsed ticks=58
+[2026-10-14 20:30:59] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=1200, queued=1257, rejected rail tests=4, elapsed ticks=356
+[2026-10-14 20:30:59] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=2200, queued=1434, rejected rail tests=24, elapsed ticks=625
+[2026-10-14 20:30:59] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=3200, queued=1905, rejected rail tests=62, elapsed ticks=914
+[2026-10-14 20:30:59] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=4200, queued=1931, rejected rail tests=75, elapsed ticks=1177
+[2026-10-14 20:30:59] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=5200, queued=1959, rejected rail tests=75, elapsed ticks=1441
+[2026-10-14 20:30:59] dbg: [script:4] [0] [I] Planning: project time budget reached; yielding to another connection.
+[2026-10-14 20:30:59] dbg: [script:4] [0] [I] Route failed at 8665 towards New Slentfield Oil Refinery: Project time budget reached; last failure tile=7357
+[2026-10-14 20:30:59] dbg: [script:4] [0] [I] Planning: deferring unsuccessful connection for 365 days (attempt 4).
+[2026-10-14 20:31:00] dbg: [script:4] [0] [I] Oil: no remaining viable untried connections at the production threshold; other route types may now be planned.
+[2026-10-14 20:31:00] dbg: [script:4] [0] [I] Oil: rechecking connections after the selection cooldown.
+[2026-10-14 20:31:00] dbg: [script:4] [0] [I] Oil: no remaining viable untried connections at the production threshold; other route types may now be planned.
+[2026-10-14 20:31:00] dbg: [script:4] [0] [I] Oil: rechecking connections after the selection cooldown.
+[2026-10-14 20:31:00] dbg: [script:4] [0] [I] Oil: no remaining viable untried connections at the production threshold; other route types may now be planned.
+[2026-10-14 20:31:00] dbg: [script:4] [0] [I] Oil: rechecking connections after the selection cooldown.
+[2026-10-14 20:31:00] dbg: [script:4] [0] [I] Oil: planning Trinfinghill City Oil Wells -> New Slentfield Oil Refinery
+[2026-10-14 20:31:00] dbg: [script:4] [0] [I] Planning: limiting this connection to 4080 AI ticks.
+[2026-10-14 20:31:00] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-14 20:31:00] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=8149, target=8553
+[2026-10-14 20:31:00] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=200, queued=281, rejected rail tests=0, elapsed ticks=58
+[2026-10-14 20:31:00] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=1200, queued=1257, rejected rail tests=4, elapsed ticks=356
+[2026-10-14 20:31:00] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=2200, queued=1434, rejected rail tests=24, elapsed ticks=625
+[2026-10-14 20:31:00] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=3200, queued=1905, rejected rail tests=62, elapsed ticks=914
+[2026-10-14 20:31:00] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=4200, queued=1931, rejected rail tests=75, elapsed ticks=1177
+[2026-10-14 20:31:00] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=5200, queued=1959, rejected rail tests=75, elapsed ticks=1441
+[2026-10-14 20:31:00] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: path found, states=6171, elapsed ticks=1698
+[2026-10-14 20:31:00] dbg: [script:4] [0] [I] Single-track planner: one main line found; return track deferred until fleet expansion.
+[2026-10-14 20:31:00] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-10-14 20:31:00] dbg: [script:4] [0] [I] Overlapping X crossovers verified at both stations.
+[2026-10-14 20:31:00] dbg: [script:4] [0] [I] Single-track station entrances verified without signals.
+[2026-10-14 20:31:00] dbg: [script:4] [0] [I] Approach depot verified: Route index=108, route length=125
+[2026-10-14 20:31:00] dbg: [script:4] [0] [I] RIRO: separate entrance fan and return track verified.
+[2026-10-14 20:31:00] dbg: [script:4] [0] [I] Station A: roll-in roll-out loop built.
+[2026-10-14 20:31:00] dbg: [script:4] [0] [I] RIRO: separate entrance fan and return track verified.
+[2026-10-14 20:31:00] dbg: [script:4] [0] [I] Station B: roll-in roll-out loop built.
+[2026-10-14 20:31:00] dbg: [script:4] [0] [I] Maintenance orders verified: station A, station B, depot.
+[2026-10-14 20:31:00] dbg: [script:4] [0] [I] Train 9 is rolling. Carriages=3, cargo=Oil, capacity=90, length=32, platform=64
+[2026-10-14 20:31:00] dbg: [script:4] [0] [I] Single main line commissioned without signals; two-platform stations retained.
+[2026-10-14 20:31:00] dbg: [script:4] [0] [I] Oil: service operating with 2 RIRO and 0 standard terminus stations. Train=9
+[2026-10-14 20:31:00] dbg: [script:4] [0] [I] Optimiser: train 9 serves a closed industry; returning to depot for sale.
+[2026-10-14 20:31:00] dbg: [script:4] [0] [I] OIL PASS: well to refinery, oil wagons, single track, delivery, maintenance and save/load.

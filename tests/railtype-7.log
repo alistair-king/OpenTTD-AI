@@ -1,0 +1,3 @@
+[2026-09-30 16:31:29] dbg: [script:4] [0] [I] Downgrading API to be compatible with version 14
+[2026-09-30 16:31:29] dbg: [script:4] [0] [I] Rail type: new independent routes will use Maglev construction.
+[2026-09-30 16:31:29] dbg: [script:4] [0] [I] RAILTYPE PASS: legacy fleet retained, new technology selected, network extensions scoped, compatible new depot/train built.

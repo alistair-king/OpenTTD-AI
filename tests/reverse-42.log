@@ -1,0 +1,5 @@
+[2026-09-07 17:37:44] dbg: [script:4] [0] [I] Downgrading API to be compatible with version 14
+[2026-09-07 17:37:44] dbg: [script:4] [0] [I] Connection failed; swapping source and destination for one reverse attempt.
+[2026-09-07 17:37:44] dbg: [script:4] [0] [I] Connection failed; swapping source and destination for one reverse attempt.
+[2026-09-07 17:37:44] dbg: [script:3] [0] [W] No route found in either direction; remembering failed connection 8 <-> 7.
+[2026-09-07 17:37:44] dbg: [script:4] [0] [I] REVERSE PASS: endpoints and competition guard swapped, state cleared, success retained, both failures remembered, cancellation respected.

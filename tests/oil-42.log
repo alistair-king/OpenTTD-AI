@@ -1,0 +1,194 @@
+[2026-10-14 20:30:53] dbg: [script:4] [0] [I] Downgrading API to be compatible with version 14
+[2026-10-14 20:30:53] dbg: [script:4] [0] [I] OIL PROBE: best land well produces 360 units/month
+[2026-10-14 20:30:53] dbg: [script:4] [0] [I] Oil: candidates exhausted; production requirement reduced to 75% of its original threshold.
+[2026-10-14 20:30:53] dbg: [script:4] [0] [I] Oil: no remaining viable untried connections at the production threshold; other route types may now be planned.
+[2026-10-14 20:30:53] dbg: [script:4] [0] [I] Oil: planning Wanwell City Oil Wells -> Tartwood Oil Refinery
+[2026-10-14 20:30:53] dbg: [script:4] [0] [I] Planning: limiting this connection to 1020 AI ticks.
+[2026-10-14 20:30:53] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-14 20:30:53] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=26032, target=9158
+[2026-10-14 20:30:53] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: no path in search area, states=5, elapsed ticks=1
+[2026-10-14 20:30:53] dbg: [script:4] [0] [I] Failure location: start, nearest target=84, search spread=4
+[2026-10-14 20:30:53] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-14 20:30:53] dbg: [script:4] [0] [I] Oil: no complete freight route found for this pair.
+[2026-10-14 20:30:53] dbg: [script:4] [0] [I] Route failed at 27051 towards Tartwood Oil Refinery: No feasible track layout; last failure tile=26036
+[2026-10-14 20:30:53] dbg: [script:4] [0] [I] Planning: deferring unsuccessful connection for 30 days (attempt 1).
+[2026-10-14 20:30:53] dbg: [script:4] [0] [I] Oil: planning Wanwell City Oil Wells -> Faningbury Oil Refinery
+[2026-10-14 20:30:53] dbg: [script:4] [0] [I] Planning: limiting this connection to 1020 AI ticks.
+[2026-10-14 20:30:53] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-14 20:30:53] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=26032, target=13032
+[2026-10-14 20:30:53] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: no path in search area, states=5, elapsed ticks=1
+[2026-10-14 20:30:53] dbg: [script:4] [0] [I] Failure location: start, nearest target=103, search spread=4
+[2026-10-14 20:30:53] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-14 20:30:53] dbg: [script:4] [0] [I] Oil: no complete freight route found for this pair.
+[2026-10-14 20:30:53] dbg: [script:4] [0] [I] Route failed at 27051 towards Faningbury Oil Refinery: No feasible track layout; last failure tile=26036
+[2026-10-14 20:30:53] dbg: [script:4] [0] [I] Planning: deferring unsuccessful connection for 30 days (attempt 1).
+[2026-10-14 20:30:53] dbg: [script:4] [0] [I] Oil: planning Wanwell City Oil Wells -> Ladtown Oil Refinery
+[2026-10-14 20:30:53] dbg: [script:4] [0] [I] Planning: limiting this connection to 1020 AI ticks.
+[2026-10-14 20:30:53] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-14 20:30:53] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=27316, target=41956
+[2026-10-14 20:30:53] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=200, queued=234, rejected rail tests=0, elapsed ticks=54
+[2026-10-14 20:30:53] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=1200, queued=909, rejected rail tests=0, elapsed ticks=336
+[2026-10-14 20:30:53] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: search budget reached, states=1400, elapsed ticks=396
+[2026-10-14 20:30:53] dbg: [script:4] [0] [I] Failure location: middle, nearest target=47, search spread=58
+[2026-10-14 20:30:53] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-14 20:30:53] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=27826, target=42212
+[2026-10-14 20:30:53] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=200, queued=103, rejected rail tests=3, elapsed ticks=45
+[2026-10-14 20:30:53] dbg: [script:4] [0] [I] Planning: project time budget reached; yielding to another connection.
+[2026-10-14 20:30:53] dbg: [script:4] [0] [I] Route failed at 27051 towards Ladtown Oil Refinery: Project time budget reached; last failure tile=36296
+[2026-10-14 20:30:53] dbg: [script:4] [0] [I] Planning: deferring unsuccessful connection for 30 days (attempt 1).
+[2026-10-14 20:30:53] dbg: [script:4] [0] [I] Oil: candidates exhausted; production requirement reduced to 50% of its original threshold.
+[2026-10-14 20:30:53] dbg: [script:4] [0] [I] Oil: no remaining viable untried connections at the production threshold; other route types may now be planned.
+[2026-10-14 20:30:54] dbg: [script:4] [0] [I] Oil: candidates exhausted; production requirement reduced to 25% of its original threshold.
+[2026-10-14 20:30:54] dbg: [script:4] [0] [I] Oil: no remaining viable untried connections at the production threshold; other route types may now be planned.
+[2026-10-14 20:30:54] dbg: [script:4] [0] [I] Oil: candidates exhausted; production requirement reduced to 10% of its original threshold.
+[2026-10-14 20:30:54] dbg: [script:4] [0] [I] Oil: no remaining viable untried connections at the production threshold; other route types may now be planned.
+[2026-10-14 20:30:54] dbg: [script:4] [0] [I] Oil: no remaining viable untried connections at the production threshold; other route types may now be planned.
+[2026-10-14 20:30:54] dbg: [script:4] [0] [I] Oil: rechecking connections after the selection cooldown.
+[2026-10-14 20:30:54] dbg: [script:4] [0] [I] Oil: planning Wanwell City Oil Wells -> Faningbury Oil Refinery
+[2026-10-14 20:30:54] dbg: [script:4] [0] [I] Planning: limiting this connection to 2040 AI ticks.
+[2026-10-14 20:30:54] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-14 20:30:54] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=26032, target=13032
+[2026-10-14 20:30:54] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: no path in search area, states=5, elapsed ticks=1
+[2026-10-14 20:30:54] dbg: [script:4] [0] [I] Failure location: start, nearest target=103, search spread=4
+[2026-10-14 20:30:54] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-14 20:30:54] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=26032, target=12775
+[2026-10-14 20:30:54] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: no path in search area, states=5, elapsed ticks=1
+[2026-10-14 20:30:54] dbg: [script:4] [0] [I] Failure location: start, nearest target=103, search spread=4
+[2026-10-14 20:30:54] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-14 20:30:54] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=26032, target=12777
+[2026-10-14 20:30:54] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: no path in search area, states=5, elapsed ticks=1
+[2026-10-14 20:30:54] dbg: [script:4] [0] [I] Failure location: start, nearest target=105, search spread=4
+[2026-10-14 20:30:54] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-14 20:30:54] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=26032, target=12520
+[2026-10-14 20:30:54] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: no path in search area, states=5, elapsed ticks=1
+[2026-10-14 20:30:54] dbg: [script:4] [0] [I] Failure location: start, nearest target=105, search spread=4
+[2026-10-14 20:30:54] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-14 20:30:54] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-14 20:30:54] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-14 20:30:54] dbg: [script:4] [0] [I] Planning: station-pair attempt limit reached; yielding to another connection.
+[2026-10-14 20:30:54] dbg: [script:4] [0] [I] Route failed at 27051 towards Faningbury Oil Refinery: Station-pair attempt limit reached; last failure tile=26036
+[2026-10-14 20:30:54] dbg: [script:4] [0] [I] Planning: deferring unsuccessful connection for 60 days (attempt 2).
+[2026-10-14 20:30:54] dbg: [script:4] [0] [I] Oil: planning Wanwell City Oil Wells -> Tartwood Oil Refinery
+[2026-10-14 20:30:54] dbg: [script:4] [0] [I] Planning: limiting this connection to 2040 AI ticks.
+[2026-10-14 20:30:54] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-14 20:30:54] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=26032, target=9158
+[2026-10-14 20:30:54] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: no path in search area, states=5, elapsed ticks=1
+[2026-10-14 20:30:54] dbg: [script:4] [0] [I] Failure location: start, nearest target=84, search spread=4
+[2026-10-14 20:30:54] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-14 20:30:54] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=26032, target=8901
+[2026-10-14 20:30:54] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: no path in search area, states=5, elapsed ticks=2
+[2026-10-14 20:30:54] dbg: [script:4] [0] [I] Failure location: start, nearest target=84, search spread=4
+[2026-10-14 20:30:54] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-14 20:30:54] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=26032, target=9156
+[2026-10-14 20:30:54] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: no path in search area, states=5, elapsed ticks=1
+[2026-10-14 20:30:54] dbg: [script:4] [0] [I] Failure location: start, nearest target=82, search spread=4
+[2026-10-14 20:30:54] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-14 20:30:54] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-14 20:30:54] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-14 20:30:54] dbg: [script:4] [0] [I] Oil: no complete freight route found for this pair.
+[2026-10-14 20:30:54] dbg: [script:4] [0] [I] Route failed at 27051 towards Tartwood Oil Refinery: No feasible track layout; last failure tile=26036
+[2026-10-14 20:30:54] dbg: [script:4] [0] [I] Planning: deferring unsuccessful connection for 60 days (attempt 2).
+[2026-10-14 20:30:54] dbg: [script:4] [0] [I] Oil: planning Wanwell City Oil Wells -> Ladtown Oil Refinery
+[2026-10-14 20:30:54] dbg: [script:4] [0] [I] Planning: limiting this connection to 2040 AI ticks.
+[2026-10-14 20:30:54] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-14 20:30:54] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=27316, target=41956
+[2026-10-14 20:30:54] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=200, queued=234, rejected rail tests=0, elapsed ticks=54
+[2026-10-14 20:30:54] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=1200, queued=909, rejected rail tests=0, elapsed ticks=336
+[2026-10-14 20:30:54] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=2200, queued=1729, rejected rail tests=36, elapsed ticks=632
+[2026-10-14 20:30:54] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: search budget reached, states=2800, elapsed ticks=797
+[2026-10-14 20:30:54] dbg: [script:4] [0] [I] Failure location: middle, nearest target=27, search spread=78
+[2026-10-14 20:30:54] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-14 20:30:54] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=27316, target=41954
+[2026-10-14 20:30:54] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=200, queued=232, rejected rail tests=0, elapsed ticks=54
+[2026-10-14 20:30:54] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=1200, queued=907, rejected rail tests=0, elapsed ticks=336
+[2026-10-14 20:30:54] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=2200, queued=1717, rejected rail tests=33, elapsed ticks=631
+[2026-10-14 20:30:54] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: search budget reached, states=2800, elapsed ticks=798
+[2026-10-14 20:30:54] dbg: [script:4] [0] [I] Failure location: middle, nearest target=25, search spread=78
+[2026-10-14 20:30:54] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-14 20:30:54] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=27826, target=42212
+[2026-10-14 20:30:54] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=200, queued=103, rejected rail tests=3, elapsed ticks=45
+[2026-10-14 20:30:54] dbg: [script:4] [0] [I] Planning: project time budget reached; yielding to another connection.
+[2026-10-14 20:30:54] dbg: [script:4] [0] [I] Route failed at 27051 towards Ladtown Oil Refinery: Project time budget reached; last failure tile=29907
+[2026-10-14 20:30:54] dbg: [script:4] [0] [I] Planning: deferring unsuccessful connection for 60 days (attempt 2).
+[2026-10-14 20:30:54] dbg: [script:4] [0] [I] Oil: no remaining viable untried connections at the production threshold; other route types may now be planned.
+[2026-10-14 20:30:54] dbg: [script:4] [0] [I] Oil: rechecking connections after the selection cooldown.
+[2026-10-14 20:30:54] dbg: [script:4] [0] [I] Oil: planning Wanwell City Oil Wells -> Ladtown Oil Refinery
+[2026-10-14 20:30:54] dbg: [script:4] [0] [I] Planning: limiting this connection to 4080 AI ticks.
+[2026-10-14 20:30:54] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-14 20:30:54] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=27316, target=41956
+[2026-10-14 20:30:54] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=200, queued=234, rejected rail tests=0, elapsed ticks=54
+[2026-10-14 20:30:54] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=1200, queued=909, rejected rail tests=0, elapsed ticks=336
+[2026-10-14 20:30:54] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=2200, queued=1729, rejected rail tests=36, elapsed ticks=632
+[2026-10-14 20:30:54] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=3200, queued=2630, rejected rail tests=74, elapsed ticks=939
+[2026-10-14 20:30:55] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=4200, queued=2935, rejected rail tests=97, elapsed ticks=1221
+[2026-10-14 20:30:55] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=5200, queued=2858, rejected rail tests=139, elapsed ticks=1483
+[2026-10-14 20:30:55] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=6198, queued=2894, rejected rail tests=157, elapsed ticks=1744
+[2026-10-14 20:30:55] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: search budget reached, states=6798, elapsed ticks=1899
+[2026-10-14 20:30:55] dbg: [script:4] [0] [I] Failure location: middle, nearest target=14, search spread=91
+[2026-10-14 20:30:55] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-14 20:30:55] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=27316, target=42212
+[2026-10-14 20:30:55] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=200, queued=234, rejected rail tests=0, elapsed ticks=54
+[2026-10-14 20:30:55] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=1200, queued=909, rejected rail tests=0, elapsed ticks=336
+[2026-10-14 20:30:55] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=2200, queued=1729, rejected rail tests=36, elapsed ticks=632
+[2026-10-14 20:30:55] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=3200, queued=2630, rejected rail tests=74, elapsed ticks=939
+[2026-10-14 20:30:55] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=4200, queued=2935, rejected rail tests=97, elapsed ticks=1221
+[2026-10-14 20:30:55] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=5200, queued=2858, rejected rail tests=139, elapsed ticks=1483
+[2026-10-14 20:30:55] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=6198, queued=2894, rejected rail tests=157, elapsed ticks=1744
+[2026-10-14 20:30:55] dbg: [script:4] [0] [I] Planning: project time budget reached; yielding to another connection.
+[2026-10-14 20:30:55] dbg: [script:4] [0] [I] Route failed at 27051 towards (null : 0x00000000): Project time budget reached; last failure tile=30156
+[2026-10-14 20:30:55] dbg: [script:4] [0] [I] Planning: deferring unsuccessful connection for 180 days (attempt 3).
+[2026-10-14 20:30:55] dbg: [script:4] [0] [I] Oil: planning Wanwell City Oil Wells -> Tartwood Oil Refinery
+[2026-10-14 20:30:55] dbg: [script:4] [0] [I] Planning: limiting this connection to 4080 AI ticks.
+[2026-10-14 20:30:55] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-14 20:30:55] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=26032, target=9158
+[2026-10-14 20:30:55] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: no path in search area, states=5, elapsed ticks=1
+[2026-10-14 20:30:55] dbg: [script:4] [0] [I] Failure location: start, nearest target=84, search spread=4
+[2026-10-14 20:30:55] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-14 20:30:55] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=26032, target=9414
+[2026-10-14 20:30:55] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: no path in search area, states=5, elapsed ticks=1
+[2026-10-14 20:30:55] dbg: [script:4] [0] [I] Failure location: start, nearest target=83, search spread=4
+[2026-10-14 20:30:55] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-14 20:30:55] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=26032, target=8901
+[2026-10-14 20:30:55] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: no path in search area, states=5, elapsed ticks=1
+[2026-10-14 20:30:55] dbg: [script:4] [0] [I] Failure location: start, nearest target=84, search spread=4
+[2026-10-14 20:30:55] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-14 20:30:55] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=26032, target=9156
+[2026-10-14 20:30:55] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: no path in search area, states=5, elapsed ticks=1
+[2026-10-14 20:30:55] dbg: [script:4] [0] [I] Failure location: start, nearest target=82, search spread=4
+[2026-10-14 20:30:55] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-14 20:30:55] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=26032, target=9157
+[2026-10-14 20:30:55] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: no path in search area, states=5, elapsed ticks=1
+[2026-10-14 20:30:55] dbg: [script:4] [0] [I] Failure location: start, nearest target=83, search spread=4
+[2026-10-14 20:30:55] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-14 20:30:55] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=26032, target=9412
+[2026-10-14 20:30:55] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: no path in search area, states=5, elapsed ticks=1
+[2026-10-14 20:30:55] dbg: [script:4] [0] [I] Failure location: start, nearest target=81, search spread=4
+[2026-10-14 20:30:55] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-14 20:30:55] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-14 20:30:55] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-14 20:30:55] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-14 20:30:55] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-14 20:30:55] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-14 20:30:55] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-14 20:30:55] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=26031, target=9158
+[2026-10-14 20:30:55] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=200, queued=51, rejected rail tests=20, elapsed ticks=47
+[2026-10-14 20:30:55] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=1200, queued=364, rejected rail tests=30, elapsed ticks=300
+[2026-10-14 20:30:55] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=2200, queued=428, rejected rail tests=46, elapsed ticks=547
+[2026-10-14 20:30:55] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=3200, queued=806, rejected rail tests=50, elapsed ticks=811
+[2026-10-14 20:30:55] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: path found, states=3720, elapsed ticks=945
+[2026-10-14 20:30:55] dbg: [script:4] [0] [I] Single-track planner: one main line found; return track deferred until fleet expansion.
+[2026-10-14 20:30:55] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-10-14 20:30:55] dbg: [script:4] [0] [I] Rail bridge built: 19115 -> 18603
+[2026-10-14 20:30:55] dbg: [script:4] [0] [I] Overlapping X crossovers verified at both stations.
+[2026-10-14 20:30:55] dbg: [script:4] [0] [I] Single-track station entrances verified without signals.
+[2026-10-14 20:30:55] dbg: [script:4] [0] [I] Approach depot verified: Route index=84, route length=103
+[2026-10-14 20:30:55] dbg: [script:4] [0] [I] RIRO: separate entrance fan and return track verified.
+[2026-10-14 20:30:55] dbg: [script:4] [0] [I] Station A: roll-in roll-out loop built.
+[2026-10-14 20:30:55] dbg: [script:4] [0] [I] RIRO: separate entrance fan and return track verified.
+[2026-10-14 20:30:55] dbg: [script:4] [0] [I] Station B: roll-in roll-out loop built.
+[2026-10-14 20:30:55] dbg: [script:4] [0] [I] Maintenance orders verified: station A, station B, depot.
+[2026-10-14 20:30:55] dbg: [script:4] [0] [I] Train 10 is rolling. Carriages=3, cargo=Oil, capacity=90, length=32, platform=64
+[2026-10-14 20:30:55] dbg: [script:4] [0] [I] Single main line commissioned without signals; two-platform stations retained.
+[2026-10-14 20:30:55] dbg: [script:4] [0] [I] Oil: service operating with 2 RIRO and 0 standard terminus stations. Train=10
+[2026-10-14 20:30:55] dbg: [script:4] [0] [I] Optimiser: train 10 serves a closed industry; returning to depot for sale.
+[2026-10-14 20:30:55] dbg: [script:4] [0] [I] OIL PASS: well to refinery, oil wagons, single track, delivery, maintenance and save/load.

@@ -1,0 +1,4 @@
+[2026-09-06 20:06:10] dbg: [script:4] [0] [I] Downgrading API to be compatible with version 14
+[2026-09-06 20:06:10] dbg: [script:3] [0] [W] No route found; remembering failed connection 0 <-> 2. This pair will not be retried.
+[2026-09-06 20:06:10] dbg: [script:4] [0] [I] HUB PASS: route limits, multiple destinations, duplicate suppression and saved connection counts.
+[2026-09-06 20:06:10] dbg: [script:4] [0] [I] MEMORY PASS: failed pair skipped both ways, other partners allowed, typed endpoints, save/load and legacy saves.

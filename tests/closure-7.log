@@ -1,0 +1,22 @@
+[2026-10-08 05:40:06] dbg: [script:4] [0] [I] Downgrading API to be compatible with version 14
+[2026-10-08 05:40:06] dbg: [script:4] [0] [I] Coal: planning Bretston Coal Mine -> Larnway Power Station
+[2026-10-08 05:40:06] dbg: [script:4] [0] [I] Planning: limiting this connection to 1200 AI ticks.
+[2026-10-08 05:40:06] dbg: [script:4] [0] [I] Station fallback: no two-platform site; trying a permanent one-train line.
+[2026-10-08 05:40:06] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-08 05:40:06] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=24977, target=21939
+[2026-10-08 05:40:06] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=200, queued=323, rejected rail tests=6, elapsed ticks=59
+[2026-10-08 05:40:06] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: path found, states=425, elapsed ticks=115
+[2026-10-08 05:40:06] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-10-08 05:40:06] dbg: [script:4] [0] [I] Approach depot verified: Route index=23, route length=47
+[2026-10-08 05:40:06] dbg: [script:4] [0] [I] Maintenance orders verified: station A, station B, depot.
+[2026-10-08 05:40:06] dbg: [script:4] [0] [I] Train 9 is rolling. Carriages=3, cargo=Coal, capacity=90, length=32, platform=64
+[2026-10-08 05:40:06] dbg: [script:4] [0] [I] Single-platform line commissioned; fleet permanently limited to one train.
+[2026-10-08 05:40:06] dbg: [script:4] [0] [I] Coal: service operating with 0 RIRO and 2 standard terminus stations. Train=9
+[2026-10-08 05:40:06] dbg: [script:4] [0] [I] Maintenance orders verified: station A, station B, depot.
+[2026-10-08 05:40:06] dbg: [script:4] [0] [I] Train 15 is rolling. Carriages=2, cargo=Coal, capacity=60, length=24, platform=64
+[2026-10-08 05:40:06] dbg: [script:4] [0] [I] Optimiser: train 9 serves a closed industry; returning to depot for sale.
+[2026-10-08 05:40:06] dbg: [script:4] [0] [I] Optimiser: train 15 serves a closed industry; returning to depot for sale.
+[2026-10-08 05:40:06] dbg: [script:4] [0] [I] Optimiser: sold retired train 15 and its carriages in the depot.
+[2026-10-08 05:40:06] dbg: [script:4] [0] [I] Optimiser: sold retired train 9 and its carriages in the depot.
+[2026-10-08 05:40:06] dbg: [script:4] [0] [I] Retirement: removed unused railway, stations and depots (56 tiles).
+[2026-10-08 05:40:06] dbg: [script:4] [0] [I] CLOSURE PASS: immediate depot diversion, added trains, saved urgent retirement and unused railway demolition.

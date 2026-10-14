@@ -1,0 +1,14 @@
+[2026-09-20 15:39:43] dbg: [script:4] [0] [I] Downgrading API to be compatible with version 14
+[2026-09-20 15:39:43] dbg: [script:4] [0] [I] APPROACH BENCH scenario=0 expanded=132 ticks=32 tiles=27
+[2026-09-20 15:39:43] dbg: [script:4] [0] [I] APPROACH BENCH scenario=0 expanded=27 ticks=7 tiles=27
+[2026-09-20 15:39:43] dbg: [script:4] [0] [I] APPROACH BENCH scenario=1 expanded=1925 ticks=476 tiles=33
+[2026-09-20 15:39:43] dbg: [script:4] [0] [I] APPROACH BENCH scenario=1 expanded=33 ticks=9 tiles=33
+[2026-09-20 15:39:43] dbg: [script:4] [0] [I] APPROACH BENCH scenario=2 expanded=1907 ticks=472 tiles=33
+[2026-09-20 15:39:43] dbg: [script:4] [0] [I] APPROACH BENCH scenario=2 expanded=116 ticks=29 tiles=33
+[2026-09-20 15:39:43] dbg: [script:4] [0] [I] APPROACH BENCH scenario=3 expanded=1911 ticks=472 tiles=33
+[2026-09-20 15:39:43] dbg: [script:4] [0] [I] APPROACH BENCH scenario=3 expanded=33 ticks=8 tiles=33
+[2026-09-20 15:39:43] dbg: [script:4] [0] [I] APPROACH BENCH scenario=4 expanded=1687 ticks=416 tiles=33
+[2026-09-20 15:39:43] dbg: [script:4] [0] [I] APPROACH BENCH scenario=4 expanded=33 ticks=9 tiles=33
+[2026-09-20 15:39:43] dbg: [script:4] [0] [I] APPROACH BENCH scenario=5 expanded=5539 ticks=1281 tiles=0
+[2026-09-20 15:39:43] dbg: [script:4] [0] [I] APPROACH BENCH scenario=5 expanded=5539 ticks=1309 tiles=0
+[2026-09-20 15:39:43] dbg: [script:4] [0] [I] APPROACH PASS: identical success and shortest lengths, expanded=13101 -> 5781

@@ -1,0 +1,2 @@
+[2026-09-25 06:06:36] dbg: [script:4] [0] [I] Downgrading API to be compatible with version 14
+[2026-09-25 06:06:36] dbg: [script:4] [0] [I] PRODUCTION PASS: round-trip measurement, complete-cycle gating, integer smoothing and legacy fallback.

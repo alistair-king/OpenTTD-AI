@@ -1,0 +1,244 @@
+[2026-09-20 07:30:54] dbg: [net:3] Starting dedicated server, version 15.3
+[2026-09-20 07:30:54] dbg: [net:3] Starting network
+[2026-09-20 07:30:54] dbg: [net:3] Initializing UDP listeners
+[2026-09-20 07:30:54] dbg: [net:3] Network online, multiplayer available
+[2026-09-20 07:30:54] dbg: [net:3] Detected broadcast addresses:
+[2026-09-20 07:30:54] dbg: [net:3]   0) 10.2.6.15
+[2026-09-20 07:30:54] dbg: [net:3] Using certificate file: /etc/ssl/cert.pem
+[2026-09-20 07:30:54] dbg: [net:3] Using certificate path: none
+[2026-09-20 07:30:54] dbg: [sl:1] Loading savegame version 348
+[2026-09-20 07:30:54] dbg: [sl:2] Loading chunk GLOG
+[2026-09-20 07:30:54] dbg: [sl:2] Loading chunk MAPS
+[2026-09-20 07:30:54] dbg: [sl:2] Loading chunk MAPT
+[2026-09-20 07:30:54] dbg: [sl:2] Loading chunk MAPH
+[2026-09-20 07:30:54] dbg: [sl:2] Loading chunk MAPO
+[2026-09-20 07:30:54] dbg: [sl:2] Loading chunk MAP2
+[2026-09-20 07:30:54] dbg: [sl:2] Loading chunk M3LO
+[2026-09-20 07:30:54] dbg: [sl:2] Loading chunk M3HI
+[2026-09-20 07:30:54] dbg: [sl:2] Loading chunk MAP5
+[2026-09-20 07:30:54] dbg: [sl:2] Loading chunk MAPE
+[2026-09-20 07:30:54] dbg: [sl:2] Loading chunk MAP7
+[2026-09-20 07:30:54] dbg: [sl:2] Loading chunk MAP8
+[2026-09-20 07:30:54] dbg: [sl:2] Loading chunk DATE
+[2026-09-20 07:30:54] dbg: [sl:2] Loading chunk VIEW
+[2026-09-20 07:30:54] dbg: [sl:2] Loading chunk CHTS
+[2026-09-20 07:30:54] dbg: [sl:2] Loading chunk PATS
+[2026-09-20 07:30:54] dbg: [sl:2] Field 'pf.yapf.disable_node_optimization' of type 0x01 not found, skipping
+[2026-09-20 07:30:54] dbg: [sl:2] Loading chunk VEHS
+[2026-09-20 07:30:54] dbg: [sl:2] Field 'railtype' of type 0x02 not found, skipping
+[2026-09-20 07:30:54] dbg: [sl:2] Loading chunk DEPT
+[2026-09-20 07:30:54] dbg: [sl:2] Loading chunk BKOR
+[2026-09-20 07:30:54] dbg: [sl:2] Loading chunk ORDR
+[2026-09-20 07:30:54] dbg: [sl:2] Loading chunk ORDL
+[2026-09-20 07:30:54] dbg: [sl:2] Loading chunk INDY
+[2026-09-20 07:30:54] dbg: [sl:2] Loading chunk IIDS
+[2026-09-20 07:30:54] dbg: [sl:2] Loading chunk TIDS
+[2026-09-20 07:30:54] dbg: [sl:2] Loading chunk IBLD
+[2026-09-20 07:30:54] dbg: [sl:2] Loading chunk ITBL
+[2026-09-20 07:30:54] dbg: [sl:2] Loading chunk CAPY
+[2026-09-20 07:30:54] dbg: [sl:2] Loading chunk ECMY
+[2026-09-20 07:30:54] dbg: [sl:2] Loading chunk SUBS
+[2026-09-20 07:30:54] dbg: [sl:2] Loading chunk CMDL
+[2026-09-20 07:30:54] dbg: [sl:2] Loading chunk CMPU
+[2026-09-20 07:30:54] dbg: [sl:2] Loading chunk GOAL
+[2026-09-20 07:30:54] dbg: [sl:2] Loading chunk STPE
+[2026-09-20 07:30:54] dbg: [sl:2] Loading chunk STPA
+[2026-09-20 07:30:54] dbg: [sl:2] Loading chunk LEAE
+[2026-09-20 07:30:54] dbg: [sl:2] Loading chunk LEAT
+[2026-09-20 07:30:54] dbg: [sl:2] Loading chunk EIDS
+[2026-09-20 07:30:54] dbg: [sl:2] Loading chunk ENGN
+[2026-09-20 07:30:54] dbg: [sl:2] Loading chunk HIDS
+[2026-09-20 07:30:54] dbg: [sl:2] Loading chunk CITY
+[2026-09-20 07:30:54] dbg: [sl:2] Loading chunk SIGN
+[2026-09-20 07:30:54] dbg: [sl:2] Loading chunk STNN
+[2026-09-20 07:30:54] dbg: [sl:2] Loading chunk ROAD
+[2026-09-20 07:30:54] dbg: [sl:2] Loading chunk PLYR
+[2026-09-20 07:30:54] dbg: [sl:2] Loading chunk AIPL
+[2026-09-20 07:30:54] dbg: [sl:2] Loading chunk GSTR
+[2026-09-20 07:30:54] dbg: [sl:2] Loading chunk GSDT
+[2026-09-20 07:30:54] dbg: [sl:2] Loading chunk ANIT
+[2026-09-20 07:30:54] dbg: [sl:2] Loading chunk NGRF
+[2026-09-20 07:30:54] dbg: [sl:2] Loading chunk GRPS
+[2026-09-20 07:30:54] dbg: [sl:2] Loading chunk CAPA
+[2026-09-20 07:30:54] dbg: [sl:2] Loading chunk ERNW
+[2026-09-20 07:30:54] dbg: [sl:2] Loading chunk RAIL
+[2026-09-20 07:30:54] dbg: [sl:2] Loading chunk ROTT
+[2026-09-20 07:30:54] dbg: [sl:2] Loading chunk LGRP
+[2026-09-20 07:30:54] dbg: [sl:2] Loading chunk LGRJ
+[2026-09-20 07:30:54] dbg: [sl:2] Loading chunk LGRS
+[2026-09-20 07:30:54] dbg: [sl:2] Loading chunk ATID
+[2026-09-20 07:30:54] dbg: [sl:2] Loading chunk APID
+[2026-09-20 07:30:54] dbg: [sl:2] Loading chunk OBID
+[2026-09-20 07:30:54] dbg: [sl:2] Loading chunk OBJS
+[2026-09-20 07:30:54] dbg: [sl:2] Loading chunk PSAC
+[2026-09-20 07:30:54] dbg: [sl:2] Loading chunk SRND
+[2026-09-20 07:30:54] dbg: [sl:3] Fixing pointers for GLOG
+[2026-09-20 07:30:54] dbg: [sl:3] Fixing pointers for MAPS
+[2026-09-20 07:30:54] dbg: [sl:3] Fixing pointers for MAPT
+[2026-09-20 07:30:54] dbg: [sl:3] Fixing pointers for MAPH
+[2026-09-20 07:30:54] dbg: [sl:3] Fixing pointers for MAPO
+[2026-09-20 07:30:54] dbg: [sl:3] Fixing pointers for MAP2
+[2026-09-20 07:30:54] dbg: [sl:3] Fixing pointers for M3LO
+[2026-09-20 07:30:54] dbg: [sl:3] Fixing pointers for M3HI
+[2026-09-20 07:30:54] dbg: [sl:3] Fixing pointers for MAP5
+[2026-09-20 07:30:54] dbg: [sl:3] Fixing pointers for MAPE
+[2026-09-20 07:30:54] dbg: [sl:3] Fixing pointers for MAP7
+[2026-09-20 07:30:54] dbg: [sl:3] Fixing pointers for MAP8
+[2026-09-20 07:30:54] dbg: [sl:3] Fixing pointers for DATE
+[2026-09-20 07:30:54] dbg: [sl:3] Fixing pointers for VIEW
+[2026-09-20 07:30:54] dbg: [sl:3] Fixing pointers for NAME
+[2026-09-20 07:30:54] dbg: [sl:3] Fixing pointers for CHTS
+[2026-09-20 07:30:54] dbg: [sl:3] Fixing pointers for OPTS
+[2026-09-20 07:30:54] dbg: [sl:3] Fixing pointers for PATS
+[2026-09-20 07:30:54] dbg: [sl:3] Fixing pointers for VEHS
+[2026-09-20 07:30:54] dbg: [sl:3] Fixing pointers for CHKP
+[2026-09-20 07:30:54] dbg: [sl:3] Fixing pointers for DEPT
+[2026-09-20 07:30:54] dbg: [sl:3] Fixing pointers for BKOR
+[2026-09-20 07:30:54] dbg: [sl:3] Fixing pointers for ORDR
+[2026-09-20 07:30:54] dbg: [sl:3] Fixing pointers for ORDL
+[2026-09-20 07:30:54] dbg: [sl:3] Fixing pointers for INDY
+[2026-09-20 07:30:54] dbg: [sl:3] Fixing pointers for IIDS
+[2026-09-20 07:30:54] dbg: [sl:3] Fixing pointers for TIDS
+[2026-09-20 07:30:54] dbg: [sl:3] Fixing pointers for IBLD
+[2026-09-20 07:30:54] dbg: [sl:3] Fixing pointers for ITBL
+[2026-09-20 07:30:54] dbg: [sl:3] Fixing pointers for CAPY
+[2026-09-20 07:30:54] dbg: [sl:3] Fixing pointers for PRIC
+[2026-09-20 07:30:54] dbg: [sl:3] Fixing pointers for CAPR
+[2026-09-20 07:30:54] dbg: [sl:3] Fixing pointers for ECMY
+[2026-09-20 07:30:54] dbg: [sl:3] Fixing pointers for SUBS
+[2026-09-20 07:30:54] dbg: [sl:3] Fixing pointers for CMDL
+[2026-09-20 07:30:54] dbg: [sl:3] Fixing pointers for CMPU
+[2026-09-20 07:30:54] dbg: [sl:3] Fixing pointers for GOAL
+[2026-09-20 07:30:54] dbg: [sl:3] Fixing pointers for STPE
+[2026-09-20 07:30:54] dbg: [sl:3] Fixing pointers for STPA
+[2026-09-20 07:30:54] dbg: [sl:3] Fixing pointers for LEAE
+[2026-09-20 07:30:54] dbg: [sl:3] Fixing pointers for LEAT
+[2026-09-20 07:30:54] dbg: [sl:3] Fixing pointers for EIDS
+[2026-09-20 07:30:54] dbg: [sl:3] Fixing pointers for ENGN
+[2026-09-20 07:30:54] dbg: [sl:3] Fixing pointers for ENGS
+[2026-09-20 07:30:54] dbg: [sl:3] Fixing pointers for HIDS
+[2026-09-20 07:30:54] dbg: [sl:3] Fixing pointers for CITY
+[2026-09-20 07:30:54] dbg: [sl:3] Fixing pointers for SIGN
+[2026-09-20 07:30:54] dbg: [sl:3] Fixing pointers for STNS
+[2026-09-20 07:30:54] dbg: [sl:3] Fixing pointers for STNN
+[2026-09-20 07:30:54] dbg: [sl:3] Fixing pointers for ROAD
+[2026-09-20 07:30:54] dbg: [sl:3] Fixing pointers for PLYR
+[2026-09-20 07:30:54] dbg: [sl:3] Fixing pointers for AIPL
+[2026-09-20 07:30:54] dbg: [sl:3] Fixing pointers for GSTR
+[2026-09-20 07:30:54] dbg: [sl:3] Fixing pointers for GSDT
+[2026-09-20 07:30:54] dbg: [sl:3] Fixing pointers for ANIT
+[2026-09-20 07:30:54] dbg: [sl:3] Fixing pointers for NGRF
+[2026-09-20 07:30:54] dbg: [sl:3] Fixing pointers for GRPS
+[2026-09-20 07:30:54] dbg: [sl:3] Fixing pointers for CAPA
+[2026-09-20 07:30:54] dbg: [sl:3] Fixing pointers for ERNW
+[2026-09-20 07:30:54] dbg: [sl:3] Fixing pointers for RAIL
+[2026-09-20 07:30:54] dbg: [sl:3] Fixing pointers for ROTT
+[2026-09-20 07:30:54] dbg: [sl:3] Fixing pointers for LGRP
+[2026-09-20 07:30:54] dbg: [sl:3] Fixing pointers for LGRJ
+[2026-09-20 07:30:54] dbg: [sl:3] Fixing pointers for LGRS
+[2026-09-20 07:30:54] dbg: [sl:3] Fixing pointers for ATID
+[2026-09-20 07:30:54] dbg: [sl:3] Fixing pointers for APID
+[2026-09-20 07:30:54] dbg: [sl:3] Fixing pointers for OBID
+[2026-09-20 07:30:54] dbg: [sl:3] Fixing pointers for OBJS
+[2026-09-20 07:30:54] dbg: [sl:3] Fixing pointers for PSAC
+[2026-09-20 07:30:54] dbg: [sl:3] Fixing pointers for WRGN
+[2026-09-20 07:30:54] dbg: [sl:3] Fixing pointers for SRND
+OpenTTD Game Console Revision 7 - 15.3
+------------------------------------
+use "help" for more information.
+
+[2026-09-20 07:30:54] dbg: [net:1] No "client_name" has been set, using "Unnamed Client" instead. Please set this now using the "name <new name>" command
+[2026-09-20 07:30:54] dbg: [net:1] No "server_name" has been set, using "Unnamed Server" instead. Please set this now using the "server_name <new name>" command
+[2026-09-20 07:30:54] dbg: [net:3] Initializing UDP listeners
+[2026-09-20 07:30:54] dbg: [net:3] Initializing UDP listeners
+[2026-09-20 07:30:54] dbg: [net:3] Listening on 127.0.0.1:53730 (IPv4)
+[2026-09-20 07:30:54] dbg: [net:3] Listening on 127.0.0.1:53730 (IPv4)
+[2026-09-20 07:30:54] dbg: [net:3] Network revision name: 15.3
+[2026-09-20 07:30:54] dbg: [net:3] [crypto] Creating a new random key
+[2026-09-20 07:30:54] dbg: [net:3] Generating map, please wait...
+[2026-09-20 07:30:54] dbg: [net:3] Map generation percentage complete: 5
+[2026-09-20 07:30:54] dbg: [net:3] Map generation percentage complete: 11
+[2026-09-20 07:30:54] dbg: [net:3] Map generation percentage complete: 15
+[2026-09-20 07:30:54] dbg: [net:3] Map generation percentage complete: 20
+[2026-09-20 07:30:54] dbg: [net:3] Map generation percentage complete: 30
+[2026-09-20 07:30:54] dbg: [net:3] Map generation percentage complete: 40
+[2026-09-20 07:30:54] dbg: [net:3] Map generation percentage complete: 46
+[2026-09-20 07:30:54] dbg: [net:3] Map generation percentage complete: 50
+[2026-09-20 07:30:54] dbg: [net:3] Map generation percentage complete: 60
+[2026-09-20 07:30:54] dbg: [net:3] Map generation percentage complete: 65
+[2026-09-20 07:30:54] dbg: [net:3] Map generation percentage complete: 70
+[2026-09-20 07:30:54] dbg: [net:3] Map generation percentage complete: 75
+[2026-09-20 07:30:54] dbg: [net:3] Map generation percentage complete: 80
+[2026-09-20 07:30:54] dbg: [net:3] Map generation percentage complete: 85
+[2026-09-20 07:30:54] dbg: [net:3] Map generation percentage complete: 90
+[2026-09-20 07:30:54] dbg: [net:3] Map generation percentage complete: 99
+[2026-09-20 07:30:54] dbg: [net:3] Map generated, starting game
+[2026-09-20 07:30:54] dbg: [script:4] [0] [I] Downgrading API to be compatible with version 14
+[2026-09-20 07:30:56] dbg: [script:4] [0] [I] Station earthworks completed: changed corners=1
+[2026-09-20 07:30:56] dbg: [script:4] [0] [I] SAVE READY
+Saving map...
+[2026-09-20 07:30:56] dbg: [sl:2] Saving chunk GLOG
+[2026-09-20 07:30:56] dbg: [sl:2] Saving chunk MAPS
+[2026-09-20 07:30:56] dbg: [sl:2] Saving chunk MAPT
+[2026-09-20 07:30:56] dbg: [sl:2] Saving chunk MAPH
+[2026-09-20 07:30:56] dbg: [sl:2] Saving chunk MAPO
+[2026-09-20 07:30:56] dbg: [sl:2] Saving chunk MAP2
+[2026-09-20 07:30:56] dbg: [sl:2] Saving chunk M3LO
+[2026-09-20 07:30:56] dbg: [sl:2] Saving chunk M3HI
+[2026-09-20 07:30:56] dbg: [sl:2] Saving chunk MAP5
+[2026-09-20 07:30:56] dbg: [sl:2] Saving chunk MAPE
+[2026-09-20 07:30:56] dbg: [sl:2] Saving chunk MAP7
+[2026-09-20 07:30:56] dbg: [sl:2] Saving chunk MAP8
+[2026-09-20 07:30:56] dbg: [sl:2] Saving chunk DATE
+[2026-09-20 07:30:56] dbg: [sl:2] Saving chunk VIEW
+[2026-09-20 07:30:56] dbg: [sl:2] Saving chunk CHTS
+[2026-09-20 07:30:56] dbg: [sl:2] Saving chunk PATS
+[2026-09-20 07:30:56] dbg: [sl:2] Saving chunk VEHS
+[2026-09-20 07:30:56] dbg: [sl:2] Saving chunk DEPT
+[2026-09-20 07:30:56] dbg: [sl:2] Saving chunk BKOR
+[2026-09-20 07:30:56] dbg: [sl:2] Saving chunk ORDL
+[2026-09-20 07:30:56] dbg: [sl:2] Saving chunk INDY
+[2026-09-20 07:30:56] dbg: [sl:2] Saving chunk IIDS
+[2026-09-20 07:30:56] dbg: [sl:2] Saving chunk TIDS
+[2026-09-20 07:30:56] dbg: [sl:2] Saving chunk IBLD
+[2026-09-20 07:30:56] dbg: [sl:2] Saving chunk ITBL
+[2026-09-20 07:30:56] dbg: [sl:2] Saving chunk CAPY
+[2026-09-20 07:30:56] dbg: [sl:2] Saving chunk ECMY
+[2026-09-20 07:30:56] dbg: [sl:2] Saving chunk SUBS
+[2026-09-20 07:30:56] dbg: [sl:2] Saving chunk CMDL
+[2026-09-20 07:30:56] dbg: [sl:2] Saving chunk CMPU
+[2026-09-20 07:30:56] dbg: [sl:2] Saving chunk GOAL
+[2026-09-20 07:30:56] dbg: [sl:2] Saving chunk STPE
+[2026-09-20 07:30:56] dbg: [sl:2] Saving chunk STPA
+[2026-09-20 07:30:56] dbg: [sl:2] Saving chunk LEAE
+[2026-09-20 07:30:56] dbg: [sl:2] Saving chunk LEAT
+[2026-09-20 07:30:56] dbg: [sl:2] Saving chunk EIDS
+[2026-09-20 07:30:56] dbg: [sl:2] Saving chunk ENGN
+[2026-09-20 07:30:56] dbg: [sl:2] Saving chunk HIDS
+[2026-09-20 07:30:56] dbg: [sl:2] Saving chunk CITY
+[2026-09-20 07:30:56] dbg: [sl:2] Saving chunk SIGN
+[2026-09-20 07:30:56] dbg: [sl:2] Saving chunk STNN
+[2026-09-20 07:30:56] dbg: [sl:2] Saving chunk ROAD
+[2026-09-20 07:30:56] dbg: [sl:2] Saving chunk PLYR
+[2026-09-20 07:30:56] dbg: [sl:2] Saving chunk AIPL
+[2026-09-20 07:30:56] dbg: [sl:2] Saving chunk GSTR
+[2026-09-20 07:30:56] dbg: [sl:2] Saving chunk GSDT
+[2026-09-20 07:30:56] dbg: [sl:2] Saving chunk ANIT
+[2026-09-20 07:30:56] dbg: [sl:2] Saving chunk NGRF
+[2026-09-20 07:30:56] dbg: [sl:2] Saving chunk GRPS
+[2026-09-20 07:30:56] dbg: [sl:2] Saving chunk CAPA
+[2026-09-20 07:30:56] dbg: [sl:2] Saving chunk ERNW
+[2026-09-20 07:30:56] dbg: [sl:2] Saving chunk RAIL
+[2026-09-20 07:30:56] dbg: [sl:2] Saving chunk ROTT
+[2026-09-20 07:30:56] dbg: [sl:2] Saving chunk LGRP
+[2026-09-20 07:30:56] dbg: [sl:2] Saving chunk LGRJ
+[2026-09-20 07:30:56] dbg: [sl:2] Saving chunk LGRS
+[2026-09-20 07:30:56] dbg: [sl:2] Saving chunk ATID
+[2026-09-20 07:30:56] dbg: [sl:2] Saving chunk APID
+[2026-09-20 07:30:56] dbg: [sl:2] Saving chunk OBID
+[2026-09-20 07:30:56] dbg: [sl:2] Saving chunk OBJS
+[2026-09-20 07:30:56] dbg: [sl:2] Saving chunk PSAC
+[2026-09-20 07:30:56] dbg: [sl:2] Saving chunk SRND
+Map successfully saved to '/var/folders/7d/2gxm9lbx749023nngm_wnb280000gn/T/vibetrains-save-5fra_6vr/roundtrip-7.sav'.
+[2026-09-20 07:30:57] dbg: [net:3] Initializing UDP listeners
+[2026-09-20 07:30:57] dbg: [net:3] Shutting down network

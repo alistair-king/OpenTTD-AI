@@ -1,0 +1,26 @@
+[2026-10-14 20:23:27] dbg: [script:4] [0] [I] Downgrading API to be compatible with version 14
+[2026-10-14 20:23:27] dbg: [script:4] [0] [I] Test: candidates exhausted; production requirement reduced to 75% of its original threshold.
+[2026-10-14 20:23:27] dbg: [script:4] [0] [I] Test: candidates exhausted; production requirement reduced to 50% of its original threshold.
+[2026-10-14 20:23:27] dbg: [script:4] [0] [I] Test: candidates exhausted; production requirement reduced to 25% of its original threshold.
+[2026-10-14 20:23:27] dbg: [script:4] [0] [I] Test: candidates exhausted; production requirement reduced to 10% of its original threshold.
+[2026-10-14 20:23:27] dbg: [script:4] [0] [I] Coal: candidates exhausted; production requirement reduced to 75% of its original threshold.
+[2026-10-14 20:23:27] dbg: [script:4] [0] [I] Coal: no remaining viable untried connections at the production threshold; other route types may now be planned.
+[2026-10-14 20:23:27] dbg: [script:4] [0] [I] Coal: candidates exhausted; production requirement reduced to 50% of its original threshold.
+[2026-10-14 20:23:27] dbg: [script:4] [0] [I] Coal: no remaining viable untried connections at the production threshold; other route types may now be planned.
+[2026-10-14 20:23:27] dbg: [script:4] [0] [I] Coal: candidates exhausted; production requirement reduced to 25% of its original threshold.
+[2026-10-14 20:23:27] dbg: [script:4] [0] [I] Coal: no remaining viable untried connections at the production threshold; other route types may now be planned.
+[2026-10-14 20:23:27] dbg: [script:4] [0] [I] Coal: candidates exhausted; production requirement reduced to 10% of its original threshold.
+[2026-10-14 20:23:27] dbg: [script:4] [0] [I] Coal: no remaining viable untried connections at the production threshold; other route types may now be planned.
+[2026-10-14 20:23:27] dbg: [script:4] [0] [I] Coal: no remaining viable untried connections at the production threshold; other route types may now be planned.
+[2026-10-14 20:23:27] dbg: [script:4] [0] [I] Farms: candidates exhausted; production requirement reduced to 75% of its original threshold.
+[2026-10-14 20:23:27] dbg: [script:4] [0] [I] Iron ore: no remaining viable untried connections at the production threshold; other route types may now be planned.
+[2026-10-14 20:23:27] dbg: [script:4] [0] [I] Wood: no remaining viable untried connections at the production threshold; other route types may now be planned.
+[2026-10-14 20:23:27] dbg: [script:4] [0] [I] Oil: candidates exhausted; production requirement reduced to 75% of its original threshold.
+[2026-10-14 20:23:27] dbg: [script:4] [0] [I] Oil: no remaining viable untried connections at the production threshold; other route types may now be planned.
+[2026-10-14 20:23:27] dbg: [script:4] [0] [I] Oil: candidates exhausted; production requirement reduced to 50% of its original threshold.
+[2026-10-14 20:23:27] dbg: [script:4] [0] [I] Oil: no remaining viable untried connections at the production threshold; other route types may now be planned.
+[2026-10-14 20:23:27] dbg: [script:4] [0] [I] Oil: candidates exhausted; production requirement reduced to 25% of its original threshold.
+[2026-10-14 20:23:27] dbg: [script:4] [0] [I] Oil: no remaining viable untried connections at the production threshold; other route types may now be planned.
+[2026-10-14 20:23:27] dbg: [script:4] [0] [I] Oil: candidates exhausted; production requirement reduced to 10% of its original threshold.
+[2026-10-14 20:23:27] dbg: [script:4] [0] [I] Oil: no remaining viable untried connections at the production threshold; other route types may now be planned.
+[2026-10-14 20:23:27] dbg: [script:4] [0] [I] PRODUCTION RELAX PASS: staged monthly relaxation, final scan, shared farm thresholds, cargo floors and save/load.

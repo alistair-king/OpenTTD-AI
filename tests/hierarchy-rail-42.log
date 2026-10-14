@@ -1,0 +1,40 @@
+[2026-09-11 14:23:08] dbg: [script:4] [0] [I] Downgrading API to be compatible with version 14
+[2026-09-11 14:23:08] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-09-11 14:23:08] dbg: [script:4] [0] [I] Paired planner: connected in 28 states.
+[2026-09-11 14:23:08] dbg: [script:4] [0] [I] Hierarchical planner: refining 5 coarse cells, corridor radius=1.
+[2026-09-11 14:23:08] dbg: [script:4] [0] [I] Paired planner: connected in 28 states.
+[2026-09-11 14:23:08] dbg: [script:4] [0] [I] Hierarchical planner: corridor connected.
+[2026-09-11 14:23:08] dbg: [script:4] [0] [I] HIERARCHY BENCH: baseline=37, hierarchical=38, baseline score=5820, hierarchical score=5820
+[2026-09-11 14:23:08] dbg: [script:4] [0] [I] Hierarchical planner: refining 5 coarse cells, corridor radius=1.
+[2026-09-11 14:23:08] dbg: [script:4] [0] [I] Paired planner: switching to individual-track fallback (no paired path found) after 1 states.
+[2026-09-11 14:23:08] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=4361, target=4388
+[2026-09-11 14:23:08] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: no path in search area, states=1, elapsed ticks=0
+[2026-09-11 14:23:08] dbg: [script:4] [0] [I] Failure location: start, nearest target=27, search spread=0
+[2026-09-11 14:23:08] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=4356, target=4393
+[2026-09-11 14:23:08] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: no path in search area, states=1, elapsed ticks=0
+[2026-09-11 14:23:08] dbg: [script:4] [0] [I] Failure location: start, nearest target=37, search spread=0
+[2026-09-11 14:23:08] dbg: [script:4] [0] [I] Hierarchical planner: widening corridor.
+[2026-09-11 14:23:08] dbg: [script:4] [0] [I] Hierarchical planner: refining 5 coarse cells, corridor radius=2.
+[2026-09-11 14:23:08] dbg: [script:4] [0] [I] Paired planner: switching to individual-track fallback (no paired path found) after 1 states.
+[2026-09-11 14:23:08] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=4361, target=4388
+[2026-09-11 14:23:08] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: no path in search area, states=1, elapsed ticks=0
+[2026-09-11 14:23:08] dbg: [script:4] [0] [I] Failure location: start, nearest target=27, search spread=0
+[2026-09-11 14:23:08] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=4356, target=4393
+[2026-09-11 14:23:08] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: no path in search area, states=1, elapsed ticks=0
+[2026-09-11 14:23:08] dbg: [script:4] [0] [I] Failure location: start, nearest target=37, search spread=0
+[2026-09-11 14:23:08] dbg: [script:4] [0] [I] Hierarchical planner: switching to unrestricted fallback.
+[2026-09-11 14:23:08] dbg: [script:4] [0] [I] Paired planner: connected in 28 states.
+[2026-09-11 14:23:08] dbg: [script:4] [0] [I] Paired planner: connected in 28 states.
+[2026-09-11 14:23:08] dbg: [script:4] [0] [I] Route smoothing retained: score=5820 -> 5600, changed corners=3
+[2026-09-11 14:23:08] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-09-11 14:23:08] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-09-11 14:23:08] dbg: [script:4] [0] [I] Overlapping X crossovers verified at both stations.
+[2026-09-11 14:23:08] dbg: [script:4] [0] [I] Station entrances verified: two crossovers and four platform path signals.
+[2026-09-11 14:23:08] dbg: [script:4] [0] [I] Station A crossover depot verified: both directions and both platforms. Route index=26, route length=28
+[2026-09-11 14:23:08] dbg: [script:4] [0] [I] Immediate post-crossover departure signal verified on left-hand track.
+[2026-09-11 14:23:08] dbg: [script:4] [0] [I] Immediate post-crossover departure signal verified on left-hand track.
+[2026-09-11 14:23:08] dbg: [script:4] [0] [I] Depot crossover approaches verified: main-line one-way signal and station-platform path signal.
+[2026-09-11 14:23:08] dbg: [script:4] [0] [I] Left-hand one-way running signals verified: count=12, spacing=5
+[2026-09-11 14:23:08] dbg: [script:4] [0] [I] Maintenance orders verified: station A, station B, depot.
+[2026-09-11 14:23:08] dbg: [script:4] [0] [I] Train 11 is rolling. Carriages=3, cargo=Passengers, capacity=120, length=32, platform=64
+[2026-09-11 14:23:08] dbg: [script:4] [0] [I] SMOOTHING PASS: both-track route improved, train completed circuit, original terrain restored after cleanup.

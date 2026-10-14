@@ -1,0 +1,16 @@
+[2026-10-11 08:11:33] dbg: [script:4] [0] [I] Downgrading API to be compatible with version 14
+[2026-10-11 08:11:33] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=2836, target=2863
+[2026-10-11 08:11:33] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=200, queued=154, rejected rail tests=0, elapsed ticks=46
+[2026-10-11 08:11:33] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: path found, states=983, elapsed ticks=231
+[2026-10-11 08:11:33] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-10-11 08:11:33] dbg: [script:4] [0] [I] Rail bridge built: 2841 -> 2843
+[2026-10-11 08:11:33] dbg: [script:4] [0] [I] Rail bridge built: 2856 -> 2858
+[2026-10-11 08:11:33] dbg: [script:4] [0] [I] First track built; now planning the return track.
+[2026-10-11 08:11:33] dbg: [script:4] [0] [I] Pathfinder: Track 2 narrow corridor, start=2964, target=2991
+[2026-10-11 08:11:33] dbg: [script:4] [0] [I] Pathfinder: Track 2 narrow corridor: path found, states=123, elapsed ticks=29
+[2026-10-11 08:11:33] dbg: [script:4] [0] [I] Route retry: retaining 21 source-side track tiles; replanning from the last structure exit.
+[2026-10-11 08:11:33] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=2836, target=2863
+[2026-10-11 08:11:33] dbg: [script:4] [0] [I] Continuing from retained track prefix: 21 tiles, Track 1 full search
+[2026-10-11 08:11:33] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: path found, states=6, elapsed ticks=2
+[2026-10-11 08:11:33] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-10-11 08:11:33] dbg: [script:4] [0] [I] STRUCTURE RETRY PASS: preserved prefix and all structures, last-exit seed, metadata and rollback.

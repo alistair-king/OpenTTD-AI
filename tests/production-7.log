@@ -1,0 +1,3 @@
+[2026-09-26 19:07:59] dbg: [script:4] [0] [I] Downgrading API to be compatible with version 14
+[2026-09-26 19:07:59] dbg: [script:4] [0] [I] Coal: no remaining viable untried connections at the production threshold; other route types may now be planned.
+[2026-09-26 19:07:59] dbg: [script:4] [0] [I] PRODUCTION PASS: highest eligible monthly output first, then lesser mines, failed-pair exclusions preserved.

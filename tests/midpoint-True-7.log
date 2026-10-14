@@ -1,0 +1,46 @@
+[2026-10-11 08:09:41] dbg: [script:4] [0] [I] Downgrading API to be compatible with version 14
+[2026-10-11 08:09:41] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=32291, target=37155
+[2026-10-11 08:09:41] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: path found, states=20, elapsed ticks=5
+[2026-10-11 08:09:41] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-10-11 08:09:41] dbg: [script:4] [0] [I] First track built; now planning the return track.
+[2026-10-11 08:09:41] dbg: [script:4] [0] [I] Route retry: retaining 9 source-side track tiles; replanning from the midpoint.
+[2026-10-11 08:09:41] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=32291, target=37155
+[2026-10-11 08:09:41] dbg: [script:4] [0] [I] Continuing from retained midpoint: 10 tiles, Track 1 full search
+[2026-10-11 08:09:41] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: path found, states=62, elapsed ticks=14
+[2026-10-11 08:09:41] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-10-11 08:09:41] dbg: [script:4] [0] [I] Pathfinder: Track 2 narrow corridor, start=32292, target=37156
+[2026-10-11 08:09:41] dbg: [script:4] [0] [I] Pathfinder: Track 2 narrow corridor: path found, states=92, elapsed ticks=23
+[2026-10-11 08:09:41] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-10-11 08:09:41] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-10-11 08:09:41] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=32291, target=37155
+[2026-10-11 08:09:41] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: path found, states=20, elapsed ticks=5
+[2026-10-11 08:09:41] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-10-11 08:09:41] dbg: [script:3] [0] [W] Track construction failed at 36131: ERR_AREA_NOT_CLEAR
+[2026-10-11 08:09:41] dbg: [script:4] [0] [I] Route retry: retaining 9 source-side track tiles; replanning from the midpoint.
+[2026-10-11 08:09:41] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=32291, target=37155
+[2026-10-11 08:09:41] dbg: [script:4] [0] [I] Continuing from retained midpoint: 10 tiles, Track 1 full search
+[2026-10-11 08:09:41] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: path found, states=62, elapsed ticks=14
+[2026-10-11 08:09:41] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-10-11 08:09:41] dbg: [script:4] [0] [I] Pathfinder: Track 2 narrow corridor, start=32292, target=37156
+[2026-10-11 08:09:41] dbg: [script:4] [0] [I] Pathfinder: Track 2 narrow corridor: path found, states=92, elapsed ticks=23
+[2026-10-11 08:09:41] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=32291, target=37155
+[2026-10-11 08:09:41] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: path found, states=20, elapsed ticks=5
+[2026-10-11 08:09:41] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-10-11 08:09:41] dbg: [script:4] [0] [I] First track built; now planning the return track.
+[2026-10-11 08:09:41] dbg: [script:4] [0] [I] Route retry: retaining 9 source-side track tiles; replanning from the midpoint.
+[2026-10-11 08:09:41] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=32291, target=37155
+[2026-10-11 08:09:41] dbg: [script:4] [0] [I] Continuing from retained midpoint: 10 tiles, Track 1 full search
+[2026-10-11 08:09:41] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: path found, states=62, elapsed ticks=14
+[2026-10-11 08:09:41] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-10-11 08:09:41] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=31011, target=38435
+[2026-10-11 08:09:41] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=200, queued=232, rejected rail tests=0, elapsed ticks=53
+[2026-10-11 08:09:41] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: path found, states=436, elapsed ticks=111
+[2026-10-11 08:09:41] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-10-11 08:09:41] dbg: [script:4] [0] [I] First track built; now planning the return track.
+[2026-10-11 08:09:41] dbg: [script:4] [0] [I] Route retry: retaining 22 source-side track tiles; replanning from the midpoint.
+[2026-10-11 08:09:41] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=31011, target=38435
+[2026-10-11 08:09:41] dbg: [script:4] [0] [I] Continuing from retained midpoint: 23 tiles, Track 1 full search
+[2026-10-11 08:09:41] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=200, queued=143, rejected rail tests=0, elapsed ticks=49
+[2026-10-11 08:09:41] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: path found, states=347, elapsed ticks=85
+[2026-10-11 08:09:41] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-10-11 08:09:41] dbg: [script:4] [0] [I] MIDPOINT PASS: retained source half, removed tail, alternative path, bounded failure and rollback.

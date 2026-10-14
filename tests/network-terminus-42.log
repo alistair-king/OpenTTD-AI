@@ -1,0 +1,62 @@
+[2026-09-26 16:54:53] dbg: [script:4] [0] [I] Downgrading API to be compatible with version 14
+[2026-09-26 16:54:53] dbg: [script:4] [0] [I] NETWORK chain: Punfingpool Iron Ore Mine -> Nonningwell Steel Mill -> Quarnville Factory -> Quarnville
+[2026-09-26 16:54:53] dbg: [script:4] [0] [I] Freight network: planning complete ore -> steel -> goods -> city chain.
+[2026-09-26 16:54:53] dbg: [script:4] [0] [I] Planning: limiting this connection to 2400 AI ticks.
+[2026-09-26 16:54:53] dbg: [script:0] [0] [S] Your script made an error: You are not allowed to execute any DoCommand (even indirect) in your constructor, Save(), Load(), and any valuator.
+[2026-09-26 16:54:53] dbg: [script:0] [0] [S] 
+[2026-09-26 16:54:53] dbg: [script:0] [0] [S] CALLSTACK
+[2026-09-26 16:54:53] dbg: [script:0] [0] [S] *FUNCTION [PlanFlexible()] NetworkCheck/main.nut line [460]
+[2026-09-26 16:54:53] dbg: [script:0] [0] [S] *FUNCTION [Sites()] NetworkCheck/coal.nut line [203]
+[2026-09-26 16:54:53] dbg: [script:0] [0] [S] *FUNCTION [ConnectWithinBudget()] NetworkCheck/coal.nut line [294]
+[2026-09-26 16:54:53] dbg: [script:0] [0] [S] *FUNCTION [Connect()] NetworkCheck/coal.nut line [278]
+[2026-09-26 16:54:53] dbg: [script:0] [0] [S] *FUNCTION [TryBuild()] NetworkCheck/network.nut line [700]
+[2026-09-26 16:54:53] dbg: [script:0] [0] [S] *FUNCTION [Start()] NetworkCheck/main.nut line [584]
+[2026-09-26 16:54:53] dbg: [script:0] [0] [S] 
+[2026-09-26 16:54:53] dbg: [script:0] [0] [S] LOCALS
+[2026-09-26 16:54:53] dbg: [script:0] [0] [S] [length] 4
+[2026-09-26 16:54:53] dbg: [script:0] [0] [S] [lane] 0
+[2026-09-26 16:54:53] dbg: [script:0] [0] [S] [entrance] TABLE
+[2026-09-26 16:54:53] dbg: [script:0] [0] [S] [this] INSTANCE
+[2026-09-26 16:54:53] dbg: [script:0] [0] [S] [entrance] TABLE
+[2026-09-26 16:54:53] dbg: [script:0] [0] [S] [off] 256
+[2026-09-26 16:54:53] dbg: [script:0] [0] [S] [@ITERATOR@] 1
+[2026-09-26 16:54:53] dbg: [script:0] [0] [S] [exit] ARRAY
+[2026-09-26 16:54:53] dbg: [script:0] [0] [S] [@INDEX@] 0
+[2026-09-26 16:54:53] dbg: [script:0] [0] [S] [site] TABLE
+[2026-09-26 16:54:53] dbg: [script:0] [0] [S] [value] 1
+[2026-09-26 16:54:53] dbg: [script:0] [0] [S] [size] ARRAY
+[2026-09-26 16:54:53] dbg: [script:0] [0] [S] [@ITERATOR@] 1
+[2026-09-26 16:54:53] dbg: [script:0] [0] [S] [dir] 1
+[2026-09-26 16:54:53] dbg: [script:0] [0] [S] [@INDEX@] 0
+[2026-09-26 16:54:53] dbg: [script:0] [0] [S] [@ITERATOR@] 36514
+[2026-09-26 16:54:53] dbg: [script:0] [0] [S] [_] 0
+[2026-09-26 16:54:53] dbg: [script:0] [0] [S] [tile] 36514
+[2026-09-26 16:54:53] dbg: [script:0] [0] [S] [candidates] ARRAY
+[2026-09-26 16:54:53] dbg: [script:0] [0] [S] [tiles] INSTANCE
+[2026-09-26 16:54:53] dbg: [script:0] [0] [S] [radius] 4
+[2026-09-26 16:54:53] dbg: [script:0] [0] [S] [loading] true
+[2026-09-26 16:54:53] dbg: [script:0] [0] [S] [target] 40349
+[2026-09-26 16:54:53] dbg: [script:0] [0] [S] [industry] 24
+[2026-09-26 16:54:53] dbg: [script:0] [0] [S] [this] INSTANCE
+[2026-09-26 16:54:53] dbg: [script:0] [0] [S] [deadline] 2418
+[2026-09-26 16:54:53] dbg: [script:0] [0] [S] [b] INSTANCE
+[2026-09-26 16:54:53] dbg: [script:0] [0] [S] [target] 25
+[2026-09-26 16:54:53] dbg: [script:0] [0] [S] [source] 24
+[2026-09-26 16:54:53] dbg: [script:0] [0] [S] [this] INSTANCE
+[2026-09-26 16:54:53] dbg: [script:0] [0] [S] [key] "industry:8:24:25"
+[2026-09-26 16:54:53] dbg: [script:0] [0] [S] [target] 25
+[2026-09-26 16:54:53] dbg: [script:0] [0] [S] [source] 24
+[2026-09-26 16:54:53] dbg: [script:0] [0] [S] [this] INSTANCE
+[2026-09-26 16:54:53] dbg: [script:0] [0] [S] [labels] ARRAY
+[2026-09-26 16:54:53] dbg: [script:0] [0] [S] [trunk] INSTANCE
+[2026-09-26 16:54:53] dbg: [script:0] [0] [S] [chain] TABLE
+[2026-09-26 16:54:53] dbg: [script:0] [0] [S] [this] INSTANCE
+[2026-09-26 16:54:53] dbg: [script:0] [0] [S] [i] 0
+[2026-09-26 16:54:53] dbg: [script:0] [0] [S] [rollback_attempts] 0
+[2026-09-26 16:54:53] dbg: [script:0] [0] [S] [rollback_checked] false
+[2026-09-26 16:54:53] dbg: [script:0] [0] [S] [saved_plan] false
+[2026-09-26 16:54:53] dbg: [script:0] [0] [S] [initial] TABLE
+[2026-09-26 16:54:53] dbg: [script:0] [0] [S] [controller_save] TABLE
+[2026-09-26 16:54:53] dbg: [script:0] [0] [S] [calls] ARRAY
+[2026-09-26 16:54:53] dbg: [script:0] [0] [S] [this] INSTANCE
+[2026-09-26 16:54:53] dbg: [script:0] The script died unexpectedly.

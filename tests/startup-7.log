@@ -1,0 +1,8 @@
+[2026-09-26 19:06:42] dbg: [script:4] [0] [I] Downgrading API to be compatible with version 14
+[2026-09-26 19:06:42] dbg: [script:4] [0] [I] Planning: limiting this connection to 1200 AI ticks.
+[2026-09-26 19:06:42] dbg: [script:4] [0] [I] Planning: project time budget reached; yielding to another connection.
+[2026-09-26 19:06:42] dbg: [script:4] [0] [I] Planning: deferring unsuccessful connection for 30 days (attempt 1).
+[2026-09-26 19:06:42] dbg: [script:4] [0] [I] Coal: planning Bretston Coal Mine -> Larnway Power Station
+[2026-09-26 19:06:42] dbg: [script:4] [0] [I] Coal: checking deferred connections after their cooldown.
+[2026-09-26 19:06:42] dbg: [script:4] [0] [I] Coal: planning Bretston Coal Mine -> Larnway Power Station
+[2026-09-26 19:06:42] dbg: [script:4] [0] [I] PRODUCTION PASS: startup deadline, town cooldown, cleanup, saved coal deferral and established retry.

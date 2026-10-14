@@ -1,0 +1,17 @@
+[2026-09-20 12:35:56] dbg: [script:4] [0] [I] Downgrading API to be compatible with version 14
+[2026-09-20 12:35:56] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=2188, target=4130
+[2026-09-20 12:35:56] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=200, queued=153, rejected rail tests=0, elapsed ticks=51
+[2026-09-20 12:35:56] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=1200, queued=588, rejected rail tests=0, elapsed ticks=321
+[2026-09-20 12:35:56] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=2200, queued=700, rejected rail tests=0, elapsed ticks=578
+[2026-09-20 12:35:56] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=3200, queued=819, rejected rail tests=0, elapsed ticks=833
+[2026-09-20 12:35:56] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=4200, queued=501, rejected rail tests=0, elapsed ticks=1066
+[2026-09-20 12:35:56] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=5200, queued=428, rejected rail tests=0, elapsed ticks=1312
+[2026-09-20 12:35:56] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=6200, queued=466, rejected rail tests=0, elapsed ticks=1559
+[2026-09-20 12:35:56] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=7200, queued=486, rejected rail tests=13, elapsed ticks=1807
+[2026-09-20 12:35:56] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: search budget reached, states=8000, elapsed ticks=2003
+[2026-09-20 12:35:56] dbg: [script:4] [0] [I] Failure location: target, nearest target=0, search spread=41
+[2026-09-20 12:35:56] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=2188, target=4386
+[2026-09-20 12:35:56] dbg: [script:4] [0] [I] Continuing from retained midpoint: 19 tiles, Track 1 full search
+[2026-09-20 12:35:56] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: path found, states=22, elapsed ticks=6
+[2026-09-20 12:35:56] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-09-20 12:35:56] dbg: [script:4] [0] [I] PREFIX PASS: near-target failure retained 19 tiles; moved target, unchanged origin and first half, complete path built.

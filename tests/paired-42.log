@@ -1,0 +1,5 @@
+[2026-09-08 17:36:24] dbg: [script:4] [0] [I] Downgrading API to be compatible with version 14
+[2026-09-08 17:36:24] dbg: [script:4] [0] [I] Joint states=423
+[2026-09-08 17:36:24] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-09-08 17:36:24] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-09-08 17:36:24] dbg: [script:4] [0] [I] PAIRED PASS: shared tiles=11, separate rail pieces, opposing one-way signals and independent removal.

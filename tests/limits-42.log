@@ -1,0 +1,2 @@
+[2026-09-26 19:07:55] dbg: [script:4] [0] [I] Downgrading API to be compatible with version 14
+[2026-09-26 19:07:55] dbg: [script:4] [0] [I] LIMITS PASS: one-train goods cap, queued goods work, progressively larger backlog, cooldown, congestion, loading exclusion, dispatch and save/load.

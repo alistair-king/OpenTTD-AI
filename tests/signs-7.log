@@ -1,0 +1,12 @@
+[2026-09-08 17:36:24] dbg: [script:4] [0] [I] Downgrading API to be compatible with version 14
+[2026-09-08 17:36:24] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=774, target=2716
+[2026-09-08 17:36:24] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=200, queued=218, rejected rail tests=0, elapsed ticks=48
+[2026-09-08 17:36:24] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: path found, states=400, elapsed ticks=99
+[2026-09-08 17:36:24] dbg: [script:4] [0] [I] Pathfinder: Track 2 narrow corridor, start=902, target=2844
+[2026-09-08 17:36:24] dbg: [script:4] [0] [I] Pathfinder: Track 2 narrow corridor: path found, states=136, elapsed ticks=35
+[2026-09-08 17:36:24] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-09-08 17:36:24] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-09-08 17:36:24] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=774, target=2716
+[2026-09-08 17:36:24] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: search budget reached, states=0, elapsed ticks=1
+[2026-09-08 17:36:24] dbg: [script:4] [0] [I] Failure location: middle, nearest target=37, search spread=0
+[2026-09-08 17:36:24] dbg: [script:4] [0] [I] SIGNS PASS: shared tiles=15, separate rail pieces, opposing one-way signals and independent removal.

@@ -1,0 +1,6 @@
+[2026-09-08 20:25:33] dbg: [script:4] [0] [I] Downgrading API to be compatible with version 14
+[2026-09-08 20:25:33] dbg: [script:4] [0] [I] Finance: repaid 50000; outstanding loan=50000.
+[2026-09-08 20:25:33] dbg: [script:4] [0] [I] Finance: repaid 30000; outstanding loan=20000.
+[2026-09-08 20:25:33] dbg: [script:4] [0] [I] Finance: repaid 10000; outstanding loan=10000.
+[2026-09-08 20:25:33] dbg: [script:4] [0] [I] Finance: repaid 10000; outstanding loan=0.
+[2026-09-08 20:25:33] dbg: [script:4] [0] [I] LOAN PASS: threshold boundary, real repayments, bank accounting and full clearance.

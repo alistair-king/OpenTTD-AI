@@ -1,0 +1,213 @@
+[2026-09-27 07:02:57] dbg: [script:4] [0] [I] Downgrading API to be compatible with version 14
+[2026-09-27 07:02:57] dbg: [script:4] [0] [I] NETWORK chain: Little Haningville Forest -> Brenfingbridge Sawmill -> Donfingburg
+[2026-09-27 07:02:57] dbg: [script:4] [0] [I] Freight network: planning forest -> sawmill -> city chain.
+[2026-09-27 07:02:57] dbg: [script:4] [0] [I] Planning: limiting this connection to 2400 AI ticks.
+[2026-09-27 07:02:57] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-09-27 07:02:57] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=25975, target=10615
+[2026-09-27 07:02:57] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: no path in search area, states=15, elapsed ticks=2
+[2026-09-27 07:02:57] dbg: [script:4] [0] [I] Failure location: middle, nearest target=60, search spread=14
+[2026-09-27 07:02:57] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-09-27 07:02:57] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=25975, target=11125
+[2026-09-27 07:02:57] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: no path in search area, states=15, elapsed ticks=2
+[2026-09-27 07:02:57] dbg: [script:4] [0] [I] Failure location: middle, nearest target=58, search spread=14
+[2026-09-27 07:02:57] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-09-27 07:02:57] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=25975, target=10613
+[2026-09-27 07:02:57] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: no path in search area, states=15, elapsed ticks=2
+[2026-09-27 07:02:57] dbg: [script:4] [0] [I] Failure location: middle, nearest target=60, search spread=14
+[2026-09-27 07:02:57] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-09-27 07:02:57] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=25975, target=10870
+[2026-09-27 07:02:57] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: no path in search area, states=15, elapsed ticks=2
+[2026-09-27 07:02:57] dbg: [script:4] [0] [I] Failure location: middle, nearest target=59, search spread=14
+[2026-09-27 07:02:57] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-09-27 07:02:57] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=26740, target=10869
+[2026-09-27 07:02:57] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: path found, states=179, elapsed ticks=44
+[2026-09-27 07:02:57] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-09-27 07:02:57] dbg: [script:4] [0] [I] First track built; now planning the return track.
+[2026-09-27 07:02:57] dbg: [script:4] [0] [I] Pathfinder: Track 2 narrow corridor, start=26741, target=10870
+[2026-09-27 07:02:57] dbg: [script:4] [0] [I] Pathfinder progress: Track 2 narrow corridor, states=200, queued=31, rejected rail tests=0, elapsed ticks=52
+[2026-09-27 07:02:57] dbg: [script:4] [0] [I] Pathfinder: Track 2 narrow corridor: path found, states=310, elapsed ticks=76
+[2026-09-27 07:02:57] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-09-27 07:02:57] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-09-27 07:02:57] dbg: [script:4] [0] [I] Overlapping X crossovers verified at both stations.
+[2026-09-27 07:02:57] dbg: [script:4] [0] [I] Station entrances verified: two crossovers and four platform path signals.
+[2026-09-27 07:02:57] dbg: [script:4] [0] [I] Approach depot verified: Route index=47, route length=64
+[2026-09-27 07:02:57] dbg: [script:4] [0] [I] Immediate post-crossover departure signal verified on left-hand track.
+[2026-09-27 07:02:57] dbg: [script:4] [0] [I] Immediate post-crossover departure signal verified on left-hand track.
+[2026-09-27 07:02:57] dbg: [script:4] [0] [I] Depot approaches verified: signals on both sides of the junction.
+[2026-09-27 07:02:57] dbg: [script:4] [0] [I] Left-hand one-way running signals verified: count=27, spacing=5
+[2026-09-27 07:02:57] dbg: [script:4] [0] [I] RIRO: separate entrance fan and return track verified.
+[2026-09-27 07:02:57] dbg: [script:4] [0] [I] Station A: roll-in roll-out loop built.
+[2026-09-27 07:02:57] dbg: [script:4] [0] [I] RIRO: separate entrance fan and return track verified.
+[2026-09-27 07:02:57] dbg: [script:4] [0] [I] Station B: roll-in roll-out loop built.
+[2026-09-27 07:02:57] dbg: [script:4] [0] [I] Maintenance orders verified: station A, station B, depot.
+[2026-09-27 07:02:57] dbg: [script:4] [0] [I] Train 10 is rolling. Carriages=3, cargo=Wood, capacity=90, length=32, platform=64
+[2026-09-27 07:02:57] dbg: [script:4] [0] [I] Two platforms and two connected tracks verified; station crossovers provide depot access.
+[2026-09-27 07:02:57] dbg: [script:4] [0] [I] Wood: service operating with 2 RIRO and 0 standard terminus stations. Train=10
+[2026-09-27 07:02:57] dbg: [script:4] [0] [I] Freight network: two-track WOOD backbone commissioned; junction candidates=22
+[2026-09-27 07:02:57] dbg: [script:4] [0] [I] Freight network: prioritising next link for Goods.
+[2026-09-27 07:02:57] dbg: [script:4] [0] [I] Planning: limiting this connection to 4800 AI ticks.
+[2026-09-27 07:02:57] dbg: [script:4] [0] [I] Freight network: branch station candidates=9
+[2026-09-27 07:02:57] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=16762, target=12441
+[2026-09-27 07:02:57] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=200, queued=449, rejected rail tests=14, elapsed ticks=66
+[2026-09-27 07:02:57] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=1200, queued=980, rejected rail tests=32, elapsed ticks=341
+[2026-09-27 07:02:57] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=2200, queued=1197, rejected rail tests=48, elapsed ticks=606
+[2026-09-27 07:02:57] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=3200, queued=1287, rejected rail tests=59, elapsed ticks=867
+[2026-09-27 07:02:57] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=4200, queued=1411, rejected rail tests=80, elapsed ticks=1127
+[2026-09-27 07:02:57] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=5200, queued=1510, rejected rail tests=104, elapsed ticks=1382
+[2026-09-27 07:02:57] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=6200, queued=1115, rejected rail tests=115, elapsed ticks=1616
+[2026-09-27 07:02:57] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=7200, queued=974, rejected rail tests=132, elapsed ticks=1856
+[2026-09-27 07:02:57] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: search budget reached, states=7999, elapsed ticks=2048
+[2026-09-27 07:02:57] dbg: [script:4] [0] [I] Failure location: target, nearest target=2, search spread=51
+[2026-09-27 07:02:57] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=16762, target=11931
+[2026-09-27 07:02:57] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=200, queued=458, rejected rail tests=16, elapsed ticks=67
+[2026-09-27 07:02:57] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=1200, queued=1114, rejected rail tests=34, elapsed ticks=349
+[2026-09-27 07:02:57] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=2200, queued=1268, rejected rail tests=49, elapsed ticks=613
+[2026-09-27 07:02:58] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=3200, queued=1369, rejected rail tests=61, elapsed ticks=876
+[2026-09-27 07:02:58] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=4200, queued=1563, rejected rail tests=72, elapsed ticks=1137
+[2026-09-27 07:02:58] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=5200, queued=1681, rejected rail tests=93, elapsed ticks=1396
+[2026-09-27 07:02:58] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=6200, queued=1614, rejected rail tests=117, elapsed ticks=1645
+[2026-09-27 07:02:58] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=7200, queued=1218, rejected rail tests=124, elapsed ticks=1880
+[2026-09-27 07:02:58] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: search budget reached, states=8000, elapsed ticks=2072
+[2026-09-27 07:02:58] dbg: [script:4] [0] [I] Failure location: target, nearest target=2, search spread=54
+[2026-09-27 07:02:58] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=16762, target=11676
+[2026-09-27 07:02:58] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=200, queued=447, rejected rail tests=16, elapsed ticks=66
+[2026-09-27 07:02:58] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=1200, queued=1175, rejected rail tests=35, elapsed ticks=351
+[2026-09-27 07:02:58] dbg: [script:4] [0] [I] Planning: project time budget reached; yielding to another connection.
+[2026-09-27 07:02:58] dbg: [script:4] [0] [I] Freight network: prioritising next link for Goods.
+[2026-09-27 07:02:58] dbg: [script:4] [0] [I] Planning: limiting this connection to 4800 AI ticks.
+[2026-09-27 07:02:58] dbg: [script:4] [0] [I] Freight network: branch station candidates=7
+[2026-09-27 07:02:58] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=16762, target=11676
+[2026-09-27 07:02:58] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=200, queued=447, rejected rail tests=16, elapsed ticks=66
+[2026-09-27 07:02:58] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=1200, queued=1175, rejected rail tests=35, elapsed ticks=351
+[2026-09-27 07:02:58] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=2200, queued=1342, rejected rail tests=54, elapsed ticks=616
+[2026-09-27 07:02:58] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=3200, queued=1473, rejected rail tests=67, elapsed ticks=878
+[2026-09-27 07:02:58] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=4200, queued=1649, rejected rail tests=79, elapsed ticks=1141
+[2026-09-27 07:02:58] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=5200, queued=1718, rejected rail tests=85, elapsed ticks=1399
+[2026-09-27 07:02:58] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=6200, queued=1740, rejected rail tests=120, elapsed ticks=1656
+[2026-09-27 07:02:58] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=7200, queued=1499, rejected rail tests=127, elapsed ticks=1897
+[2026-09-27 07:02:58] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: search budget reached, states=8000, elapsed ticks=2085
+[2026-09-27 07:02:58] dbg: [script:4] [0] [I] Failure location: target, nearest target=2, search spread=56
+[2026-09-27 07:02:58] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=16762, target=11677
+[2026-09-27 07:02:58] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=200, queued=447, rejected rail tests=16, elapsed ticks=66
+[2026-09-27 07:02:58] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=1200, queued=1199, rejected rail tests=35, elapsed ticks=352
+[2026-09-27 07:02:58] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=2200, queued=1369, rejected rail tests=54, elapsed ticks=618
+[2026-09-27 07:02:58] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=3200, queued=1504, rejected rail tests=67, elapsed ticks=881
+[2026-09-27 07:02:58] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=4200, queued=1590, rejected rail tests=77, elapsed ticks=1142
+[2026-09-27 07:02:58] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=5200, queued=1739, rejected rail tests=82, elapsed ticks=1400
+[2026-09-27 07:02:59] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=6200, queued=1799, rejected rail tests=119, elapsed ticks=1661
+[2026-09-27 07:02:59] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=7200, queued=1528, rejected rail tests=127, elapsed ticks=1901
+[2026-09-27 07:02:59] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: search budget reached, states=8000, elapsed ticks=2092
+[2026-09-27 07:02:59] dbg: [script:4] [0] [I] Failure location: target, nearest target=2, search spread=57
+[2026-09-27 07:02:59] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=16762, target=12187
+[2026-09-27 07:02:59] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=200, queued=459, rejected rail tests=15, elapsed ticks=67
+[2026-09-27 07:02:59] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=1200, queued=1079, rejected rail tests=33, elapsed ticks=347
+[2026-09-27 07:02:59] dbg: [script:4] [0] [I] Planning: project time budget reached; yielding to another connection.
+[2026-09-27 07:02:59] dbg: [script:4] [0] [I] Freight network: prioritising next link for Goods.
+[2026-09-27 07:02:59] dbg: [script:4] [0] [I] Planning: limiting this connection to 4800 AI ticks.
+[2026-09-27 07:02:59] dbg: [script:4] [0] [I] Freight network: branch station candidates=4
+[2026-09-27 07:02:59] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=16762, target=12187
+[2026-09-27 07:02:59] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=200, queued=459, rejected rail tests=15, elapsed ticks=67
+[2026-09-27 07:02:59] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=1200, queued=1079, rejected rail tests=33, elapsed ticks=347
+[2026-09-27 07:02:59] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=2200, queued=1231, rejected rail tests=51, elapsed ticks=610
+[2026-09-27 07:02:59] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=3200, queued=1375, rejected rail tests=64, elapsed ticks=874
+[2026-09-27 07:02:59] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=4200, queued=1503, rejected rail tests=70, elapsed ticks=1133
+[2026-09-27 07:02:59] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=5200, queued=1665, rejected rail tests=97, elapsed ticks=1394
+[2026-09-27 07:02:59] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=6200, queued=1379, rejected rail tests=115, elapsed ticks=1632
+[2026-09-27 07:02:59] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=7200, queued=1052, rejected rail tests=126, elapsed ticks=1867
+[2026-09-27 07:02:59] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: search budget reached, states=8000, elapsed ticks=2067
+[2026-09-27 07:02:59] dbg: [script:4] [0] [I] Failure location: target, nearest target=2, search spread=54
+[2026-09-27 07:02:59] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=16762, target=11422
+[2026-09-27 07:02:59] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=200, queued=457, rejected rail tests=17, elapsed ticks=67
+[2026-09-27 07:02:59] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=1200, queued=1270, rejected rail tests=37, elapsed ticks=357
+[2026-09-27 07:02:59] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=2200, queued=1439, rejected rail tests=55, elapsed ticks=623
+[2026-09-27 07:02:59] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=3200, queued=1600, rejected rail tests=68, elapsed ticks=888
+[2026-09-27 07:02:59] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=4200, queued=1662, rejected rail tests=77, elapsed ticks=1150
+[2026-09-27 07:02:59] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=5200, queued=1815, rejected rail tests=83, elapsed ticks=1412
+[2026-09-27 07:02:59] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=6200, queued=1943, rejected rail tests=105, elapsed ticks=1674
+[2026-09-27 07:02:59] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=7200, queued=1888, rejected rail tests=136, elapsed ticks=1925
+[2026-09-27 07:02:59] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: search budget reached, states=8000, elapsed ticks=2114
+[2026-09-27 07:02:59] dbg: [script:4] [0] [I] Failure location: target, nearest target=2, search spread=58
+[2026-09-27 07:02:59] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=16751, target=12186
+[2026-09-27 07:02:59] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=200, queued=178, rejected rail tests=0, elapsed ticks=51
+[2026-09-27 07:03:00] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=1200, queued=392, rejected rail tests=47, elapsed ticks=295
+[2026-09-27 07:03:00] dbg: [script:4] [0] [I] Planning: project time budget reached; yielding to another connection.
+[2026-09-27 07:03:00] dbg: [script:4] [0] [I] Freight network: prioritising next link for Goods.
+[2026-09-27 07:03:00] dbg: [script:4] [0] [I] Planning: limiting this connection to 8000 AI ticks.
+[2026-09-27 07:03:00] dbg: [script:4] [0] [I] Freight network: branch station candidates=2
+[2026-09-27 07:03:00] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=16751, target=12186
+[2026-09-27 07:03:00] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=200, queued=178, rejected rail tests=0, elapsed ticks=51
+[2026-09-27 07:03:00] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=1200, queued=392, rejected rail tests=47, elapsed ticks=295
+[2026-09-27 07:03:00] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=2200, queued=562, rejected rail tests=57, elapsed ticks=541
+[2026-09-27 07:03:00] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=3198, queued=497, rejected rail tests=69, elapsed ticks=778
+[2026-09-27 07:03:00] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=4197, queued=528, rejected rail tests=75, elapsed ticks=1015
+[2026-09-27 07:03:00] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=5195, queued=585, rejected rail tests=83, elapsed ticks=1256
+[2026-09-27 07:03:00] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=6194, queued=628, rejected rail tests=86, elapsed ticks=1497
+[2026-09-27 07:03:00] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=7191, queued=667, rejected rail tests=91, elapsed ticks=1738
+[2026-09-27 07:03:00] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: search budget reached, states=7990, elapsed ticks=1932
+[2026-09-27 07:03:00] dbg: [script:4] [0] [I] Failure location: middle, nearest target=39, search spread=45
+[2026-09-27 07:03:00] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=16751, target=11422
+[2026-09-27 07:03:00] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=200, queued=210, rejected rail tests=0, elapsed ticks=52
+[2026-09-27 07:03:00] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=1200, queued=405, rejected rail tests=35, elapsed ticks=295
+[2026-09-27 07:03:00] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=2200, queued=609, rejected rail tests=52, elapsed ticks=545
+[2026-09-27 07:03:00] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=3198, queued=485, rejected rail tests=66, elapsed ticks=780
+[2026-09-27 07:03:00] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=4198, queued=505, rejected rail tests=73, elapsed ticks=1018
+[2026-09-27 07:03:00] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=5196, queued=614, rejected rail tests=80, elapsed ticks=1262
+[2026-09-27 07:03:00] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=6194, queued=684, rejected rail tests=84, elapsed ticks=1505
+[2026-09-27 07:03:00] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=7192, queued=988, rejected rail tests=105, elapsed ticks=1761
+[2026-09-27 07:03:00] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: search budget reached, states=7989, elapsed ticks=1987
+[2026-09-27 07:03:00] dbg: [script:4] [0] [I] Failure location: middle, nearest target=10, search spread=79
+[2026-09-27 07:03:00] dbg: [script:4] [0] [I] Freight network: branch station candidates=9
+[2026-09-27 07:03:00] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=17018, target=11931
+[2026-09-27 07:03:00] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=200, queued=223, rejected rail tests=4, elapsed ticks=54
+[2026-09-27 07:03:00] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=1200, queued=1045, rejected rail tests=40, elapsed ticks=344
+[2026-09-27 07:03:00] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=2200, queued=1287, rejected rail tests=54, elapsed ticks=614
+[2026-09-27 07:03:00] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=3200, queued=1385, rejected rail tests=64, elapsed ticks=876
+[2026-09-27 07:03:01] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=4200, queued=1579, rejected rail tests=72, elapsed ticks=1139
+[2026-09-27 07:03:01] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=5200, queued=1677, rejected rail tests=95, elapsed ticks=1400
+[2026-09-27 07:03:01] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=6200, queued=1561, rejected rail tests=112, elapsed ticks=1647
+[2026-09-27 07:03:01] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=7200, queued=1339, rejected rail tests=123, elapsed ticks=1889
+[2026-09-27 07:03:01] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: search budget reached, states=8000, elapsed ticks=2076
+[2026-09-27 07:03:01] dbg: [script:4] [0] [I] Failure location: target, nearest target=2, search spread=55
+[2026-09-27 07:03:01] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=17018, target=12441
+[2026-09-27 07:03:01] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=200, queued=215, rejected rail tests=4, elapsed ticks=53
+[2026-09-27 07:03:01] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=1200, queued=1018, rejected rail tests=33, elapsed ticks=340
+[2026-09-27 07:03:01] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=2200, queued=1150, rejected rail tests=41, elapsed ticks=602
+[2026-09-27 07:03:01] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=3200, queued=1305, rejected rail tests=58, elapsed ticks=865
+[2026-09-27 07:03:01] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=4200, queued=1480, rejected rail tests=68, elapsed ticks=1128
+[2026-09-27 07:03:01] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=5200, queued=1441, rejected rail tests=101, elapsed ticks=1380
+[2026-09-27 07:03:01] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=6200, queued=1219, rejected rail tests=113, elapsed ticks=1620
+[2026-09-27 07:03:01] dbg: [script:4] [0] [I] Planning: project time budget reached; yielding to another connection.
+[2026-09-27 07:03:01] dbg: [script:4] [0] [I] Freight network: prioritising next link for Goods.
+[2026-09-27 07:03:01] dbg: [script:4] [0] [I] Planning: limiting this connection to 8000 AI ticks.
+[2026-09-27 07:03:01] dbg: [script:4] [0] [I] Freight network: branch station candidates=9
+[2026-09-27 07:03:01] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=16762, target=24236
+[2026-09-27 07:03:01] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=200, queued=236, rejected rail tests=12, elapsed ticks=54
+[2026-09-27 07:03:01] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=1200, queued=1110, rejected rail tests=20, elapsed ticks=348
+[2026-09-27 07:03:01] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=2200, queued=1616, rejected rail tests=42, elapsed ticks=634
+[2026-09-27 07:03:01] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: path found, states=2530, elapsed ticks=724
+[2026-09-27 07:03:01] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-09-27 07:03:01] dbg: [script:4] [0] [I] First track built; now planning the return track.
+[2026-09-27 07:03:01] dbg: [script:4] [0] [I] Pathfinder: Track 2 narrow corridor, start=17018, target=24492
+[2026-09-27 07:03:01] dbg: [script:4] [0] [I] Pathfinder progress: Track 2 narrow corridor, states=199, queued=77, rejected rail tests=0, elapsed ticks=59
+[2026-09-27 07:03:01] dbg: [script:4] [0] [I] Pathfinder: Track 2 narrow corridor: search budget reached, states=399, elapsed ticks=103
+[2026-09-27 07:03:01] dbg: [script:4] [0] [I] Pathfinder: Track 2 full search, start=17018, target=24492
+[2026-09-27 07:03:01] dbg: [script:4] [0] [I] Pathfinder progress: Track 2 full search, states=199, queued=122, rejected rail tests=0, elapsed ticks=60
+[2026-09-27 07:03:01] dbg: [script:4] [0] [I] Pathfinder progress: Track 2 full search, states=1195, queued=502, rejected rail tests=1, elapsed ticks=306
+[2026-09-27 07:03:01] dbg: [script:4] [0] [I] Pathfinder: Track 2 full search: path found, states=1566, elapsed ticks=399
+[2026-09-27 07:03:01] dbg: [script:4] [0] [I] Freight network: branch planned; junction oriented for reverse arrival so returning trains merge towards the pickup.
+[2026-09-27 07:03:01] dbg: [script:4] [0] [I] Freight network: branch planned; bringing network trains into depot for junction construction.
+[2026-09-27 07:03:01] dbg: [script:4] [0] [I] Freight network: dedicated pickup-station depot built at 14454.
+[2026-09-27 07:03:01] dbg: [script:3] [0] [W] Freight network: rolling back unfinished branch: ERR_NONE
+[2026-09-27 07:03:01] dbg: [script:4] [0] [I] Freight network: dedicated pickup-station depot built at 14454.
+[2026-09-27 07:03:01] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-09-27 07:03:01] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-09-27 07:03:01] dbg: [script:4] [0] [I] Rail bridge built: 17015 -> 17010
+[2026-09-27 07:03:01] dbg: [script:4] [0] [I] Overlapping X crossovers verified at both stations.
+[2026-09-27 07:03:01] dbg: [script:4] [0] [I] Station entrances verified: two crossovers and four platform path signals.
+[2026-09-27 07:03:01] dbg: [script:4] [0] [I] Freight network: using standard terminus; RIRO loop does not fit.
+[2026-09-27 07:03:01] dbg: [script:4] [0] [I] Freight junction: bridge separates crossing traffic; close approach and exit signals verified.
+[2026-09-27 07:03:01] dbg: [script:4] [0] [I] Maintenance orders verified: station A, station B, depot.
+[2026-09-27 07:03:01] dbg: [script:4] [0] [I] Train 14 is rolling. Carriages=3, cargo=Goods, capacity=75, length=32, platform=64
+[2026-09-27 07:03:01] dbg: [script:4] [0] [I] Freight network: shared-track Goods branch commissioned.
+[2026-09-27 07:03:01] dbg: [script:4] [0] [I] Optimiser: delayed train 14 released from depot.
+[2026-09-27 07:03:01] dbg: [script:4] [0] [I] NETWORK PASS: wood and goods delivered on shared dual-track network, three stations, saved network.

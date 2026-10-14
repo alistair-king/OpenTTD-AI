@@ -1,0 +1,17 @@
+[2026-09-11 15:48:46] dbg: [script:4] [0] [I] Downgrading API to be compatible with version 14
+[2026-09-11 15:48:46] dbg: [script:4] [0] [I] JUMP BENCH: enabled=false, ticks=101, states=400, jump steps=0
+[2026-09-11 15:48:46] dbg: [script:4] [0] [I] JUMP BENCH: enabled=true, ticks=38, states=78, jump steps=94
+[2026-09-11 15:48:46] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-09-11 15:48:46] dbg: [script:4] [0] [I] Jump planner: bounded open-terrain trial.
+[2026-09-11 15:48:46] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=4359, target=8221
+[2026-09-11 15:48:46] dbg: [script:4] [0] [I] Jump planner: intermediate steps=0, expanded states=0
+[2026-09-11 15:48:46] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: no path in search area, states=0, elapsed ticks=0
+[2026-09-11 15:48:46] dbg: [script:4] [0] [I] Failure location: start, nearest target=37, search spread=0
+[2026-09-11 15:48:46] dbg: [script:4] [0] [I] Jump planner: switching to ordinary A* fallback.
+[2026-09-11 15:48:46] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=4359, target=8221
+[2026-09-11 15:48:46] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=200, queued=218, rejected rail tests=0, elapsed ticks=49
+[2026-09-11 15:48:46] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: path found, states=400, elapsed ticks=102
+[2026-09-11 15:48:46] dbg: [script:4] [0] [I] Joint states=423
+[2026-09-11 15:48:46] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-09-11 15:48:46] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-09-11 15:48:46] dbg: [script:4] [0] [I] PAIRED PASS: shared tiles=11, separate rail pieces, opposing one-way signals and independent removal.

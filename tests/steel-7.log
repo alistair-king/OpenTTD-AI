@@ -1,0 +1,259 @@
+[2026-10-13 11:31:21] dbg: [script:4] [0] [I] Downgrading API to be compatible with version 14
+[2026-10-13 11:31:21] dbg: [script:4] [0] [I] Freight network: planning complete ore -> steel -> goods -> city chain.
+[2026-10-13 11:31:21] dbg: [script:4] [0] [I] Planning: limiting this connection to 1020 AI ticks.
+[2026-10-13 11:31:21] dbg: [script:4] [0] [I] Iron ore: no complete freight route found for this pair.
+[2026-10-13 11:31:21] dbg: [script:4] [0] [I] Route failed at 13784 towards Mentbourne Steel Mill: Station exits share one outbound lane; last failure tile=-1
+[2026-10-13 11:31:21] dbg: [script:4] [0] [I] Planning: deferring unsuccessful connection for 30 days (attempt 1).
+[2026-10-13 11:31:21] dbg: [script:4] [0] [I] Freight network: planning complete ore -> steel -> goods -> city chain.
+[2026-10-13 11:31:21] dbg: [script:4] [0] [I] Planning: limiting this connection to 1020 AI ticks.
+[2026-10-13 11:31:21] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-13 11:31:21] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=15573, target=19887
+[2026-10-13 11:31:22] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=200, queued=213, rejected rail tests=0, elapsed ticks=53
+[2026-10-13 11:31:22] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=1200, queued=953, rejected rail tests=0, elapsed ticks=334
+[2026-10-13 11:31:22] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: search budget reached, states=1400, elapsed ticks=388
+[2026-10-13 11:31:22] dbg: [script:4] [0] [I] Failure location: target, nearest target=0, search spread=55
+[2026-10-13 11:31:22] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-13 11:31:22] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=15573, target=19887
+[2026-10-13 11:31:22] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=200, queued=213, rejected rail tests=0, elapsed ticks=53
+[2026-10-13 11:31:22] dbg: [script:4] [0] [I] Planning: project time budget reached; yielding to another connection.
+[2026-10-13 11:31:22] dbg: [script:4] [0] [I] Route failed at 13784 towards Larnway Steel Mill: Project time budget reached; last failure tile=17347
+[2026-10-13 11:31:22] dbg: [script:4] [0] [I] Planning: deferring unsuccessful connection for 30 days (attempt 1).
+[2026-10-13 11:31:22] dbg: [script:4] [0] [I] Freight network: planning complete ore -> steel -> goods -> city chain.
+[2026-10-13 11:31:22] dbg: [script:4] [0] [I] Planning: limiting this connection to 2040 AI ticks.
+[2026-10-13 11:31:22] dbg: [script:4] [0] [I] Iron ore: no complete freight route found for this pair.
+[2026-10-13 11:31:22] dbg: [script:4] [0] [I] Route failed at 13784 towards Mentbourne Steel Mill: Station exits share one outbound lane; last failure tile=-1
+[2026-10-13 11:31:22] dbg: [script:4] [0] [I] Planning: deferring unsuccessful connection for 60 days (attempt 2).
+[2026-10-13 11:31:22] dbg: [script:4] [0] [I] Freight network: planning complete ore -> steel -> goods -> city chain.
+[2026-10-13 11:31:22] dbg: [script:4] [0] [I] Planning: limiting this connection to 2040 AI ticks.
+[2026-10-13 11:31:22] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-13 11:31:22] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=15573, target=19887
+[2026-10-13 11:31:22] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=200, queued=213, rejected rail tests=0, elapsed ticks=53
+[2026-10-13 11:31:22] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=1200, queued=953, rejected rail tests=0, elapsed ticks=334
+[2026-10-13 11:31:22] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: path found, states=1470, elapsed ticks=405
+[2026-10-13 11:31:22] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-10-13 11:31:22] dbg: [script:4] [0] [I] First track built; now planning the return track.
+[2026-10-13 11:31:22] dbg: [script:4] [0] [I] Pathfinder: Track 2 narrow corridor, start=15574, target=20143
+[2026-10-13 11:31:22] dbg: [script:4] [0] [I] Pathfinder progress: Track 2 narrow corridor, states=199, queued=74, rejected rail tests=0, elapsed ticks=53
+[2026-10-13 11:31:22] dbg: [script:4] [0] [I] Pathfinder: Track 2 narrow corridor: search budget reached, states=398, elapsed ticks=95
+[2026-10-13 11:31:22] dbg: [script:4] [0] [I] Pathfinder: Track 2 full search, start=15574, target=20143
+[2026-10-13 11:31:22] dbg: [script:4] [0] [I] Pathfinder progress: Track 2 full search, states=199, queued=134, rejected rail tests=0, elapsed ticks=56
+[2026-10-13 11:31:22] dbg: [script:4] [0] [I] Pathfinder progress: Track 2 full search, states=1190, queued=463, rejected rail tests=0, elapsed ticks=298
+[2026-10-13 11:31:22] dbg: [script:4] [0] [I] Pathfinder progress: Track 2 full search, states=2168, queued=543, rejected rail tests=0, elapsed ticks=532
+[2026-10-13 11:31:22] dbg: [script:4] [0] [I] Pathfinder: Track 2 full search: search budget reached, states=2764, elapsed ticks=675
+[2026-10-13 11:31:22] dbg: [script:4] [0] [I] Failure location: target, nearest target=6, search spread=55
+[2026-10-13 11:31:22] dbg: [script:4] [0] [I] Route retry: retaining 27 source-side track tiles; replanning from the midpoint.
+[2026-10-13 11:31:22] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=15573, target=19887
+[2026-10-13 11:31:22] dbg: [script:4] [0] [I] Continuing from retained track prefix: 28 tiles, Track 1 full search
+[2026-10-13 11:31:22] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: path found, states=136, elapsed ticks=35
+[2026-10-13 11:31:22] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-10-13 11:31:22] dbg: [script:4] [0] [I] Pathfinder: Track 2 narrow corridor, start=15574, target=20143
+[2026-10-13 11:31:22] dbg: [script:4] [0] [I] Pathfinder progress: Track 2 narrow corridor, states=199, queued=72, rejected rail tests=0, elapsed ticks=53
+[2026-10-13 11:31:22] dbg: [script:4] [0] [I] Pathfinder: Track 2 narrow corridor: search budget reached, states=398, elapsed ticks=95
+[2026-10-13 11:31:22] dbg: [script:4] [0] [I] Pathfinder: Track 2 full search, start=15574, target=20143
+[2026-10-13 11:31:22] dbg: [script:4] [0] [I] Pathfinder progress: Track 2 full search, states=199, queued=135, rejected rail tests=0, elapsed ticks=56
+[2026-10-13 11:31:22] dbg: [script:4] [0] [I] Planning: project time budget reached; yielding to another connection.
+[2026-10-13 11:31:22] dbg: [script:4] [0] [I] Route failed at 13784 towards Larnway Steel Mill: Project time budget reached; last failure tile=20166
+[2026-10-13 11:31:22] dbg: [script:4] [0] [I] Planning: deferring unsuccessful connection for 60 days (attempt 2).
+[2026-10-13 11:31:22] dbg: [script:4] [0] [I] Freight network: planning complete ore -> steel -> goods -> city chain.
+[2026-10-13 11:31:22] dbg: [script:4] [0] [I] Planning: limiting this connection to 1020 AI ticks.
+[2026-10-13 11:31:22] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-13 11:31:22] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-13 11:31:22] dbg: [script:4] [0] [I] Iron ore: no complete freight route found for this pair.
+[2026-10-13 11:31:22] dbg: [script:4] [0] [I] Route failed at 20190 towards Larnway Steel Mill: Source station exit does not face the destination; last failure tile=-1
+[2026-10-13 11:31:22] dbg: [script:4] [0] [I] Planning: deferring unsuccessful connection for 30 days (attempt 1).
+[2026-10-13 11:31:22] dbg: [script:4] [0] [I] Freight network: planning complete ore -> steel -> goods -> city chain.
+[2026-10-13 11:31:22] dbg: [script:4] [0] [I] Planning: limiting this connection to 2040 AI ticks.
+[2026-10-13 11:31:22] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-13 11:31:22] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-13 11:31:22] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-13 11:31:22] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-13 11:31:22] dbg: [script:4] [0] [I] Iron ore: no complete freight route found for this pair.
+[2026-10-13 11:31:22] dbg: [script:4] [0] [I] Route failed at 20190 towards Larnway Steel Mill: Source station exit does not face the destination; last failure tile=-1
+[2026-10-13 11:31:22] dbg: [script:4] [0] [I] Planning: deferring unsuccessful connection for 60 days (attempt 2).
+[2026-10-13 11:31:22] dbg: [script:4] [0] [I] Freight network: planning complete ore -> steel -> goods -> city chain.
+[2026-10-13 11:31:22] dbg: [script:4] [0] [I] Planning: limiting this connection to 4080 AI ticks.
+[2026-10-13 11:31:22] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-13 11:31:22] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-13 11:31:22] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-13 11:31:22] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-13 11:31:22] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-13 11:31:22] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-13 11:31:22] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-13 11:31:22] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-13 11:31:22] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-13 11:31:22] dbg: [script:4] [0] [I] Iron ore: no complete freight route found for this pair.
+[2026-10-13 11:31:22] dbg: [script:4] [0] [I] Route failed at 20190 towards Larnway Steel Mill: Source station exit does not face the destination; last failure tile=-1
+[2026-10-13 11:31:22] dbg: [script:4] [0] [I] Planning: deferring unsuccessful connection for 180 days (attempt 3).
+[2026-10-13 11:31:22] dbg: [script:4] [0] [I] Freight network: planning complete ore -> steel -> goods -> city chain.
+[2026-10-13 11:31:22] dbg: [script:4] [0] [I] Planning: limiting this connection to 1020 AI ticks.
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=19162, target=14766
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=200, queued=208, rejected rail tests=0, elapsed ticks=53
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=1200, queued=1089, rejected rail tests=0, elapsed ticks=345
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: search budget reached, states=1400, elapsed ticks=402
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] Failure location: target, nearest target=2, search spread=59
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=19417, target=15793
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=200, queued=233, rejected rail tests=0, elapsed ticks=54
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] Planning: project time budget reached; yielding to another connection.
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] Route failed at 20190 towards Mentbourne Steel Mill: Project time budget reached; last failure tile=17333
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] Planning: deferring unsuccessful connection for 30 days (attempt 1).
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] Freight network: planning complete ore -> steel -> goods -> city chain.
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] Planning: limiting this connection to 6120 AI ticks.
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] Iron ore: no complete freight route found for this pair.
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] Route failed at 20190 towards Larnway Steel Mill: Source station exit does not face the destination; last failure tile=-1
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] Planning: deferring unsuccessful connection for 365 days (attempt 4).
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] Freight network: planning complete ore -> steel -> goods -> city chain.
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] Planning: limiting this connection to 2040 AI ticks.
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=19162, target=14766
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=200, queued=208, rejected rail tests=0, elapsed ticks=53
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=1200, queued=1089, rejected rail tests=0, elapsed ticks=345
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: path found, states=1672, elapsed ticks=474
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] First track built; now planning the return track.
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] Route retry: retaining 30 source-side track tiles; replanning from the midpoint.
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=19162, target=14766
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] Continuing from retained track prefix: 31 tiles, Track 1 full search
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=200, queued=214, rejected rail tests=0, elapsed ticks=54
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: path found, states=550, elapsed ticks=141
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=19162, target=14768
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=200, queued=208, rejected rail tests=0, elapsed ticks=53
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=1200, queued=1063, rejected rail tests=0, elapsed ticks=343
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: path found, states=1611, elapsed ticks=455
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] First track built; now planning the return track.
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] Pathfinder: Track 2 narrow corridor, start=19163, target=14769
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] Pathfinder progress: Track 2 narrow corridor, states=198, queued=25, rejected rail tests=0, elapsed ticks=52
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] Pathfinder: Track 2 narrow corridor: no path in search area, states=363, elapsed ticks=86
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] Pathfinder: Track 2 full search, start=19163, target=14769
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] Pathfinder progress: Track 2 full search, states=198, queued=126, rejected rail tests=0, elapsed ticks=57
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] Planning: project time budget reached; yielding to another connection.
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] Route failed at 20190 towards Mentbourne Steel Mill: Project time budget reached; last failure tile=16077
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] Planning: deferring unsuccessful connection for 60 days (attempt 2).
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] Freight network: planning complete ore -> steel -> goods -> city chain.
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] Planning: limiting this connection to 6120 AI ticks.
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=19162, target=14766
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=200, queued=208, rejected rail tests=0, elapsed ticks=53
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=1200, queued=1089, rejected rail tests=0, elapsed ticks=345
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: path found, states=1672, elapsed ticks=474
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] First track built; now planning the return track.
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] Route retry: retaining 30 source-side track tiles; replanning from the midpoint.
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=19162, target=14766
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] Continuing from retained track prefix: 31 tiles, Track 1 full search
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=200, queued=214, rejected rail tests=0, elapsed ticks=54
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: path found, states=550, elapsed ticks=141
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=19162, target=14768
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=200, queued=208, rejected rail tests=0, elapsed ticks=53
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=1200, queued=1063, rejected rail tests=0, elapsed ticks=343
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: path found, states=1611, elapsed ticks=455
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] First track built; now planning the return track.
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] Pathfinder: Track 2 narrow corridor, start=19163, target=14769
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] Pathfinder progress: Track 2 narrow corridor, states=198, queued=25, rejected rail tests=0, elapsed ticks=52
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] Pathfinder: Track 2 narrow corridor: no path in search area, states=363, elapsed ticks=86
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] Pathfinder: Track 2 full search, start=19163, target=14769
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] Pathfinder progress: Track 2 full search, states=198, queued=126, rejected rail tests=0, elapsed ticks=57
+[2026-10-13 11:31:23] dbg: [script:4] [0] [I] Pathfinder progress: Track 2 full search, states=1189, queued=403, rejected rail tests=0, elapsed ticks=295
+[2026-10-13 11:31:24] dbg: [script:4] [0] [I] Pathfinder progress: Track 2 full search, states=2179, queued=414, rejected rail tests=0, elapsed ticks=528
+[2026-10-13 11:31:24] dbg: [script:4] [0] [I] Pathfinder progress: Track 2 full search, states=3168, queued=392, rejected rail tests=1, elapsed ticks=759
+[2026-10-13 11:31:24] dbg: [script:4] [0] [I] Pathfinder progress: Track 2 full search, states=4162, queued=497, rejected rail tests=3, elapsed ticks=997
+[2026-10-13 11:31:24] dbg: [script:4] [0] [I] Pathfinder: Track 2 full search: path found, states=5076, elapsed ticks=1221
+[2026-10-13 11:31:24] dbg: [script:4] [0] [I] Pathfinder: removed 1 unnecessary short track detours.
+[2026-10-13 11:31:24] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-10-13 11:31:24] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-10-13 11:31:24] dbg: [script:4] [0] [I] Overlapping X crossovers verified at both stations.
+[2026-10-13 11:31:24] dbg: [script:4] [0] [I] Station entrances verified: two crossovers and four platform path signals.
+[2026-10-13 11:31:24] dbg: [script:4] [0] [I] Approach depot verified: Route index=40, route length=60
+[2026-10-13 11:31:24] dbg: [script:4] [0] [I] Immediate post-crossover departure signal verified on left-hand track.
+[2026-10-13 11:31:24] dbg: [script:4] [0] [I] Immediate post-crossover departure signal verified on left-hand track.
+[2026-10-13 11:31:24] dbg: [script:4] [0] [I] Depot approaches verified: signals on both sides of the junction.
+[2026-10-13 11:31:24] dbg: [script:4] [0] [I] Left-hand one-way running signals verified: count=27, spacing=5
+[2026-10-13 11:31:24] dbg: [script:4] [0] [I] RIRO: separate entrance fan and return track verified.
+[2026-10-13 11:31:24] dbg: [script:4] [0] [I] Station A: roll-in roll-out loop built.
+[2026-10-13 11:31:24] dbg: [script:4] [0] [I] RIRO: separate entrance fan and return track verified.
+[2026-10-13 11:31:24] dbg: [script:4] [0] [I] Station B: roll-in roll-out loop built.
+[2026-10-13 11:31:24] dbg: [script:4] [0] [I] Maintenance orders verified: station A, station B, depot.
+[2026-10-13 11:31:24] dbg: [script:4] [0] [I] Train 9 is rolling. Carriages=3, cargo=Iron Ore, capacity=90, length=32, platform=64
+[2026-10-13 11:31:24] dbg: [script:4] [0] [I] Two platforms and two connected tracks verified; station crossovers provide depot access.
+[2026-10-13 11:31:24] dbg: [script:4] [0] [I] Iron ore: service operating with 2 RIRO and 0 standard terminus stations. Train=9
+[2026-10-13 11:31:24] dbg: [script:4] [0] [I] Freight network: retaining usable route with no future junction sites; shared-track expansion may need a separate route.
+[2026-10-13 11:31:24] dbg: [script:4] [0] [I] Freight network: two-track IORE backbone commissioned; junction candidates=0
+[2026-10-13 11:31:24] dbg: [script:4] [0] [I] Freight network: prioritising next link for Steel.
+[2026-10-13 11:31:24] dbg: [script:4] [0] [I] SteelDelivery: no siblings
+[2026-10-13 11:31:24] dbg: [script:4] [0] [I] Steel: planning a separate steel mill -> factory route.
+[2026-10-13 11:31:24] dbg: [script:4] [0] [I] Planning: extended budget for an existing cargo chain's onward leg.
+[2026-10-13 11:31:24] dbg: [script:4] [0] [I] Planning: limiting this connection to 10200 AI ticks.
+[2026-10-13 11:31:24] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-13 11:31:24] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=16038, target=18030
+[2026-10-13 11:31:24] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=200, queued=291, rejected rail tests=9, elapsed ticks=57
+[2026-10-13 11:31:24] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: path found, states=697, elapsed ticks=193
+[2026-10-13 11:31:24] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-10-13 11:31:24] dbg: [script:4] [0] [I] First track built; now planning the return track.
+[2026-10-13 11:31:24] dbg: [script:4] [0] [I] Pathfinder: Track 2 narrow corridor, start=16039, target=18031
+[2026-10-13 11:31:24] dbg: [script:4] [0] [I] Pathfinder progress: Track 2 narrow corridor, states=198, queued=31, rejected rail tests=1, elapsed ticks=52
+[2026-10-13 11:31:24] dbg: [script:4] [0] [I] Pathfinder: Track 2 narrow corridor: search budget reached, states=398, elapsed ticks=95
+[2026-10-13 11:31:24] dbg: [script:4] [0] [I] Pathfinder: Track 2 full search, start=16039, target=18031
+[2026-10-13 11:31:24] dbg: [script:4] [0] [I] Pathfinder progress: Track 2 full search, states=194, queued=110, rejected rail tests=10, elapsed ticks=57
+[2026-10-13 11:31:24] dbg: [script:4] [0] [I] Pathfinder progress: Track 2 full search, states=1168, queued=416, rejected rail tests=27, elapsed ticks=297
+[2026-10-13 11:31:24] dbg: [script:4] [0] [I] Pathfinder progress: Track 2 full search, states=2148, queued=571, rejected rail tests=31, elapsed ticks=535
+[2026-10-13 11:31:24] dbg: [script:4] [0] [I] Pathfinder progress: Track 2 full search, states=3143, queued=619, rejected rail tests=31, elapsed ticks=773
+[2026-10-13 11:31:24] dbg: [script:4] [0] [I] Pathfinder progress: Track 2 full search, states=4141, queued=637, rejected rail tests=34, elapsed ticks=1011
+[2026-10-13 11:31:24] dbg: [script:4] [0] [I] Pathfinder progress: Track 2 full search, states=5138, queued=627, rejected rail tests=39, elapsed ticks=1248
+[2026-10-13 11:31:24] dbg: [script:4] [0] [I] Pathfinder progress: Track 2 full search, states=6137, queued=651, rejected rail tests=45, elapsed ticks=1487
+[2026-10-13 11:31:24] dbg: [script:4] [0] [I] Pathfinder: Track 2 full search: search budget reached, states=6735, elapsed ticks=1631
+[2026-10-13 11:31:24] dbg: [script:4] [0] [I] Failure location: target, nearest target=5, search spread=65
+[2026-10-13 11:31:24] dbg: [script:4] [0] [I] Route retry: retaining 31 source-side track tiles; replanning from the midpoint.
+[2026-10-13 11:31:24] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=16038, target=18030
+[2026-10-13 11:31:24] dbg: [script:4] [0] [I] Continuing from retained track prefix: 32 tiles, Track 1 full search
+[2026-10-13 11:31:24] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=200, queued=201, rejected rail tests=0, elapsed ticks=53
+[2026-10-13 11:31:24] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: path found, states=841, elapsed ticks=212
+[2026-10-13 11:31:24] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-10-13 11:31:24] dbg: [script:4] [0] [I] Pathfinder: Track 2 narrow corridor, start=16039, target=18031
+[2026-10-13 11:31:24] dbg: [script:4] [0] [I] Pathfinder progress: Track 2 narrow corridor, states=198, queued=31, rejected rail tests=1, elapsed ticks=53
+[2026-10-13 11:31:24] dbg: [script:4] [0] [I] Pathfinder: Track 2 narrow corridor: search budget reached, states=398, elapsed ticks=96
+[2026-10-13 11:31:24] dbg: [script:4] [0] [I] Pathfinder: Track 2 full search, start=16039, target=18031
+[2026-10-13 11:31:24] dbg: [script:4] [0] [I] Pathfinder progress: Track 2 full search, states=194, queued=110, rejected rail tests=10, elapsed ticks=58
+[2026-10-13 11:31:24] dbg: [script:4] [0] [I] Pathfinder progress: Track 2 full search, states=1167, queued=420, rejected rail tests=27, elapsed ticks=298
+[2026-10-13 11:31:24] dbg: [script:4] [0] [I] Pathfinder: Track 2 full search: path found, states=1925, elapsed ticks=482
+[2026-10-13 11:31:24] dbg: [script:4] [0] [I] RIRO: separate entrance fan and return track verified.
+[2026-10-13 11:31:24] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-10-13 11:31:24] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-10-13 11:31:24] dbg: [script:4] [0] [I] Overlapping X crossovers verified at both stations.
+[2026-10-13 11:31:24] dbg: [script:4] [0] [I] Station entrances verified: two crossovers and four platform path signals.
+[2026-10-13 11:31:24] dbg: [script:4] [0] [I] Approach depot verified: Route index=50, route length=67
+[2026-10-13 11:31:24] dbg: [script:4] [0] [I] Immediate post-crossover departure signal verified on left-hand track.
+[2026-10-13 11:31:24] dbg: [script:4] [0] [I] Immediate post-crossover departure signal verified on left-hand track.
+[2026-10-13 11:31:24] dbg: [script:4] [0] [I] Depot approaches verified: signals on both sides of the junction.
+[2026-10-13 11:31:24] dbg: [script:4] [0] [I] Left-hand one-way running signals verified: count=29, spacing=5
+[2026-10-13 11:31:24] dbg: [script:4] [0] [I] RIRO: separate entrance fan and return track verified.
+[2026-10-13 11:31:24] dbg: [script:4] [0] [I] Station A: roll-in roll-out loop built.
+[2026-10-13 11:31:24] dbg: [script:4] [0] [I] RIRO: separate entrance fan and return track verified.
+[2026-10-13 11:31:24] dbg: [script:4] [0] [I] Station B: roll-in roll-out loop built.
+[2026-10-13 11:31:24] dbg: [script:4] [0] [I] Maintenance orders verified: station A, station B, depot.
+[2026-10-13 11:31:24] dbg: [script:4] [0] [I] Train 15 is rolling. Carriages=3, cargo=Steel, capacity=60, length=32, platform=64
+[2026-10-13 11:31:24] dbg: [script:4] [0] [I] Steel: separate mill station and factory service commissioned; goods outlet is next.
+[2026-10-13 11:31:24] dbg: [script:4] [0] [I] Dual RIRO: delivery service commissioned; shared pickup platforms ready for the next cargo leg.
+[2026-10-13 11:31:24] dbg: [script:4] [0] [I] Two platforms and two connected tracks verified; station crossovers provide depot access.
+[2026-10-13 11:31:24] dbg: [script:4] [0] [I] Steel: service operating with 2 RIRO and 0 standard terminus stations. Train=15
+[2026-10-13 11:31:24] dbg: [script:4] [0] [I] STEEL PASS: ore supplies mill; independent single-track steel train delivers to factory, services own depot, saves, and enables goods continuation without junctions.

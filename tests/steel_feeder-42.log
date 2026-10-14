@@ -1,0 +1,4 @@
+[2026-10-14 20:30:08] dbg: [script:4] [0] [I] Downgrading API to be compatible with version 14
+[2026-10-14 20:30:08] dbg: [script:4] [0] [I] Steel: joining the shared factory input line with a feeder branch.
+[2026-10-14 20:30:08] dbg: [script:4] [0] [I] Steel: the mill now feeds the shared factory input line.
+[2026-10-14 20:30:08] dbg: [script:4] [0] [I] STEEL FEEDER PASS: steel joins the shared factory input line; separate line kept as fallback.

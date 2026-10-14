@@ -1,0 +1,4 @@
+[2026-09-25 19:02:43] dbg: [script:4] [0] [I] Downgrading API to be compatible with version 14
+[2026-09-25 19:02:45] dbg: [script:4] [0] [I] STRAIGHTNESS: turn=0, bends=4, states=47
+[2026-09-25 19:02:45] dbg: [script:4] [0] [I] STRAIGHTNESS: turn=50, bends=2, states=575
+[2026-09-25 19:02:45] dbg: [script:4] [0] [I] STRAIGHTNESS PASS: straight diagonal preferred over repeated bends.

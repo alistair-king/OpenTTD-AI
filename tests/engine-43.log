@@ -1,0 +1,82 @@
+[2026-09-24 15:09:41] dbg: [script:4] [0] [I] Downgrading API to be compatible with version 14
+[2026-09-24 15:09:41] dbg: [script:4] [0] [I] Planning: limiting this connection to 1200 AI ticks.
+[2026-09-24 15:09:41] dbg: [script:4] [0] [I] Station search: destination-facing sides first.
+[2026-09-24 15:09:41] dbg: [script:4] [0] [I] Station earthworks completed: changed corners=13
+[2026-09-24 15:09:41] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-09-24 15:09:41] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=13542, target=7393
+[2026-09-24 15:09:41] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=200, queued=146, rejected rail tests=16, elapsed ticks=51
+[2026-09-24 15:09:41] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: path found, states=433, elapsed ticks=116
+[2026-09-24 15:09:41] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-09-24 15:09:41] dbg: [script:4] [0] [I] First track built; now planning the return track.
+[2026-09-24 15:09:41] dbg: [script:4] [0] [I] Pathfinder: Track 2 narrow corridor, start=13543, target=7394
+[2026-09-24 15:09:41] dbg: [script:4] [0] [I] Pathfinder progress: Track 2 narrow corridor, states=200, queued=12, rejected rail tests=11, elapsed ticks=50
+[2026-09-24 15:09:41] dbg: [script:4] [0] [I] Pathfinder: Track 2 narrow corridor: path found, states=317, elapsed ticks=75
+[2026-09-24 15:09:41] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-09-24 15:09:41] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=13542, target=7260
+[2026-09-24 15:09:41] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=200, queued=145, rejected rail tests=7, elapsed ticks=52
+[2026-09-24 15:09:41] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: path found, states=721, elapsed ticks=199
+[2026-09-24 15:09:41] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-09-24 15:09:41] dbg: [script:4] [0] [I] First track built; now planning the return track.
+[2026-09-24 15:09:41] dbg: [script:4] [0] [I] Pathfinder: Track 2 narrow corridor, start=13543, target=7261
+[2026-09-24 15:09:41] dbg: [script:4] [0] [I] Pathfinder progress: Track 2 narrow corridor, states=200, queued=14, rejected rail tests=14, elapsed ticks=51
+[2026-09-24 15:09:41] dbg: [script:4] [0] [I] Pathfinder: Track 2 narrow corridor: path found, states=364, elapsed ticks=86
+[2026-09-24 15:09:41] dbg: [script:4] [0] [I] Planning: project time budget reached; yielding to another connection.
+[2026-09-24 15:09:41] dbg: [script:4] [0] [I] Station search: destination-facing sides first.
+[2026-09-24 15:09:41] dbg: [script:4] [0] [I] Planning: deferring unsuccessful connection for 30 days (attempt 1).
+[2026-09-24 15:09:41] dbg: [script:4] [0] [I] Planning: limiting this connection to 1200 AI ticks.
+[2026-09-24 15:09:41] dbg: [script:4] [0] [I] Station search: destination-facing sides first.
+[2026-09-24 15:09:41] dbg: [script:4] [0] [I] Station earthworks completed: changed corners=8
+[2026-09-24 15:09:41] dbg: [script:4] [0] [I] Station earthworks completed: changed corners=31
+[2026-09-24 15:09:41] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-09-24 15:09:41] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=5938, target=1689
+[2026-09-24 15:09:41] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=200, queued=277, rejected rail tests=30, elapsed ticks=68
+[2026-09-24 15:09:41] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=1200, queued=1047, rejected rail tests=96, elapsed ticks=388
+[2026-09-24 15:09:41] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: search budget reached, states=1600, elapsed ticks=515
+[2026-09-24 15:09:41] dbg: [script:4] [0] [I] Failure location: middle, nearest target=9, search spread=49
+[2026-09-24 15:09:41] dbg: [script:4] [0] [I] Station earthworks completed: changed corners=25
+[2026-09-24 15:09:41] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-09-24 15:09:41] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=5938, target=2324
+[2026-09-24 15:09:41] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=200, queued=277, rejected rail tests=30, elapsed ticks=68
+[2026-09-24 15:09:41] dbg: [script:4] [0] [I] Planning: project time budget reached; yielding to another connection.
+[2026-09-24 15:09:41] dbg: [script:4] [0] [I] Planning: deferring unsuccessful connection for 30 days (attempt 1).
+[2026-09-24 15:09:41] dbg: [script:4] [0] [I] Planning: limiting this connection to 1200 AI ticks.
+[2026-09-24 15:09:41] dbg: [script:4] [0] [I] Station search: destination-facing sides first.
+[2026-09-24 15:09:41] dbg: [script:4] [0] [I] Station earthworks completed: changed corners=6
+[2026-09-24 15:09:41] dbg: [script:4] [0] [I] Station earthworks completed: changed corners=10
+[2026-09-24 15:09:41] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-09-24 15:09:41] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=11504, target=3439
+[2026-09-24 15:09:41] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=200, queued=139, rejected rail tests=32, elapsed ticks=54
+[2026-09-24 15:09:41] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: path found, states=794, elapsed ticks=233
+[2026-09-24 15:09:41] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-09-24 15:09:41] dbg: [script:4] [0] [I] First track built; now planning the return track.
+[2026-09-24 15:09:41] dbg: [script:4] [0] [I] Pathfinder: Track 2 narrow corridor, start=11505, target=3440
+[2026-09-24 15:09:41] dbg: [script:4] [0] [I] Pathfinder progress: Track 2 narrow corridor, states=200, queued=13, rejected rail tests=29, elapsed ticks=57
+[2026-09-24 15:09:41] dbg: [script:4] [0] [I] Pathfinder: Track 2 narrow corridor: path found, states=366, elapsed ticks=96
+[2026-09-24 15:09:41] dbg: [script:4] [0] [I] Planning completed in 682 AI ticks.
+[2026-09-24 15:09:41] dbg: [script:4] [0] [I] Selected route: tiles=65, bends=2
+[2026-09-24 15:09:41] dbg: [script:4] [0] [I] Route distances: towns=77, stations=65
+[2026-09-24 15:09:41] dbg: [script:4] [0] [I] Station passenger production coverage: A=19, B=11
+[2026-09-24 15:09:41] dbg: [script:4] [0] [I] Station distances from town centres: A=3, B=4
+[2026-09-24 15:09:41] dbg: [script:4] [0] [I] Route planned; building stations, rail and a depot.
+[2026-09-24 15:09:41] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-09-24 15:09:41] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-09-24 15:09:41] dbg: [script:4] [0] [I] Rail bridge built: 7409 -> 8817
+[2026-09-24 15:09:41] dbg: [script:4] [0] [I] Overlapping X crossovers verified at both stations.
+[2026-09-24 15:09:41] dbg: [script:4] [0] [I] Station entrances verified: two crossovers and four platform path signals.
+[2026-09-24 15:09:41] dbg: [script:4] [0] [I] Station A crossover depot verified: both directions and both platforms. Route index=63, route length=65
+[2026-09-24 15:09:41] dbg: [script:4] [0] [I] Immediate post-crossover departure signal verified on left-hand track.
+[2026-09-24 15:09:41] dbg: [script:4] [0] [I] Immediate post-crossover departure signal verified on left-hand track.
+[2026-09-24 15:09:41] dbg: [script:4] [0] [I] Depot crossover approaches verified: main-line one-way signal and station-platform path signal.
+[2026-09-24 15:09:41] dbg: [script:4] [0] [I] Left-hand one-way running signals verified: count=24, spacing=5
+[2026-09-24 15:09:41] dbg: [script:4] [0] [I] Station A: retaining terminus; through loop did not fit.
+[2026-09-24 15:09:41] dbg: [script:4] [0] [I] Station B: retaining terminus; through loop did not fit.
+[2026-09-24 15:09:41] dbg: [script:4] [0] [I] Two platforms and two connected tracks verified; station crossovers provide depot access.
+[2026-09-24 15:09:41] dbg: [script:4] [0] [I] Maintenance orders verified: station A, station B, depot.
+[2026-09-24 15:09:41] dbg: [script:4] [0] [I] Train 2 is rolling. Carriages=3, cargo=Passengers, capacity=120, length=32, platform=64
+[2026-09-24 15:09:43] dbg: [script:4] [0] [I] Optimiser: train 2 at least five years old with reliability below 66%; newer, more powerful engine queued for next service.
+[2026-09-24 15:09:43] dbg: [script:4] [0] [I] Optimiser: train 2 resumed its service.
+[2026-09-24 15:09:43] dbg: [script:4] [0] [I] ENGINE TEST: oversized replacement rejected, carriages restored and original service resumed.
+[2026-09-24 15:09:43] dbg: [script:4] [0] [I] Optimiser: train 2 at least five years old with reliability below 66%; newer, more powerful engine queued for next service.
+[2026-09-24 15:09:43] dbg: [script:4] [0] [I] Optimiser: replaced engine on train 2 with SH '8P' (Steam); retained carriages. New train=6
+[2026-09-24 15:09:43] dbg: [script:4] [0] [I] Optimiser: train 6 resumed its service.
+[2026-09-24 15:09:43] dbg: [script:4] [0] [I] ENGINE PASS: five-year age gate and sub-66 reliability, queued save/load, newer higher-power engine, retained carriages and complete service circuit.

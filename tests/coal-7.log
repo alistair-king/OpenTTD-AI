@@ -1,0 +1,34 @@
+[2026-09-16 17:51:09] dbg: [script:4] [0] [I] Downgrading API to be compatible with version 14
+[2026-09-16 17:51:09] dbg: [script:4] [0] [I] Coal: planning Prarnpool Coal Mine -> Prarnpool Power Station
+[2026-09-16 17:51:09] dbg: [script:4] [0] [I] Startup planning: limiting this connection to 2400 AI ticks.
+[2026-09-16 17:51:09] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-09-16 17:51:09] dbg: [script:4] [0] [I] Hierarchical planner: refining 5 coarse cells, corridor radius=1.
+[2026-09-16 17:51:09] dbg: [script:4] [0] [I] Paired planner: connected in 44 states.
+[2026-09-16 17:51:09] dbg: [script:4] [0] [I] Hierarchical planner: corridor connected.
+[2026-09-16 17:51:09] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-09-16 17:51:09] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-09-16 17:51:09] dbg: [script:4] [0] [I] Overlapping X crossovers verified at both stations.
+[2026-09-16 17:51:09] dbg: [script:4] [0] [I] Station entrances verified: two crossovers and four platform path signals.
+[2026-09-16 17:51:09] dbg: [script:4] [0] [I] Station A crossover depot verified: both directions and both platforms. Route index=27, route length=29
+[2026-09-16 17:51:09] dbg: [script:4] [0] [I] Immediate post-crossover departure signal verified on left-hand track.
+[2026-09-16 17:51:09] dbg: [script:4] [0] [I] Immediate post-crossover departure signal verified on left-hand track.
+[2026-09-16 17:51:09] dbg: [script:4] [0] [I] Depot crossover approaches verified: main-line one-way signal and station-platform path signal.
+[2026-09-16 17:51:09] dbg: [script:4] [0] [I] Left-hand one-way running signals verified: count=12, spacing=5
+[2026-09-16 17:51:09] dbg: [script:4] [0] [I] RIRO: separate entrance fan and return track verified.
+[2026-09-16 17:51:09] dbg: [script:4] [0] [I] Station A: roll-in roll-out loop built.
+[2026-09-16 17:51:09] dbg: [script:4] [0] [I] RIRO: separate entrance fan and return track verified.
+[2026-09-16 17:51:09] dbg: [script:4] [0] [I] Station B: roll-in roll-out loop built.
+[2026-09-16 17:51:09] dbg: [script:4] [0] [I] Maintenance orders verified: station A, station B, depot.
+[2026-09-16 17:51:09] dbg: [script:4] [0] [I] Train 10 is rolling. Carriages=3, cargo=Coal, capacity=90, length=32, platform=64
+[2026-09-16 17:51:09] dbg: [script:4] [0] [I] Two platforms and two connected tracks verified; station crossovers provide depot access.
+[2026-09-16 17:51:09] dbg: [script:4] [0] [I] Coal: service operating with roll-in / roll-out stations at both ends. Train=10
+[2026-09-16 17:51:09] dbg: [script:4] [0] [I] Optimiser: train 10 departed full with cargo waiting; capacity upgrade queued for its next depot visit.
+[2026-09-16 17:51:09] dbg: [script:4] [0] [I] Optimiser: added one carriage to train 10. Capacity=90 -> 120, length=40, platform=48
+[2026-09-16 17:51:09] dbg: [script:4] [0] [I] Optimiser: train 10 resumed its service.
+[2026-09-16 17:51:09] dbg: [script:4] [0] [I] Optimiser: train 10 departed full with cargo waiting; capacity upgrade queued for its next depot visit.
+[2026-09-16 17:51:09] dbg: [script:4] [0] [I] Optimiser: added train 15 to the same route as train 10.
+[2026-09-16 17:51:09] dbg: [script:4] [0] [I] Optimiser: route now has 2 trains; next fleet expansion review in 360 days, subject to backlog and congestion.
+[2026-09-16 17:51:09] dbg: [script:4] [0] [I] Optimiser: train 10 resumed its service.
+[2026-09-16 17:51:09] dbg: [script:4] [0] [I] Coal: no remaining viable untried connections at the production threshold; other route types may now be planned.
+[2026-09-16 17:51:09] dbg: [script:4] [0] [I] No more town pairs look viable right now.
+[2026-09-16 17:51:09] dbg: [script:4] [0] [I] COAL PASS: real mine loading, power station unloading, maintenance, roll-through stations, wagon growth, staggered clone, no mail, optimiser and save/load.

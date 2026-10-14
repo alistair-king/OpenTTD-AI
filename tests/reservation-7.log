@@ -1,0 +1,19 @@
+[2026-09-09 05:40:48] dbg: [script:4] [0] [I] Downgrading API to be compatible with version 14
+[2026-09-09 05:40:49] dbg: [script:4] [0] [I] Station search: destination-facing sides first.
+[2026-09-09 05:40:49] dbg: [script:4] [0] [I] Station earthworks completed: changed corners=8
+[2026-09-09 05:40:49] dbg: [script:4] [0] [I] Both station sites secured before track planning.
+[2026-09-09 05:40:49] dbg: [script:4] [0] [I] Failure away from either endpoint; widening search before relocating stations.
+[2026-09-09 05:40:49] dbg: [script:4] [0] [I] Station search: destination-facing sides first.
+[2026-09-09 05:40:49] dbg: [script:4] [0] [I] Station search: allowing other sides as fallback.
+[2026-09-09 05:40:49] dbg: [script:4] [0] [I] Connection failed; swapping source and destination for one reverse attempt.
+[2026-09-09 05:40:49] dbg: [script:4] [0] [I] Station search: destination-facing sides first.
+[2026-09-09 05:40:49] dbg: [script:4] [0] [I] Station earthworks completed: changed corners=8
+[2026-09-09 05:40:49] dbg: [script:4] [0] [I] Both station sites secured before track planning.
+[2026-09-09 05:40:49] dbg: [script:4] [0] [I] Failure away from either endpoint; widening search before relocating stations.
+[2026-09-09 05:40:49] dbg: [script:4] [0] [I] Station search: destination-facing sides first.
+[2026-09-09 05:40:49] dbg: [script:4] [0] [I] Station search: allowing other sides as fallback.
+[2026-09-09 05:40:49] dbg: [script:3] [0] [W] No route found in either direction; remembering failed connection 9 <-> 8.
+[2026-09-09 05:40:49] dbg: [script:4] [0] [I] Station earthworks completed: changed corners=8
+[2026-09-09 05:40:49] dbg: [script:4] [0] [I] Station earthworks completed: changed corners=8
+[2026-09-09 05:40:49] dbg: [script:4] [0] [I] Both station sites secured before track planning.
+[2026-09-09 05:40:49] dbg: [script:4] [0] [I] RESERVATION PASS: stations precede path search, failed search and partial build cleaned, saved reservations removed.

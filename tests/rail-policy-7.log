@@ -1,0 +1,34 @@
+[2026-10-12 12:46:33] dbg: [script:4] [0] [I] Downgrading API to be compatible with version 14
+[2026-10-12 12:46:33] dbg: [script:4] [0] [I] Planning: limiting this connection to 1020 AI ticks.
+[2026-10-12 12:46:33] dbg: [script:4] [0] [I] Planning: limiting this connection to 2040 AI ticks.
+[2026-10-12 12:46:33] dbg: [script:4] [0] [I] Planning: limiting this connection to 6800 AI ticks.
+[2026-10-12 12:46:33] dbg: [script:4] [0] [I] Planning: extended budget for an existing cargo chain's onward leg.
+[2026-10-12 12:46:33] dbg: [script:4] [0] [I] Planning: limiting this connection to 10200 AI ticks.
+[2026-10-12 12:46:33] dbg: [script:4] [0] [I] Planning: limiting this connection to 1200 AI ticks.
+[2026-10-12 12:46:33] dbg: [script:4] [0] [I] Planning: limiting this connection to 1020 AI ticks.
+[2026-10-12 12:46:33] dbg: [script:4] [0] [I] RAIL POLICY checked Railway construction: 40-125, budget=85%
+[2026-10-12 12:46:33] dbg: [script:4] [0] [I] Planning: limiting this connection to 1200 AI ticks.
+[2026-10-12 12:46:33] dbg: [script:4] [0] [I] Planning: limiting this connection to 2400 AI ticks.
+[2026-10-12 12:46:33] dbg: [script:4] [0] [I] Planning: limiting this connection to 8000 AI ticks.
+[2026-10-12 12:46:33] dbg: [script:4] [0] [I] Planning: extended budget for an existing cargo chain's onward leg.
+[2026-10-12 12:46:33] dbg: [script:4] [0] [I] Planning: limiting this connection to 12000 AI ticks.
+[2026-10-12 12:46:33] dbg: [script:4] [0] [I] Planning: limiting this connection to 1200 AI ticks.
+[2026-10-12 12:46:33] dbg: [script:4] [0] [I] Planning: limiting this connection to 1200 AI ticks.
+[2026-10-12 12:46:33] dbg: [script:4] [0] [I] RAIL POLICY checked Electrified railway construction: 50-150, budget=100%
+[2026-10-12 12:46:33] dbg: [script:4] [0] [I] Planning: limiting this connection to 1800 AI ticks.
+[2026-10-12 12:46:33] dbg: [script:4] [0] [I] Planning: limiting this connection to 3600 AI ticks.
+[2026-10-12 12:46:33] dbg: [script:4] [0] [I] Planning: limiting this connection to 12000 AI ticks.
+[2026-10-12 12:46:33] dbg: [script:4] [0] [I] Planning: extended budget for an existing cargo chain's onward leg.
+[2026-10-12 12:46:33] dbg: [script:4] [0] [I] Planning: limiting this connection to 18000 AI ticks.
+[2026-10-12 12:46:33] dbg: [script:4] [0] [I] Planning: limiting this connection to 1200 AI ticks.
+[2026-10-12 12:46:33] dbg: [script:4] [0] [I] Planning: limiting this connection to 1800 AI ticks.
+[2026-10-12 12:46:33] dbg: [script:4] [0] [I] RAIL POLICY checked Monorail construction: 60-225, budget=150%
+[2026-10-12 12:46:33] dbg: [script:4] [0] [I] Planning: limiting this connection to 2400 AI ticks.
+[2026-10-12 12:46:33] dbg: [script:4] [0] [I] Planning: limiting this connection to 4800 AI ticks.
+[2026-10-12 12:46:33] dbg: [script:4] [0] [I] Planning: limiting this connection to 16000 AI ticks.
+[2026-10-12 12:46:33] dbg: [script:4] [0] [I] Planning: extended budget for an existing cargo chain's onward leg.
+[2026-10-12 12:46:33] dbg: [script:4] [0] [I] Planning: limiting this connection to 24000 AI ticks.
+[2026-10-12 12:46:33] dbg: [script:4] [0] [I] Planning: limiting this connection to 1200 AI ticks.
+[2026-10-12 12:46:33] dbg: [script:4] [0] [I] Planning: limiting this connection to 2400 AI ticks.
+[2026-10-12 12:46:33] dbg: [script:4] [0] [I] RAIL POLICY checked Maglev construction: 75-300, budget=200%
+[2026-10-12 12:46:33] dbg: [script:4] [0] [I] RAIL POLICY PASS: boundaries, coordinates, new/retry/onward budgets, search caps and passenger isolation.

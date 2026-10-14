@@ -1,0 +1,17 @@
+[2026-10-07 18:14:19] dbg: [script:4] [0] [I] Downgrading API to be compatible with version 14
+[2026-10-07 18:14:19] dbg: [script:4] [0] [I] Freight network: prioritising next link for Goods.
+[2026-10-07 18:14:19] dbg: [script:4] [0] [I] Freight network: prioritising next link for Goods.
+[2026-10-07 18:14:19] dbg: [script:4] [0] [I] Freight network: prioritising next link for Goods.
+[2026-10-07 18:14:19] dbg: [script:4] [0] [I] Freight network: prioritising next link for Goods.
+[2026-10-07 18:14:19] dbg: [script:4] [0] [I] Factory goods operating: next construction task is more farms into the original factory station.
+[2026-10-07 18:14:19] dbg: [script:4] [0] [I] Planning: limiting this connection to 1200 AI ticks.
+[2026-10-07 18:14:19] dbg: [script:4] [0] [I] Planning: deferring unsuccessful connection for 30 days (attempt 1).
+[2026-10-07 18:14:19] dbg: [script:4] [0] [I] Planning: limiting this connection to 2400 AI ticks.
+[2026-10-07 18:14:19] dbg: [script:4] [0] [I] Planning: deferring unsuccessful connection for 60 days (attempt 2).
+[2026-10-07 18:14:19] dbg: [script:4] [0] [I] Planning: limiting this connection to 1200 AI ticks.
+[2026-10-07 18:14:19] dbg: [script:3] [0] [W] Freight network: depot wait exceeded 180 days; cancelling extension and releasing trains.
+[2026-10-07 18:14:19] dbg: [script:4] [0] [I] Planning: project time budget reached; yielding to another connection.
+[2026-10-07 18:14:19] dbg: [script:3] [0] [W] Freight network: depot wait exceeded 180 days; cancelling extension and releasing trains.
+[2026-10-07 18:14:19] dbg: [script:4] [0] [I] No more town pairs look viable right now.
+[2026-10-07 18:14:19] dbg: [script:4] [0] [I] Freight expansion: looking for another IORE chain while existing networks remain in service.
+[2026-10-07 18:14:19] dbg: [script:4] [0] [I] PRODUCTION PASS: bounded planning, timed-out depot waits, scheduling fairness, repeat networks and save migration.

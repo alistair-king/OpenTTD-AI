@@ -1,0 +1,5 @@
+[2026-09-18 18:06:40] dbg: [script:4] [0] [I] Downgrading API to be compatible with version 14
+[2026-09-18 18:06:41] dbg: [script:4] [0] [I] GRADIENT RESULT: weight=0, height changes=24, tiles=43
+[2026-09-18 18:06:41] dbg: [script:4] [0] [I] GRADIENT RESULT: weight=55, height changes=2, tiles=47
+[2026-09-18 18:06:41] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-09-18 18:06:41] dbg: [script:4] [0] [I] GRADIENT PASS: fewer height changes preferred, uphill/downhill weighted equally, selected track built.

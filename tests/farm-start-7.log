@@ -1,0 +1,233 @@
+[2026-10-13 11:31:55] dbg: [script:4] [0] [I] Downgrading API to be compatible with version 14
+[2026-10-13 11:31:55] dbg: [script:4] [0] [I] Freight network: planning independent farm -> factory network.
+[2026-10-13 11:31:55] dbg: [script:4] [0] [I] Planning: limiting this connection to 1020 AI ticks.
+[2026-10-13 11:31:55] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-13 11:31:55] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=34885, target=23359
+[2026-10-13 11:31:55] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=200, queued=219, rejected rail tests=8, elapsed ticks=53
+[2026-10-13 11:31:56] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=1200, queued=599, rejected rail tests=26, elapsed ticks=310
+[2026-10-13 11:31:56] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: search budget reached, states=1400, elapsed ticks=361
+[2026-10-13 11:31:56] dbg: [script:4] [0] [I] Failure location: target, nearest target=0, search spread=52
+[2026-10-13 11:31:56] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-13 11:31:56] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=34885, target=23359
+[2026-10-13 11:31:56] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=200, queued=219, rejected rail tests=8, elapsed ticks=53
+[2026-10-13 11:31:56] dbg: [script:4] [0] [I] Planning: project time budget reached; yielding to another connection.
+[2026-10-13 11:31:56] dbg: [script:4] [0] [I] Route failed at 36160 towards Harninghall Factory: Project time budget reached; last failure tile=31297
+[2026-10-13 11:31:56] dbg: [script:4] [0] [I] Planning: deferring unsuccessful connection for 30 days (attempt 1).
+[2026-10-13 11:31:56] dbg: [script:4] [0] [I] Freight network: planning independent farm -> factory network.
+[2026-10-13 11:31:56] dbg: [script:4] [0] [I] Planning: limiting this connection to 1020 AI ticks.
+[2026-10-13 11:31:56] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-13 11:31:56] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=36407, target=23861
+[2026-10-13 11:31:56] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=200, queued=233, rejected rail tests=2, elapsed ticks=54
+[2026-10-13 11:31:56] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: path found, states=553, elapsed ticks=154
+[2026-10-13 11:31:56] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-10-13 11:31:56] dbg: [script:4] [0] [I] First track built; now planning the return track.
+[2026-10-13 11:31:56] dbg: [script:4] [0] [I] Pathfinder: Track 2 narrow corridor, start=36663, target=23862
+[2026-10-13 11:31:56] dbg: [script:4] [0] [I] Pathfinder progress: Track 2 narrow corridor, states=198, queued=22, rejected rail tests=1, elapsed ticks=51
+[2026-10-13 11:31:56] dbg: [script:4] [0] [I] Pathfinder: Track 2 narrow corridor: path found, states=395, elapsed ticks=92
+[2026-10-13 11:31:56] dbg: [script:4] [0] [I] Planning: project time budget reached; yielding to another connection.
+[2026-10-13 11:31:56] dbg: [script:4] [0] [I] Route failed at 37171 towards Harninghall Factory: Project time budget reached; last failure tile=-1
+[2026-10-13 11:31:56] dbg: [script:4] [0] [I] Planning: deferring unsuccessful connection for 30 days (attempt 1).
+[2026-10-13 11:31:56] dbg: [script:4] [0] [I] Freight network: planning independent farm -> factory network.
+[2026-10-13 11:31:56] dbg: [script:4] [0] [I] Planning: limiting this connection to 1020 AI ticks.
+[2026-10-13 11:31:56] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-13 11:31:56] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=35654, target=19807
+[2026-10-13 11:31:56] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=200, queued=204, rejected rail tests=4, elapsed ticks=52
+[2026-10-13 11:31:56] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=1200, queued=1244, rejected rail tests=24, elapsed ticks=350
+[2026-10-13 11:31:56] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: search budget reached, states=1400, elapsed ticks=410
+[2026-10-13 11:31:56] dbg: [script:4] [0] [I] Failure location: middle, nearest target=14, search spread=73
+[2026-10-13 11:31:56] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-13 11:31:56] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=35654, target=20325
+[2026-10-13 11:31:56] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=200, queued=204, rejected rail tests=4, elapsed ticks=53
+[2026-10-13 11:31:56] dbg: [script:4] [0] [I] Planning: project time budget reached; yielding to another connection.
+[2026-10-13 11:31:56] dbg: [script:4] [0] [I] Route failed at 36160 towards Tardworth Factory: Project time budget reached; last failure tile=28764
+[2026-10-13 11:31:56] dbg: [script:4] [0] [I] Planning: deferring unsuccessful connection for 30 days (attempt 1).
+[2026-10-13 11:31:56] dbg: [script:4] [0] [I] Freight network: planning independent farm -> factory network.
+[2026-10-13 11:31:56] dbg: [script:4] [0] [I] Planning: limiting this connection to 1020 AI ticks.
+[2026-10-13 11:31:56] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-13 11:31:56] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=37960, target=47197
+[2026-10-13 11:31:56] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=200, queued=222, rejected rail tests=0, elapsed ticks=54
+[2026-10-13 11:31:56] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: path found, states=1112, elapsed ticks=305
+[2026-10-13 11:31:56] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-10-13 11:31:56] dbg: [script:4] [0] [I] First track built; now planning the return track.
+[2026-10-13 11:31:56] dbg: [script:4] [0] [I] Pathfinder: Track 2 narrow corridor, start=38216, target=47453
+[2026-10-13 11:31:56] dbg: [script:4] [0] [I] Pathfinder progress: Track 2 narrow corridor, states=200, queued=65, rejected rail tests=0, elapsed ticks=54
+[2026-10-13 11:31:56] dbg: [script:4] [0] [I] Pathfinder: Track 2 narrow corridor: search budget reached, states=399, elapsed ticks=97
+[2026-10-13 11:31:56] dbg: [script:4] [0] [I] Pathfinder: Track 2 full search, start=38216, target=47453
+[2026-10-13 11:31:56] dbg: [script:4] [0] [I] Pathfinder progress: Track 2 full search, states=200, queued=115, rejected rail tests=0, elapsed ticks=56
+[2026-10-13 11:31:56] dbg: [script:4] [0] [I] Planning: project time budget reached; yielding to another connection.
+[2026-10-13 11:31:56] dbg: [script:4] [0] [I] Route failed at 36160 towards Ninningwell Factory: Project time budget reached; last failure tile=39499
+[2026-10-13 11:31:56] dbg: [script:4] [0] [I] Planning: deferring unsuccessful connection for 30 days (attempt 1).
+[2026-10-13 11:31:56] dbg: [script:4] [0] [I] Freight network: planning independent farm -> factory network.
+[2026-10-13 11:31:56] dbg: [script:4] [0] [I] Planning: limiting this connection to 1020 AI ticks.
+[2026-10-13 11:31:56] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-13 11:31:56] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=20658, target=8112
+[2026-10-13 11:31:56] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=200, queued=219, rejected rail tests=0, elapsed ticks=53
+[2026-10-13 11:31:56] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=1200, queued=504, rejected rail tests=0, elapsed ticks=303
+[2026-10-13 11:31:56] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: search budget reached, states=1400, elapsed ticks=355
+[2026-10-13 11:31:56] dbg: [script:4] [0] [I] Failure location: target, nearest target=2, search spread=51
+[2026-10-13 11:31:56] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-13 11:31:56] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=20658, target=8112
+[2026-10-13 11:31:56] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=200, queued=219, rejected rail tests=0, elapsed ticks=53
+[2026-10-13 11:31:56] dbg: [script:4] [0] [I] Planning: project time budget reached; yielding to another connection.
+[2026-10-13 11:31:56] dbg: [script:4] [0] [I] Route failed at 21168 towards Mentbourne Factory: Project time budget reached; last failure tile=16302
+[2026-10-13 11:31:56] dbg: [script:4] [0] [I] Planning: deferring unsuccessful connection for 30 days (attempt 1).
+[2026-10-13 11:31:56] dbg: [script:4] [0] [I] Freight network: planning independent farm -> factory network.
+[2026-10-13 11:31:56] dbg: [script:4] [0] [I] Planning: limiting this connection to 1020 AI ticks.
+[2026-10-13 11:31:56] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-13 11:31:56] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=20658, target=19566
+[2026-10-13 11:31:56] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=200, queued=149, rejected rail tests=2, elapsed ticks=51
+[2026-10-13 11:31:56] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=1200, queued=465, rejected rail tests=10, elapsed ticks=301
+[2026-10-13 11:31:56] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: search budget reached, states=1400, elapsed ticks=361
+[2026-10-13 11:31:56] dbg: [script:4] [0] [I] Failure location: target, nearest target=1, search spread=71
+[2026-10-13 11:31:56] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-13 11:31:56] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=21935, target=19566
+[2026-10-13 11:31:56] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=200, queued=250, rejected rail tests=0, elapsed ticks=55
+[2026-10-13 11:31:56] dbg: [script:4] [0] [I] Planning: project time budget reached; yielding to another connection.
+[2026-10-13 11:31:56] dbg: [script:4] [0] [I] Route failed at 21168 towards Tardworth Factory: Project time budget reached; last failure tile=20106
+[2026-10-13 11:31:56] dbg: [script:4] [0] [I] Planning: deferring unsuccessful connection for 30 days (attempt 1).
+[2026-10-13 11:31:56] dbg: [script:4] [0] [I] Freight network: planning independent farm -> factory network.
+[2026-10-13 11:31:56] dbg: [script:4] [0] [I] Planning: limiting this connection to 1020 AI ticks.
+[2026-10-13 11:31:57] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-13 11:31:57] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=7128, target=7855
+[2026-10-13 11:31:57] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=200, queued=222, rejected rail tests=6, elapsed ticks=54
+[2026-10-13 11:31:57] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: path found, states=263, elapsed ticks=71
+[2026-10-13 11:31:57] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-10-13 11:31:57] dbg: [script:4] [0] [I] First track built; now planning the return track.
+[2026-10-13 11:31:57] dbg: [script:4] [0] [I] Pathfinder: Track 2 narrow corridor, start=7384, target=8111
+[2026-10-13 11:31:57] dbg: [script:4] [0] [I] Pathfinder progress: Track 2 narrow corridor, states=200, queued=28, rejected rail tests=0, elapsed ticks=50
+[2026-10-13 11:31:57] dbg: [script:4] [0] [I] Pathfinder: Track 2 narrow corridor: path found, states=253, elapsed ticks=62
+[2026-10-13 11:31:57] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-13 11:31:57] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=7128, target=7855
+[2026-10-13 11:31:57] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=200, queued=222, rejected rail tests=6, elapsed ticks=54
+[2026-10-13 11:31:57] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: path found, states=263, elapsed ticks=71
+[2026-10-13 11:31:57] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-10-13 11:31:57] dbg: [script:4] [0] [I] First track built; now planning the return track.
+[2026-10-13 11:31:57] dbg: [script:4] [0] [I] Pathfinder: Track 2 narrow corridor, start=7384, target=8111
+[2026-10-13 11:31:57] dbg: [script:4] [0] [I] Planning: project time budget reached; yielding to another connection.
+[2026-10-13 11:31:57] dbg: [script:4] [0] [I] Route failed at 7900 towards Mentbourne Factory: Project time budget reached; last failure tile=7384
+[2026-10-13 11:31:57] dbg: [script:4] [0] [I] Planning: deferring unsuccessful connection for 30 days (attempt 1).
+[2026-10-13 11:31:57] dbg: [script:4] [0] [I] Freight network: planning independent farm -> factory network.
+[2026-10-13 11:31:57] dbg: [script:4] [0] [I] Planning: limiting this connection to 1020 AI ticks.
+[2026-10-13 11:31:57] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-13 11:31:57] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=38456, target=47197
+[2026-10-13 11:31:57] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=200, queued=220, rejected rail tests=0, elapsed ticks=54
+[2026-10-13 11:31:57] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=1200, queued=996, rejected rail tests=20, elapsed ticks=342
+[2026-10-13 11:31:57] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: search budget reached, states=1400, elapsed ticks=398
+[2026-10-13 11:31:57] dbg: [script:4] [0] [I] Failure location: target, nearest target=2, search spread=69
+[2026-10-13 11:31:57] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-13 11:31:57] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=39479, target=47195
+[2026-10-13 11:31:57] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=200, queued=189, rejected rail tests=0, elapsed ticks=51
+[2026-10-13 11:31:57] dbg: [script:4] [0] [I] Planning: project time budget reached; yielding to another connection.
+[2026-10-13 11:31:57] dbg: [script:4] [0] [I] Route failed at 37171 towards Ninningwell Factory: Project time budget reached; last failure tile=45653
+[2026-10-13 11:31:57] dbg: [script:4] [0] [I] Planning: deferring unsuccessful connection for 30 days (attempt 1).
+[2026-10-13 11:31:57] dbg: [script:4] [0] [I] Freight network: planning independent farm -> factory network.
+[2026-10-13 11:31:57] dbg: [script:4] [0] [I] Planning: limiting this connection to 1020 AI ticks.
+[2026-10-13 11:31:57] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-13 11:31:57] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=22188, target=21573
+[2026-10-13 11:31:57] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=200, queued=254, rejected rail tests=0, elapsed ticks=56
+[2026-10-13 11:31:57] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=1200, queued=652, rejected rail tests=0, elapsed ticks=315
+[2026-10-13 11:31:57] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: search budget reached, states=1400, elapsed ticks=367
+[2026-10-13 11:31:57] dbg: [script:4] [0] [I] Failure location: middle, nearest target=37, search spread=68
+[2026-10-13 11:31:57] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-13 11:31:57] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=22188, target=21313
+[2026-10-13 11:31:57] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=200, queued=252, rejected rail tests=0, elapsed ticks=55
+[2026-10-13 11:31:57] dbg: [script:4] [0] [I] Planning: project time budget reached; yielding to another connection.
+[2026-10-13 11:31:57] dbg: [script:4] [0] [I] Route failed at 21168 towards Harninghall Factory: Project time budget reached; last failure tile=21642
+[2026-10-13 11:31:57] dbg: [script:4] [0] [I] Planning: deferring unsuccessful connection for 30 days (attempt 1).
+[2026-10-13 11:31:57] dbg: [script:4] [0] [I] Freight network: planning independent farm -> factory network.
+[2026-10-13 11:31:57] dbg: [script:4] [0] [I] Planning: limiting this connection to 1020 AI ticks.
+[2026-10-13 11:31:57] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-13 11:31:57] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=22724, target=21099
+[2026-10-13 11:31:57] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=200, queued=304, rejected rail tests=0, elapsed ticks=59
+[2026-10-13 11:31:57] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=1200, queued=875, rejected rail tests=6, elapsed ticks=328
+[2026-10-13 11:31:57] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: search budget reached, states=1400, elapsed ticks=381
+[2026-10-13 11:31:57] dbg: [script:4] [0] [I] Failure location: target, nearest target=4, search spread=91
+[2026-10-13 11:31:57] dbg: [script:4] [0] [I] Planning: project time budget reached; yielding to another connection.
+[2026-10-13 11:31:57] dbg: [script:4] [0] [I] Route failed at 23751 towards Tardworth Factory: Project time budget reached; last failure tile=20850
+[2026-10-13 11:31:57] dbg: [script:4] [0] [I] Planning: deferring unsuccessful connection for 30 days (attempt 1).
+[2026-10-13 11:31:57] dbg: [script:4] [0] [I] Freight network: planning independent farm -> factory network.
+[2026-10-13 11:31:57] dbg: [script:4] [0] [I] Planning: limiting this connection to 1020 AI ticks.
+[2026-10-13 11:31:57] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-13 11:31:57] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=22724, target=7342
+[2026-10-13 11:31:57] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=200, queued=242, rejected rail tests=3, elapsed ticks=56
+[2026-10-13 11:31:57] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=1200, queued=1224, rejected rail tests=3, elapsed ticks=355
+[2026-10-13 11:31:57] dbg: [script:4] [0] [I] Planning: project time budget reached; yielding to another connection.
+[2026-10-13 11:31:57] dbg: [script:4] [0] [I] Route failed at 23751 towards Mentbourne Factory: Project time budget reached; last failure tile=16060
+[2026-10-13 11:31:57] dbg: [script:4] [0] [I] Planning: deferring unsuccessful connection for 30 days (attempt 1).
+[2026-10-13 11:31:57] dbg: [script:4] [0] [I] Freight network: planning independent farm -> factory network.
+[2026-10-13 11:31:57] dbg: [script:4] [0] [I] Planning: limiting this connection to 1020 AI ticks.
+[2026-10-13 11:31:57] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-13 11:31:57] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-13 11:31:57] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-13 11:31:57] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-13 11:31:57] dbg: [script:4] [0] [I] Planning: station-pair attempt limit reached; yielding to another connection.
+[2026-10-13 11:31:57] dbg: [script:4] [0] [I] Route failed at 60703 towards Ninningwell Factory: Station-pair attempt limit reached; last failure tile=-1
+[2026-10-13 11:31:57] dbg: [script:4] [0] [I] Planning: deferring unsuccessful connection for 30 days (attempt 1).
+[2026-10-13 11:31:57] dbg: [script:4] [0] [I] Freight network: planning independent farm -> factory network.
+[2026-10-13 11:31:57] dbg: [script:4] [0] [I] Planning: limiting this connection to 2040 AI ticks.
+[2026-10-13 11:31:57] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-13 11:31:57] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=34885, target=23359
+[2026-10-13 11:31:57] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=200, queued=221, rejected rail tests=5, elapsed ticks=53
+[2026-10-13 11:31:57] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=1200, queued=597, rejected rail tests=24, elapsed ticks=309
+[2026-10-13 11:31:58] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=2200, queued=766, rejected rail tests=47, elapsed ticks=563
+[2026-10-13 11:31:58] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: search budget reached, states=2800, elapsed ticks=718
+[2026-10-13 11:31:58] dbg: [script:4] [0] [I] Failure location: target, nearest target=0, search spread=53
+[2026-10-13 11:31:58] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-13 11:31:58] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=34885, target=23359
+[2026-10-13 11:31:58] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=200, queued=221, rejected rail tests=5, elapsed ticks=53
+[2026-10-13 11:31:58] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=1200, queued=616, rejected rail tests=24, elapsed ticks=311
+[2026-10-13 11:31:58] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=2200, queued=793, rejected rail tests=48, elapsed ticks=564
+[2026-10-13 11:31:58] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: search budget reached, states=2800, elapsed ticks=717
+[2026-10-13 11:31:58] dbg: [script:4] [0] [I] Failure location: target, nearest target=0, search spread=53
+[2026-10-13 11:31:58] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-13 11:31:58] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=35909, target=23359
+[2026-10-13 11:31:58] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=200, queued=225, rejected rail tests=5, elapsed ticks=54
+[2026-10-13 11:31:58] dbg: [script:4] [0] [I] Planning: project time budget reached; yielding to another connection.
+[2026-10-13 11:31:58] dbg: [script:4] [0] [I] Route failed at 36160 towards Harninghall Factory: Project time budget reached; last failure tile=26688
+[2026-10-13 11:31:58] dbg: [script:4] [0] [I] Planning: deferring unsuccessful connection for 60 days (attempt 2).
+[2026-10-13 11:31:58] dbg: [script:4] [0] [I] Freight network: planning independent farm -> factory network.
+[2026-10-13 11:31:58] dbg: [script:4] [0] [I] Planning: limiting this connection to 2040 AI ticks.
+[2026-10-13 11:31:58] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-13 11:31:58] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=36407, target=23861
+[2026-10-13 11:31:58] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=200, queued=233, rejected rail tests=2, elapsed ticks=54
+[2026-10-13 11:31:58] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: path found, states=553, elapsed ticks=154
+[2026-10-13 11:31:58] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-10-13 11:31:58] dbg: [script:4] [0] [I] First track built; now planning the return track.
+[2026-10-13 11:31:58] dbg: [script:4] [0] [I] Pathfinder: Track 2 narrow corridor, start=36663, target=23862
+[2026-10-13 11:31:58] dbg: [script:4] [0] [I] Pathfinder progress: Track 2 narrow corridor, states=198, queued=22, rejected rail tests=1, elapsed ticks=51
+[2026-10-13 11:31:58] dbg: [script:4] [0] [I] Pathfinder: Track 2 narrow corridor: path found, states=395, elapsed ticks=92
+[2026-10-13 11:31:58] dbg: [script:4] [0] [I] Station footprints prepared for planning; construction deferred.
+[2026-10-13 11:31:58] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=36407, target=24375
+[2026-10-13 11:31:58] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=200, queued=236, rejected rail tests=2, elapsed ticks=54
+[2026-10-13 11:31:58] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: path found, states=408, elapsed ticks=113
+[2026-10-13 11:31:58] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-10-13 11:31:58] dbg: [script:4] [0] [I] First track built; now planning the return track.
+[2026-10-13 11:31:58] dbg: [script:4] [0] [I] Pathfinder: Track 2 narrow corridor, start=36663, target=24376
+[2026-10-13 11:31:58] dbg: [script:4] [0] [I] Pathfinder progress: Track 2 narrow corridor, states=198, queued=22, rejected rail tests=1, elapsed ticks=50
+[2026-10-13 11:31:58] dbg: [script:4] [0] [I] Pathfinder: Track 2 narrow corridor: path found, states=372, elapsed ticks=87
+[2026-10-13 11:31:58] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-10-13 11:31:58] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-10-13 11:31:58] dbg: [script:4] [0] [I] Overlapping X crossovers verified at both stations.
+[2026-10-13 11:31:58] dbg: [script:4] [0] [I] Station entrances verified: two crossovers and four platform path signals.
+[2026-10-13 11:31:58] dbg: [script:4] [0] [I] Approach depot verified: Route index=39, route length=56
+[2026-10-13 11:31:58] dbg: [script:4] [0] [I] Immediate post-crossover departure signal verified on left-hand track.
+[2026-10-13 11:31:58] dbg: [script:4] [0] [I] Immediate post-crossover departure signal verified on left-hand track.
+[2026-10-13 11:31:58] dbg: [script:4] [0] [I] Depot approaches verified: signals on both sides of the junction.
+[2026-10-13 11:31:58] dbg: [script:4] [0] [I] Left-hand one-way running signals verified: count=25, spacing=5
+[2026-10-13 11:31:58] dbg: [script:4] [0] [I] RIRO: separate entrance fan and return track verified.
+[2026-10-13 11:31:58] dbg: [script:4] [0] [I] Station A: roll-in roll-out loop built.
+[2026-10-13 11:31:58] dbg: [script:4] [0] [I] RIRO: separate entrance fan and return track verified.
+[2026-10-13 11:31:58] dbg: [script:4] [0] [I] Station B: roll-in roll-out loop built.
+[2026-10-13 11:31:58] dbg: [script:4] [0] [I] Maintenance orders verified: station A, station B, depot.
+[2026-10-13 11:31:58] dbg: [script:4] [0] [I] Train 9 is rolling. Carriages=3, cargo=Grain, capacity=90, length=32, platform=64
+[2026-10-13 11:31:58] dbg: [script:4] [0] [I] Maintenance orders verified: station A, station B, depot.
+[2026-10-13 11:31:58] dbg: [script:4] [0] [I] Train 13 is rolling. Carriages=3, cargo=Livestock, capacity=75, length=32, platform=64
+[2026-10-13 11:31:58] dbg: [script:4] [0] [I] Two platforms and two connected tracks verified; station crossovers provide depot access.
+[2026-10-13 11:31:58] dbg: [script:4] [0] [I] Farm: service operating with 2 RIRO and 0 standard terminus stations. Train=9
+[2026-10-13 11:31:58] dbg: [script:4] [0] [I] Freight network: two-track FARM backbone commissioned; junction candidates=12
+[2026-10-13 11:31:58] dbg: [script:4] [0] [I] Maintenance orders verified: station A, station B, depot.
+[2026-10-13 11:31:58] dbg: [script:4] [0] [I] Train 17 is rolling. Carriages=2, cargo=Grain, capacity=60, length=24, platform=64
+[2026-10-13 11:31:58] dbg: [script:4] [0] [I] Freight network: prioritising next link for Goods.
+[2026-10-13 11:31:58] dbg: [script:4] [0] [I] Optimiser: delayed train 9 released from depot.
+[2026-10-13 11:31:58] dbg: [script:4] [0] [I] Optimiser: delayed train 13 released from depot.
+[2026-10-13 11:31:58] dbg: [script:4] [0] [I] PRODUCTION PASS: independent farm backbone, both cargoes delivered, save/load.

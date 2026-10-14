@@ -1,0 +1,4 @@
+[2026-10-13 10:05:36] dbg: [script:4] [0] [I] Downgrading API to be compatible with version 14
+[2026-10-13 10:05:38] dbg: [script:4] [0] [I] Pathfinder: removed 1 unnecessary short track detours.
+[2026-10-13 10:05:38] dbg: [script:4] [0] [I] Pathfinder: removed 1 unnecessary short track detours.
+[2026-10-13 10:05:38] dbg: [script:4] [0] [I] KINK PASS: direct replacement, reserved tiles, occupied track and structure protection.

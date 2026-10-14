@@ -1,0 +1,4 @@
+[2026-09-24 15:06:38] dbg: [script:4] [0] [I] Downgrading API to be compatible with version 14
+[2026-09-24 15:06:38] dbg: [script:4] [0] [I] No eligible town pairs at population 350; lowering minimum population to 175.
+[2026-09-24 15:06:38] dbg: [script:4] [0] [I] No eligible town pairs at population 175; lowering minimum population to 87.
+[2026-09-24 15:06:38] dbg: [script:4] [0] [I] No eligible town pairs at population 87; lowering minimum population to 50.

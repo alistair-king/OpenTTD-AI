@@ -1,0 +1,18 @@
+[2026-09-16 21:49:16] dbg: [script:4] [0] [I] Downgrading API to be compatible with version 14
+[2026-09-16 21:49:16] dbg: [script:4] [0] [I] PRUNING QUALITY: score=4160, bends=2
+[2026-09-16 21:49:16] dbg: [script:4] [0] [I] PRUNING BENCH: enabled=false, ticks=107, states=402, jump steps=0
+[2026-09-16 21:49:16] dbg: [script:4] [0] [I] PRUNING QUALITY: score=4160, bends=2
+[2026-09-16 21:49:16] dbg: [script:4] [0] [I] PRUNING BENCH: enabled=true, ticks=20, states=73, jump steps=0
+[2026-09-16 21:49:16] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-09-16 21:49:16] dbg: [script:4] [0] [I] AyStar-style planner: bounded trial.
+[2026-09-16 21:49:16] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=6406, target=10268
+[2026-09-16 21:49:16] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: no path in search area, states=0, elapsed ticks=0
+[2026-09-16 21:49:16] dbg: [script:4] [0] [I] Failure location: start, nearest target=37, search spread=0
+[2026-09-16 21:49:16] dbg: [script:4] [0] [I] AyStar-style planner: switching to ordinary A* fallback.
+[2026-09-16 21:49:16] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=6406, target=10268
+[2026-09-16 21:49:16] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=200, queued=218, rejected rail tests=0, elapsed ticks=51
+[2026-09-16 21:49:16] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: path found, states=402, elapsed ticks=107
+[2026-09-16 21:49:17] dbg: [script:4] [0] [I] Joint states=1043
+[2026-09-16 21:49:17] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-09-16 21:49:17] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-09-16 21:49:17] dbg: [script:4] [0] [I] PAIRED PASS: shared tiles=12, separate rail pieces, opposing one-way signals and independent removal.

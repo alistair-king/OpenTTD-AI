@@ -1,0 +1,22 @@
+[2026-10-10 18:15:50] dbg: [script:4] [0] [I] Downgrading API to be compatible with version 14
+[2026-10-10 18:15:50] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search, start=11415, target=11442
+[2026-10-10 18:15:50] dbg: [script:4] [0] [I] Pathfinder progress: Track 1 full search, states=200, queued=85, rejected rail tests=25, elapsed ticks=49
+[2026-10-10 18:15:50] dbg: [script:4] [0] [I] Pathfinder: Track 1 full search: path found, states=458, elapsed ticks=115
+[2026-10-10 18:15:50] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-10-10 18:15:50] dbg: [script:4] [0] [I] Rail tunnel built: 11422 -> 11433
+[2026-10-10 18:15:50] dbg: [script:4] [0] [I] First track built; now planning the return track.
+[2026-10-10 18:15:50] dbg: [script:4] [0] [I] Pathfinder: Track 2 narrow corridor, start=11543, target=11570
+[2026-10-10 18:15:50] dbg: [script:4] [0] [I] Pathfinder: Track 2 narrow corridor: path found, states=55, elapsed ticks=14
+[2026-10-10 18:15:50] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-10-10 18:15:50] dbg: [script:4] [0] [I] Straight station approaches verified at both ends.
+[2026-10-10 18:15:50] dbg: [script:4] [0] [I] Rail tunnel built: 11550 -> 11561
+[2026-10-10 18:15:50] dbg: [script:4] [0] [I] Overlapping X crossovers verified at both stations.
+[2026-10-10 18:15:50] dbg: [script:4] [0] [I] Station entrances verified: two crossovers and four platform path signals.
+[2026-10-10 18:15:50] dbg: [script:4] [0] [I] Approach depot verified: Route index=7, route length=18
+[2026-10-10 18:15:50] dbg: [script:4] [0] [I] Immediate post-crossover departure signal verified on left-hand track.
+[2026-10-10 18:15:50] dbg: [script:4] [0] [I] Immediate post-crossover departure signal verified on left-hand track.
+[2026-10-10 18:15:50] dbg: [script:4] [0] [I] Depot approaches verified: signals on both sides of the junction.
+[2026-10-10 18:15:50] dbg: [script:4] [0] [I] Left-hand one-way running signals verified: count=8, spacing=5
+[2026-10-10 18:15:50] dbg: [script:4] [0] [I] Maintenance orders verified: station A, station B, depot.
+[2026-10-10 18:15:50] dbg: [script:4] [0] [I] Train 2 is rolling. Carriages=3, cargo=Passengers, capacity=120, length=32, platform=64
+[2026-10-10 18:15:50] dbg: [script:4] [0] [I] TUNNEL PASS: adjacent tunnels, train A-B-depot-A, cleanup preserves surface buildings.
