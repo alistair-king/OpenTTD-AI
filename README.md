@@ -1,5 +1,13 @@
 # OpenTTDAI
 
+A fun project to "vibe code" an AI Player for the game OpenTTD using GPT 6 Astra and GLM 5.3 flash. 
+
+Mostly an exercise in prompting, even using game images to convey complex issues.
+
+Haven't been able to get this to the efficiency levels of top human coded AIs, but instead changed focus to attempting to make a less irritating AI player than others.
+
+
+
 A rail-first [OpenTTD](https://www.openttd.org/) NoAI. It builds coal and passenger services, starting each route with one train on a single main line, then expands successful services as demand grows.
 
 OpenTTD AIs are **Squirrel** scripts using the NoAI API — not machine-learning models.
