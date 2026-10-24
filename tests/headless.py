@@ -9,8 +9,9 @@ src = re.sub(r'\[ai_players\][\s\S]*?(?=\n\[|\Z)', '[ai_players]\nOpenTTDAI = \n
 with tempfile.TemporaryDirectory(prefix='openttdai-') as folder:
     cfg = pathlib.Path(folder) / 'openttd.cfg'
     cfg.write_text(src)
+    # Bus-city follow-ups may try constrained links before easier rail pairs.
     for seed in [42, 7]:
-        r = subprocess.run([str(exe), '-v', 'null:ticks=180000', '-s', 'null', '-m', 'null', '-c', str(cfg), '-x', '-g', '-G', str(seed), '-d', 'script=4'], capture_output=True, text=True, timeout=60)
+        r = subprocess.run([str(exe), '-v', 'null:ticks=360000', '-s', 'null', '-m', 'null', '-c', str(cfg), '-x', '-g', '-G', str(seed), '-d', 'script=4'], capture_output=True, text=True, timeout=60)
         (root / 'tests' / ('seed-%s.log' % seed)).write_text(r.stderr)
         unique = list(dict.fromkeys(re.sub(r'^\[[^]]+\] ', '', line) for line in r.stderr.splitlines()))
         print('SEED', seed, 'EXIT', r.returncode, '\n' + '\n'.join(unique[:45]), flush=True)
@@ -18,7 +19,7 @@ with tempfile.TemporaryDirectory(prefix='openttdai-') as folder:
         assert 'is rolling.' in r.stderr, 'No train built; see log'
         assert 'Your script made an error' not in r.stderr
         assert not any(label in r.stderr for label in ['AyStar-style planner:', 'Jump planner:', 'Hierarchical planner:', 'Paired planner:']), 'Experimental planner still active'
-        assert 'train is lost' not in r.stderr
+        assert 'train is lost' not in r.stderr and 'vehicle is lost' not in r.stderr
 
         consists = re.findall(r'Carriages=(\d+), cargo=[^,]+, capacity=(\d+), length=(\d+), platform=(\d+)', r.stderr)
         assert len(consists) == r.stderr.count('is rolling.'), 'Missing consist verification'

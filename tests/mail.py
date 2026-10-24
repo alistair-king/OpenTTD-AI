@@ -1,6 +1,6 @@
 """Isolated live-game fleet expansion test; copies the AI into a temporary working folder."""
 from pathlib import Path
-import re, shutil, subprocess, tempfile
+import re, shutil, subprocess, tempfile, sys
 root = Path(__file__).resolve().parents[1]
 exe = Path.home() / 'Library/Application Support/Steam/steamapps/common/OpenTTD/OpenTTD.app/Contents/MacOS/openttd'
 config = (Path.home() / 'Documents/OpenTTD/openttd.cfg').read_text().replace('OpenTTDAI =', 'MailCheck =')
@@ -125,6 +125,11 @@ function OpenTTDAI::Start()
     AILog.Error("MAIL FAIL: timed out extra="+extra);
 }
 '''
+if "--bus-city" in sys.argv:
+    driver = driver.replace('this.optimiser.Register(train,route,4);', r'''this.optimiser.Register(train,route,4);
+    BusRailTowns[AITile.GetClosestTown(route.station_a)] <- true;
+    this.optimiser.trains[train].review_after=AIDate.GetCurrentDate()+36500;
+    if(!this.optimiser.PriorityCityMail(this.optimiser.trains[train])) throw "Bus-city mail not prioritised";''')
 with tempfile.TemporaryDirectory(prefix='openttdai-mail-') as td:
     folder = Path(td)
     ai = folder / 'ai' / 'MailCheck'

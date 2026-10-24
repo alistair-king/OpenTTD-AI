@@ -2,7 +2,7 @@ class OpenTTDAI extends AIInfo
 {
 	function GetAuthor()      { return "Alistair"; }
 	function GetName()        { return "OpenTTDAI"; }
-	function GetDescription() { return "A rail-first OpenTTD AI: coal, oil, passenger and mail trains, plus shared ore/steel/goods, farm grain/livestock and wood/goods networks."; }
+	function GetDescription() { return "A rail-first OpenTTD AI: coal, oil, passenger and mail trains, city bus networks, plus shared ore/steel/goods, farm grain/livestock and wood/goods networks."; }
 	function GetVersion()     { return 1; }
 	function GetDate()        { return "2026-09-05"; }
 	function CreateInstance() { return "OpenTTDAI"; }

@@ -1,0 +1,3 @@
+[2026-10-19 18:37:39] dbg: [script:4] [0] [I] Downgrading API to be compatible with version 14
+[2026-10-19 18:37:39] dbg: [script:4] [0] [I] Factory goods: trying a separate station and route to Bonfingfield.
+[2026-10-19 18:37:39] dbg: [script:4] [0] [I] BUS RAIL PRIORITY PASS: passenger selection, impossible-city fallback, bounded follow-ups, persistence, farm chains and factory goods destinations.

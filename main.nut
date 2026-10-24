@@ -15,10 +15,12 @@ require("junction.nut");
 require("network.nut");
 require("dual_station.nut");
 require("platform_upgrade.nut");
+require("buses.nut");
 
 class OpenTTDAI extends AIController
 {
 	builder = null;
+    buses=null;loaded_buses=null;
     rail_upgrades=null;loaded_rail_upgrades=null;
     construction_cursor=0;
     loaded_planning_history=null;
@@ -86,6 +88,7 @@ function OpenTTDAI::Start()
 	if (this.loaded_pending_stations != null) this.builder.pending_stations = this.loaded_pending_stations;
 	this.builder.ReleasePendingStations();
 	this.builder.ClearSearchSigns();
+	this.buses=CityBuses(this.loaded_buses);
 	this.buyer = TrainBuyer(cargo);
 	this.optimiser = ServiceOptimiser(this.buyer, this.loaded_services);
 	this.builder.optimiser = this.optimiser;
@@ -108,6 +111,7 @@ function OpenTTDAI::Start()
         foreach(manager in [this.network,this.wood_network]) foreach(n in manager.networks) upgrade_owners.append(n);
         this.rail_upgrades.Bind(upgrade_owners);
         this.HandleEvents();
+        this.buses.Review();
         this.ReviewIndustryClosures();
         if(this.rail_upgrades.Busy()) {this.rail_upgrades.RunBatch();this.Sleep(5);continue;}
 		this.coal.Review();
@@ -152,7 +156,7 @@ function OpenTTDAI::Save()
 {
 	local failed = this.builder == null ? this.loaded_failures : this.builder.failed_connections;
 	local connected = this.builder == null ? this.loaded_connections : this.builder.connected_pairs;
-	return { construction_cursor=this.construction_cursor, rail_upgrades=this.rail_upgrades==null?this.loaded_rail_upgrades:this.rail_upgrades.Save(), oil=this.oil==null?this.loaded_oil:this.oil.Save(), retirements=RetiredRailways==null?this.loaded_retirements:RetiredRailways.Save(), planning_history=this.builder==null?this.loaded_planning_history:this.builder.planning_history, continuation_turn=this.continuation_turn, coal_turn=this.coal_turn, wood_network=this.wood_network==null?this.loaded_wood_network:this.wood_network.Save(), wood_next=this.wood_next, network=this.network==null?this.loaded_network:this.network.Save(), network_next=this.network_next, iron = this.iron==null ? this.loaded_iron : this.iron.Save(), iron_next = this.iron_next, coal = this.coal==null ? this.loaded_coal : this.coal.Save(), last_loan_repayment_year = this.last_loan_repayment_year, population_threshold = this.population_threshold, pending_stations = SavedStationReservations(this.builder == null ? this.loaded_pending_stations : this.builder.pending_stations), routes = this.routes, failed_connections = failed == null ? {} : clone failed,
+	return { buses=this.buses==null?this.loaded_buses:this.buses.Save(), construction_cursor=this.construction_cursor, rail_upgrades=this.rail_upgrades==null?this.loaded_rail_upgrades:this.rail_upgrades.Save(), oil=this.oil==null?this.loaded_oil:this.oil.Save(), retirements=RetiredRailways==null?this.loaded_retirements:RetiredRailways.Save(), planning_history=this.builder==null?this.loaded_planning_history:this.builder.planning_history, continuation_turn=this.continuation_turn, coal_turn=this.coal_turn, wood_network=this.wood_network==null?this.loaded_wood_network:this.wood_network.Save(), wood_next=this.wood_next, network=this.network==null?this.loaded_network:this.network.Save(), network_next=this.network_next, iron = this.iron==null ? this.loaded_iron : this.iron.Save(), iron_next = this.iron_next, coal = this.coal==null ? this.loaded_coal : this.coal.Save(), last_loan_repayment_year = this.last_loan_repayment_year, population_threshold = this.population_threshold, pending_stations = SavedStationReservations(this.builder == null ? this.loaded_pending_stations : this.builder.pending_stations), routes = this.routes, failed_connections = failed == null ? {} : clone failed,
 		connected_pairs = connected == null ? {} : clone connected,
 		services = this.optimiser == null ? this.loaded_services : this.optimiser.Save() };
 }
@@ -160,6 +164,7 @@ function OpenTTDAI::Save()
 function OpenTTDAI::Load(version, data)
 {
     this.construction_cursor=("construction_cursor" in data && typeof data.construction_cursor=="integer" && data.construction_cursor>=0)?data.construction_cursor%this.ConstructionRotation().len():0;
+	this.loaded_buses="buses" in data?data.buses:null;
 	this.loaded_retirements="retirements" in data ? data.retirements : null;
 	this.loaded_planning_history="planning_history" in data ? data.planning_history : null;
 	this.loaded_rail_upgrades="rail_upgrades" in data?data.rail_upgrades:null;
@@ -209,10 +214,10 @@ function OpenTTDAI::HandleEvents()
 		if (event == null) break;
 		switch (event.GetEventType()) {
 			case AIEvent.ET_VEHICLE_CRASHED:
-				AILog.Warning("A train crashed. Time to build more carefully.");
+				AILog.Warning("A vehicle crashed.");
 				break;
 			case AIEvent.ET_VEHICLE_LOST:
-				AILog.Warning("A train is lost.");
+				AILog.Warning("A vehicle is lost.");
 				break;
 			case AIEvent.ET_INDUSTRY_CLOSE: {
 				local industry = AIEventIndustryClose.Convert(event).GetIndustryID();
@@ -240,8 +245,8 @@ function OpenTTDAI::HandleEvents()
 function OpenTTDAI::ConstructionRotation()
 {
     // Wood gets a regular turn each round; oil only once per two rounds.
-    return ["coal","goods","farm","ore","farm","passengers","farm","wood","passengers",
-            "coal","goods","farm","ore","farm","passengers","farm","wood","passengers","oil"];
+    return ["coal","goods","farm","ore","farm","passengers","farm","wood","passengers","buses",
+            "coal","goods","farm","ore","farm","passengers","farm","wood","passengers","buses","oil"];
 }
 
 function OpenTTDAI::TryBuildRoute()
@@ -258,8 +263,18 @@ function OpenTTDAI::TryBuildRoute()
             network.state.dual_priority=false;
             if(network.NeedsContinuation() && network.TryBuild()) return;
         }
-    local rotation=this.ConstructionRotation();
     local tried={};
+    // Two bounded follow-up turns per bus city. Unbuildable connections yield
+    // immediately, while the normal rotation continues to fund supply chains.
+    if(this.buses!=null) foreach(city in this.buses.networks) {
+        while(city.rail_followup<2) {
+            local kind=city.rail_followup++==0 ? "passengers" : "goods";
+            if(kind in tried) continue;
+            tried[kind] <- true;
+            if(this.TryConstructionKind(kind)) return;
+        }
+    }
+    local rotation=this.ConstructionRotation();
     for(local i=0;i<rotation.len();i++) {
         local kind=rotation[this.construction_cursor];
         this.construction_cursor=(this.construction_cursor+1)%rotation.len();
@@ -271,6 +286,7 @@ function OpenTTDAI::TryBuildRoute()
 
 function OpenTTDAI::TryConstructionKind(kind)
 {
+    if(kind=="buses") return this.buses!=null && this.buses.TryBuild();
     if(kind=="coal") return this.coal!=null && this.coal.TryBuild();
     if(kind=="wood") return this.wood_network!=null && this.wood_network.TryBuild();
     if(kind=="oil") return this.oil!=null && this.oil.TryBuild();
@@ -452,6 +468,7 @@ function OpenTTDAI::PickTownPairAtPopulation(min_pop)
 				(large_b && counts[ids[j]] == 0);
 			// Priority tiers cannot be outweighed by a cheaper small-town route.
 			local priority = large_a && large_b ? (unserved_large ? 3 : 2) : (unserved_large ? 1 : 0);
+            priority += 4 * (BusCityRailPriority(ids[i])+BusCityRailPriority(ids[j]));
 			local served = counts[ids[i]] + counts[ids[j]];
 			local demand = (population_a * population_a + population_b * population_b) / (1 + served);
 			local effort = dist + 10 * height_difference;

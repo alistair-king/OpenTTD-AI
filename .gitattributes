@@ -1,0 +1,4 @@
+*.nut linguist-language=squirrel
+
+vendor/** linguist-vendored
+dist/** linguist-generated

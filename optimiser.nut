@@ -145,6 +145,16 @@ class ServiceOptimiser
 		return false;
 	}
 
+    function PriorityCityMail(record)
+    {
+        if(!AICargo.HasCargoClass(this.BuyerFor(record).cargo,AICargo.CC_PASSENGERS)) return false;
+        local priority=false;
+        foreach(station in [record.station_a,record.station_b])
+            if(AIStation.IsValidStation(station) && BusCityRailPriority(AITile.GetClosestTown(AIStation.GetLocation(station)))>0)
+                priority=true;
+        return priority && this.MailTrainWanted(record);
+    }
+
 	function RouteReady(record)
 	{
 		foreach (_train, service in this.trains) {
@@ -586,7 +596,7 @@ class ServiceOptimiser
 			if (AIVehicle.GetState(train) == AIVehicle.VS_AT_STATION) {
 				local station = AIStation.GetStationID(AIVehicle.GetLocation(train));
 				if (station == record.station_a || station == record.station_b) record.last_station = station;
-			} else if (AIVehicle.GetState(train) == AIVehicle.VS_RUNNING && today >= record.review_after &&
+			} else if (AIVehicle.GetState(train) == AIVehicle.VS_RUNNING && (today >= record.review_after || this.PriorityCityMail(record)) &&
 				this.RouteReady(record) && AIVehicle.GetCapacity(train, this.BuyerFor(record).cargo) > 0) {
 				local expand=this.ExpansionShortfall(train,record) > 0;
 				local reduce=this.ReductionCandidate(train,record);
@@ -599,7 +609,7 @@ class ServiceOptimiser
 				local station = record.last_station;
 				record.last_station = AIStation.STATION_INVALID;
 				local capacity = AIVehicle.GetCapacity(train, this.BuyerFor(record).cargo);
-				if (today >= record.review_after && AIStation.IsValidStation(station) &&
+				if ((today >= record.review_after || this.PriorityCityMail(record)) && AIStation.IsValidStation(station) &&
 					capacity > 0 && AIVehicle.GetCargoLoad(train, this.BuyerFor(record).cargo) >= capacity &&
 					AIStation.GetCargoWaiting(station, this.BuyerFor(record).cargo) > 0 && this.RouteReady(record))
 					this.Queue(train, record);

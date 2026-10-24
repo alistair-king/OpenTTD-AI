@@ -516,9 +516,9 @@ class FreightNetwork
                 if(!IndustryDistanceAllowed(last) || AITile.GetCargoAcceptance(centre,goods,1,1,6)<8) continue;
                 local key=f+":"+m+":"+t;
                 if(this.FailedChoice(key)) continue;
-                // Larger cities take precedence as goods destinations.
+                // Bus cities take priority; larger cities rank within each group.
                 local value=production[f]*1000/(distance+last)*(1.0+AITown.GetPopulation(t).tofloat()/2000.0);
-                if(value>score) {score=value;best={mine=f,mill=m,city=t,key=key};}
+                if(CityDestinationBetter(t,value,best==null?-1:best.city,score)) {score=value;best={mine=f,mill=m,city=t,key=key};}
             }
         }
         return best;
@@ -563,11 +563,11 @@ class FreightNetwork
                     local loc=AITown.GetLocation(t),g=AIMap.DistanceManhattan(AIIndustry.GetLocation(factory),loc);
                     if(!IndustryDistanceAllowed(g) || AITile.GetCargoAcceptance(loc,goods,1,1,6)<8) continue;
                     local value=(1.0+AITown.GetPopulation(t).tofloat()/2000.0)/g;
-                    if(value>city_score) {city_score=value;city=t;}
+                    if(CityDestinationBetter(t,value,city,city_score)) {city_score=value;city=t;}
                 }
                 if(city<0) continue;
                 local value=demand*1000/(distance+1)*city_score;
-                if(value>score) {score=value;best={mine=farm,mill=factory,factory=factory,city=city,key=key};}
+                if(CityDestinationBetter(city,value,best==null?-1:best.city,score)) {score=value;best={mine=farm,mill=factory,factory=factory,city=city,key=key};}
             }
         }
         return best;
@@ -599,9 +599,9 @@ class FreightNetwork
                     if(!IndustryDistanceAllowed(g) || AITile.GetCargoAcceptance(loc,goods,1,1,6)<8) continue;
                     local key=m+":"+s+":"+f+":"+t;
                     if(this.FailedChoice(key)) continue;
-                    // Larger cities take precedence as goods destinations.
+                    // Bus cities take priority; larger cities rank within each group.
                     local value=production[m]*1000/(d+e+g)*(1.0+AITown.GetPopulation(t).tofloat()/2000.0);
-                    if(value>score) {score=value;best={mine=m,mill=s,factory=f,city=t,key=key};}
+                    if(CityDestinationBetter(t,value,best==null?-1:best.city,score)) {score=value;best={mine=m,mill=s,factory=f,city=t,key=key};}
                 }
             }
         }
@@ -1069,7 +1069,8 @@ class FreightNetwork
         route.network=this;route.freight_name="Factory goods";
         // A hub pickup can only serve destinations in front of its fixed exit.
         // Order towns so compatible ones are tried before towns the pickup
-        // cannot reach, and give the chain's planned city the first attempt.
+        // cannot reach. Prefer bus cities, then the chain's planned city
+        // within the same priority group.
         // The town centre stands in for its station sites, which can tip a
         // boundary case either way, so this orders rather than filters.
         local hub=("hubs" in this.state && source in this.state.hubs) ? this.state.hubs[source] : null;
@@ -1083,16 +1084,17 @@ class FreightNetwork
             local distance=AIMap.DistanceManhattan(location,AITown.GetLocation(t));
             if(!IndustryDistanceAllowed(distance,outlet_type) || this.builder.DeferredConnection(route.ConnectionPlanKey(source,t))) continue;
             local loc=AITown.GetLocation(t);
-            choices.append({town=t,pop=AITown.GetPopulation(t),distance=distance,
+            choices.append({town=t,priority=BusCityRailPriority(t),pop=AITown.GetPopulation(t),distance=distance,
                 behind=probe!=null && !StationExitFacesTarget(probe,probe.exit,loc,this.builder.platform_length)});
         }
         choices.sort(function(a,b) {
             if(a.behind!=b.behind) return a.behind ? 1 : -1;
+            if(a.priority!=b.priority) return a.priority>b.priority?-1:1;
             if(a.pop!=b.pop) return a.pop>b.pop?-1:1;
             return a.distance<b.distance?-1:a.distance>b.distance?1:0;
         });
         foreach(index,choice in choices) {
-            if(choice.town!=planned || choice.behind) continue;
+            if(choice.town!=planned || choice.behind || choice.priority!=choices[0].priority) continue;
             if(index>0) { choices.remove(index); choices.insert(0,choice); }
             break;
         }
@@ -1216,10 +1218,11 @@ class FreightNetwork
                 local towns=[];
                 foreach(t,_ in AITownList()) {
                     local dist=AIMap.DistanceManhattan(j.tile,AITown.GetLocation(t));
-                    if(IndustryEndpointsAllowed(AIIndustry.GetLocation(source),AITown.GetLocation(t))) towns.append({town=t,dist=dist,pop=AITown.GetPopulation(t)});
+                    if(IndustryEndpointsAllowed(AIIndustry.GetLocation(source),AITown.GetLocation(t))) towns.append({town=t,priority=BusCityRailPriority(t),dist=dist,pop=AITown.GetPopulation(t)});
                 }
-                // Larger towns take precedence as goods destinations.
+                // Prefer bus cities, then larger towns.
                 towns.sort(function(a,z){
+                    if(a.priority!=z.priority) return a.priority>z.priority?-1:1;
                     if(a.pop!=z.pop) return a.pop>z.pop?-1:1;
                     return a.dist<z.dist?-1:1;
                 });

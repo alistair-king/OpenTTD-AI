@@ -1,3 +1,13 @@
+// Rebuilt from saved city bus networks; freight and passenger planners share
+// the same city priority without keeping controller objects in saved data.
+BusRailTowns <- {};
+function BusCityRailPriority(town) { return town in BusRailTowns ? 1 : 0; }
+function CityDestinationBetter(town,value,best_town,best_value)
+{
+    local priority=BusCityRailPriority(town),best_priority=BusCityRailPriority(best_town);
+    return best_town<0 || priority>best_priority || (priority==best_priority && value>best_value);
+}
+
 function Abs(n)
 {
 	return n < 0 ? -n : n;

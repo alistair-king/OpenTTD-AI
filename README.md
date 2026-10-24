@@ -48,10 +48,68 @@ API version in `info.nut` is **14**. If your OpenTTD is older, lower `GetAPIVers
 - Starts routes with one unsignalled main line and one train travelling in both directions, retaining the existing station layouts.
 - Extends trains as demand grows; at the length limit, builds and signals a return track before allowing a second train.
 - Pathfinds with a small A* in `pathfinder.nut` (rail tiles, bridge spans and tunnels).
-- Caps how many routes it builds (`max_routes` in AI settings).
+- Caps passenger rail routes with `max_routes` in AI settings.
+- Builds city bus loops with four or five stops and adjusts their fleets as demand changes.
 
 The sections below describe the development history; the single-line construction
 policy at the end supersedes earlier descriptions of building both tracks upfront.
+
+## City bus networks
+
+The construction schedule now includes local buses alongside rail projects. It
+tries the largest unserved towns first, requiring at least 1,000 residents and
+population at or above the map's median. Each town receives one network of four
+or five separate drive-through stops, with a depot and two initial buses running
+the circuit in opposite directions.
+
+Stop selection greedily adds the most passenger-producing house coverage that
+is not already covered by the selected stops. Stops must accept passengers, add
+coverage, and sit at least five tiles apart. Candidates are limited to a
+28-tile radius around the town centre and must share a verified two-way road
+component. The circuit visits nearby stops in sequence. This is a bounded
+coverage heuristic rather than a guarantee of the global optimum.
+
+A completed bus network also makes that city a priority rail destination. The
+next construction opportunities attempt passenger rail and a ready factory goods
+outlet; these two follow-ups are saved and consumed once so failed attempts do
+not monopolise construction. Within ordinary route selection, eligible bus cities
+outrank other towns for passenger connections and goods destinations, including
+farm/factory, ore/steel/factory and forest/sawmill chains. Geometry, distance,
+cargo acceptance, route limits and failure cooldowns still apply. If no goods
+source is ready, normal supply-chain construction continues with bus cities
+preferred as its eventual destinations.
+
+Passenger stations serving a bus city also receive an early mail review. When
+both rail stations accept mail and mail demand exists, the optimiser can queue a
+dedicated mail train on the passenger tracks before its usual review date. It
+still checks fleet limits, congestion and existing mail service, and does not buy
+a duplicate mail train merely because a bus network was added. Priorities are
+rebuilt from saved bus networks when a game loads.
+
+Buses use existing streets; houses are not cleared and missing streets, bridges
+or tunnels are not constructed. Towns without four suitable connected sites or
+space for a connected depot are retried after 180 game days. Unfinished stops
+and depots are removed, including after loading a save, without removing the town
+streets beneath the stops. Bus networks are independent of the passenger rail
+`max_routes` setting.
+
+Every 90 game days the fleet review adds a bus when the total waiting passengers
+exceed fleet capacity, up to 12 buses per town. It restores missing vehicles to a
+minimum of two and replaces buses within 180 days of the end of their life,
+buying the replacement before sending the old vehicle to its depot for sale.
+Four consecutive reviews with low queues and a loss in the previous year's
+combined fleet profit trigger the sale of one surplus bus, retaining at least
+two. Normal orders include depot servicing when needed. Fleet state, pending
+sales and unfinished construction survive saving and loading; older saves begin
+with no bus networks.
+
+Run `python3 tests/buses.py` for two live-game map checks covering stop coverage
+and spacing, all-stop visits, passenger income, demand-driven fleet growth,
+vehicle recovery, retirement, age renewal, construction cleanup and persistence.
+`python3 tests/bus_rail_priority.py` checks rail destination priorities and bounded
+follow-ups; `python3 tests/mail.py --bus-city` checks early mail expansion.
+`python3 tests/rotation.py` checks fair construction turns, and
+`python3 tests/headless.py` checks the complete AI alongside its rail services.
 
 ## Git
 

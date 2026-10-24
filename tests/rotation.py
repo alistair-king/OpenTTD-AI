@@ -12,15 +12,15 @@ driver = r'''
 ::available <- true;
 function OpenTTDAI::TryConstructionKind(kind) {chosen.append(kind);return available;}
 function OpenTTDAI::Start() {
-    local expected=["coal","goods","farm","ore","farm","passengers","farm","wood","passengers",
-        "coal","goods","farm","ore","farm","passengers","farm","wood","passengers","oil"];
-    for(local i=0;i<57;i++) {
+    local expected=["coal","goods","farm","ore","farm","passengers","farm","wood","passengers","buses",
+        "coal","goods","farm","ore","farm","passengers","farm","wood","passengers","buses","oil"];
+    for(local i=0;i<63;i++) {
         this.TryBuildRoute();
-        if(chosen.top()!=expected[i%19]) throw "Priority starvation/incorrect weight";
+        if(chosen.top()!=expected[i%21]) throw "Priority starvation/incorrect weight";
         this.Load(1,this.Save()); // Cursor must survive reloading every turn.
     }
     available=false;chosen=[];this.TryBuildRoute();
-    if(chosen.len()!=7) throw "Unavailable categories retried within same turn";
+    if(chosen.len()!=8) throw "Unavailable categories retried within same turn";
     local unique={};foreach(k in chosen) {if(k in unique) throw "Duplicate attempt";unique[k] <- true;}
     local legacy=this.Save();delete legacy.construction_cursor;this.Load(1,legacy);
     if(this.construction_cursor!=0) throw "Old save migration failed";
